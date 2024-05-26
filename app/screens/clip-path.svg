@@ -1,7 +1,0 @@
-<svg height="0" width="0" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <clipPath id="clipPath">
-            <path d="M0,0 H1000 V500 Q500,1000 0,500 Z" />
-        </clipPath>
-    </defs>
-</svg>

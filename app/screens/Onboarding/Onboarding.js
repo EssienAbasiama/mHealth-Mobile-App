@@ -1,8 +1,8 @@
 import React from "react";
 import { SafeAreaView, StyleSheet } from "react-native";
-import CarouselCards from "./CarouselCards";
+import OnboardingCard from "./OnboardingCard";
 
 const Onboarding = () => {
-  return <CarouselCards />;
+  return <OnboardingCard />;
 };
 export default Onboarding;

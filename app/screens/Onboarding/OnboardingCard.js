@@ -1,16 +1,22 @@
 import React from "react";
 import { View, StyleSheet, Text, TouchableOpacity } from "react-native";
 import Carousel, { Pagination } from "react-native-snap-carousel";
-import CarouselCardItem, { SLIDER_WIDTH, ITEM_WIDTH } from "./CarouselCardItem";
-import data from "./data";
+import OnboardingCardItem, {
+  SLIDER_WIDTH,
+  ITEM_WIDTH,
+} from "./OnboardingCardItem";
+import { useNavigation } from "@react-navigation/native";
+import data from "../../storage/data";
 
-const CarouselCards = () => {
+const OnboardingCard = () => {
   const isCarousel = React.useRef(null);
   const [index, setIndex] = React.useState(0);
+  const navigation = useNavigation();
+
   const handlePress = () => {
-    // Handle button press action here
-    console.log("Button pressed!");
+    navigation.navigate("SignIn"); // Navigate to the next screen
   };
+
   return (
     <View style={styles.container}>
       <Carousel
@@ -18,7 +24,7 @@ const CarouselCards = () => {
         layoutCardOffset={9}
         ref={isCarousel}
         data={data}
-        renderItem={CarouselCardItem}
+        renderItem={OnboardingCardItem}
         sliderWidth={SLIDER_WIDTH}
         itemWidth={ITEM_WIDTH}
         inactiveSlideShift={0}
@@ -37,38 +43,45 @@ const CarouselCards = () => {
         </View>
       )}
       {index < data.length - 1 && (
-        <Pagination
-          dotsLength={data.length}
-          activeDotIndex={index}
-          carouselRef={isCarousel}
-          dotStyle={{
-            width: 10,
-            height: 10,
-            borderRadius: 50,
-            marginHorizontal: 0,
-            backgroundColor: "#2D2D5F",
-          }}
-          inactiveDotStyle={{
-            width: 10,
-            height: 10,
-            borderRadius: 50,
-            marginHorizontal: 0,
-            backgroundColor: "transparent",
-            borderColor: "#2D2D5F",
-            borderWidth: 2,
-          }}
-          inactiveDotOpacity={0.4}
-          inactiveDotScale={0.5}
-          tappableDots={true}
-        />
+        <View style={styles.paginationBackground}>
+          <Pagination
+            dotsLength={data.length}
+            activeDotIndex={index}
+            carouselRef={isCarousel}
+            dotStyle={{
+              width: 10,
+              height: 10,
+              borderRadius: 50,
+              marginHorizontal: 0,
+              backgroundColor: "#2D2D5F",
+            }}
+            inactiveDotStyle={{
+              width: 10,
+              height: 10,
+              borderRadius: 50,
+              marginHorizontal: 0,
+              backgroundColor: "transparent",
+              borderColor: "#2D2D5F",
+              borderWidth: 2,
+            }}
+            inactiveDotOpacity={0.4}
+            inactiveDotScale={0.5}
+            tappableDots={true}
+          />
+        </View>
       )}
     </View>
   );
 };
+
 const styles = StyleSheet.create({
+  paginationBackground: {
+    backgroundColor: "#FFFFFF",
+  },
   container: {
     flex: 1,
   },
+
   buttonClickMe: {
     width: "100%",
     height: 55,
@@ -77,11 +90,12 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
     borderRadius: 5,
     alignSelf: "center",
-    justifyContent: "center", // Center content vertically
+    justifyContent: "center",
     alignItems: "center",
     alignSelf: "center",
-    marginTop: 20, // Add top margin for spacing
+    marginTop: 20,
   },
+
   buttonSignIn: {
     width: "100%",
     height: 55,
@@ -89,7 +103,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
     borderRadius: 5,
     alignSelf: "center",
-    justifyContent: "center", // Center content vertically
+    justifyContent: "center",
     alignItems: "center",
     marginTop: 10,
     borderWidth: 2,
@@ -114,6 +128,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     flexDirection: "column",
+    backgroundColor: "#FFFFFF",
   },
 });
-export default CarouselCards;
+export default OnboardingCard;

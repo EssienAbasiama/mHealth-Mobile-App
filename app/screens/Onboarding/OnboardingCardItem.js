@@ -5,7 +5,7 @@ import { LinearGradient } from "expo-linear-gradient";
 export const SLIDER_WIDTH = Dimensions.get("window").width;
 export const ITEM_WIDTH = Dimensions.get("window").width;
 
-const CarouselCardItem = ({ item, index }) => {
+const OnboardingCardItem = ({ item, index }) => {
   return (
     <View style={styles.container} key={index}>
       <View style={styles.imageContainer}>
@@ -76,4 +76,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default CarouselCardItem;
+export default OnboardingCardItem;
