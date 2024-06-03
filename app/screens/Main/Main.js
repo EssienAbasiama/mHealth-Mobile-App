@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useRef } from "react";
+import React, { useState, useMemo, useRef, useCallback } from "react";
 import { useNavigation } from "@react-navigation/native";
 import {
   View,
@@ -13,7 +13,8 @@ import {
 } from "react-native";
 import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
 import { SafeAreaView } from "react-native-safe-area-context";
-import BottomSheet from "@gorhom/bottom-sheet";
+import BottomSheet, { BottomSheetBackdrop } from "@gorhom/bottom-sheet";
+import topics from "../../storage/topic";
 
 const screenWidth = Dimensions.get("window").width;
 const numColumns = 2;
@@ -23,17 +24,39 @@ const itemWidth =
   (screenWidth - containerPadding * 2 - itemSpacing * (numColumns - 1)) /
   numColumns;
 
-const Main = () => {
+export default function Main() {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
+  const [bottomSheetOpen, isOpen] = useState(false);
   const [email, setEmail] = useState("");
   const navigation = useNavigation();
-  const snapPoints = useMemo(() => ["25%", "50%", "70%", "87%"], []);
-  const bottomSheetRef = useRef < BottomSheet > null;
+  const snapPoints = useMemo(() => ["25%", "45%"], []);
+  const bottomSheetRef = useRef(null);
 
-  const handleClosePress = () => bottomSheetRef.current?.close();
-  const handleOpenPress = () => bottomSheetRef.current?.expand();
+  const handleClosePress = () => {
+    bottomSheetRef.current?.close();
+  };
+
+  const handleOpenPress = () => {
+    bottomSheetRef.current?.expand();
+  };
   const handlePress = () => {};
+
+  const renderBackdrop = useCallback(
+    (props) => (
+      <BottomSheetBackdrop
+        {...props}
+        appearsOnIndex={0}
+        disappearsOnIndex={-1}
+      />
+    ),
+    []
+  );
+
+  const handleTopicPress = (id) => {
+    navigation.navigate('TopicDetailScreen', { id }); 
+  };
+
   return (
     <ScrollView contentContainerStyle={styles.scrollContainer}>
       <SafeAreaView style={styles.container}>
@@ -187,24 +210,102 @@ const Main = () => {
             </TouchableOpacity>
           </View>
         </View>
+        <BottomSheet
+          index={0}
+          ref={bottomSheetRef}
+          snapPoints={snapPoints}
+          enablePanDownToClose={true}
+          backdropComponent={renderBackdrop}
+        >
+          <ScrollView contentContainerStyle={styles.bottomSheetScrollContainer}>
+            <View style={styles.bottomSheetContainer}>
+              <Text style={styles.bottonSheetTitle}>Explore Topics</Text>
+              <View style={styles.bottomSheetContentContainer}>
+                
+                {topics.map((topic) => (
+                  <TouchableOpacity key={topic.id} onPress={() => handleTopicPress(topic.id)}>
+                    <View style={styles.topicContainer}>
+                      <Text style={styles.topicTitle}>{topic.title}</Text>
+                      <Image
+                        source={require("../../assets/next.png")}
+                        style={{ height: 17, width: 17 }}
+                        resizeMode="cover"
+                      />
+                    </View>
+                  </TouchableOpacity>
+                ))}
+                {/* Close BTN */}
+                <TouchableOpacity
+                  style={styles.closeModalBtn}
+                  onPress={handleClosePress}
+                >
+                  <Text style={styles.buttonText}>Close</Text>
+                </TouchableOpacity>
+              </View>
+            </View>
+          </ScrollView>
+        </BottomSheet>
       </SafeAreaView>
-      <BottomSheet index={1} snapPoints={snapPoints}>
-        <ScrollView contentContainerStyle={styles.scrollContainer}>
-          <View style={styles.bottomSheetContainer}>
-            <Text>Explore Topics</Text>
-            <Button title="Open" onPress={handleOpenPress} />
-            <Button title="Close" onPress={handleClosePress} />
-          </View>
-        </ScrollView>
-      </BottomSheet>
     </ScrollView>
   );
-};
+}
 
 const styles = StyleSheet.create({
+  bottomSheetScrollContainer: {
+    flexGrow: 1,
+    paddingBottom: 20,
+  },
+  bottomSheetContentContainer: {
+    flex: 1,
+  },
+  buttonText: {
+    color: "white",
+    fontSize: 14,
+    textAlign: "center",
+  },
+  topicTitle: {
+    fontWeight: "400",
+    fontSize: 12,
+    color: "#1a1a1a",
+  },
+  topicContainer: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between",
+    padding: 15,
+    paddingTop: 20,
+    paddingBottom: 20,
+    marginBottom: 5,
+    backgroundColor: "#efefef",
+    borderBottomWidth: 1,
+    borderBottomColor: "white",
+    borderTopWidth: 1,
+    borderTopColor: "white",
+    borderRadius: 10,
+  },
+  bottonSheetTitle: {
+    fontWeight: "500",
+    fontSize: 17,
+    marginBottom: 15,
+  },
+  closeModalBtn: {
+    width: "100%",
+    height: 55,
+    backgroundColor: "#2D2D5F",
+    paddingVertical: 10,
+    paddingHorizontal: 20,
+    borderRadius: 5,
+    alignSelf: "center",
+    justifyContent: "center",
+    alignItems: "center",
+    alignSelf: "center",
+    marginTop: 10,
+  },
   bottomSheetContainer: {
     paddingRight: 20,
     paddingLeft: 20,
+    flex: 1,
+    flexGrow: 1,
   },
   flexContainer: {
     flexDirection: "row",
@@ -223,6 +324,7 @@ const styles = StyleSheet.create({
   },
   scrollContainer: {
     paddingVertical: 10,
+    flexGrow: 1,
   },
   topics: {
     flexDirection: "row",
@@ -338,5 +440,3 @@ const styles = StyleSheet.create({
     lineHeight: 23.46,
   },
 });
-
-export default Main;

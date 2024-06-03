@@ -6,6 +6,7 @@ import Onboarding from "./app/screens/Onboarding/Onboarding";
 import SignIn from "./app/screens/Auth/SignIn";
 import SignUp from "./app/screens/Auth/SignUp";
 import Main from "./app/screens/Main/Main";
+import TopicDetails from "./app/screens/TopicDetails/TopicDetails";
 
 const Stack = createStackNavigator();
 
@@ -29,6 +30,7 @@ export default function App() {
             <Stack.Screen name="SignIn" component={SignIn} />
             <Stack.Screen name="SignUp" component={SignUp} />
             <Stack.Screen name="Home" component={Main} />
+            <Stack.Screen name="TopicDetailScreen" component={TopicDetails} />
           </>
         )}
       </Stack.Navigator>

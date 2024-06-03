@@ -1,4 +1,4 @@
-const data = [
+const intro = [
   {
     title: "Let's Go",
     body: "The best gifts are freely given. Prepare a birth plan and ensure you have all necessary items and support in place for a safe delivery.",
@@ -19,4 +19,4 @@ const data = [
   },
 ];
 
-export default data;
+export default intro;

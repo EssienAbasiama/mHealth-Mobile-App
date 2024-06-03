@@ -6,7 +6,7 @@ import OnboardingCardItem, {
   ITEM_WIDTH,
 } from "./OnboardingCardItem";
 import { useNavigation } from "@react-navigation/native";
-import data from "../../storage/data";
+import intro from "../../storage/intro";
 
 const OnboardingCard = () => {
   const isCarousel = React.useRef(null);
@@ -23,7 +23,7 @@ const OnboardingCard = () => {
         layout="default"
         layoutCardOffset={9}
         ref={isCarousel}
-        data={data}
+        data={intro}
         renderItem={OnboardingCardItem}
         sliderWidth={SLIDER_WIDTH}
         itemWidth={ITEM_WIDTH}
@@ -32,7 +32,7 @@ const OnboardingCard = () => {
         useScrollView={true}
       />
 
-      {index >= data.length - 1 && (
+      {index >= intro.length - 1 && (
         <View style={styles.buttonContainer}>
           <TouchableOpacity onPress={handlePress} style={styles.buttonClickMe}>
             <Text style={styles.buttonText}>Get Started</Text>
@@ -42,10 +42,10 @@ const OnboardingCard = () => {
           </TouchableOpacity>
         </View>
       )}
-      {index < data.length - 1 && (
+      {index < intro.length - 1 && (
         <View style={styles.paginationBackground}>
           <Pagination
-            dotsLength={data.length}
+            dotsLength={intro.length}
             activeDotIndex={index}
             carouselRef={isCarousel}
             dotStyle={{
