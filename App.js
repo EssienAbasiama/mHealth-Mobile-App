@@ -7,6 +7,9 @@ import SignIn from "./app/screens/Auth/SignIn";
 import SignUp from "./app/screens/Auth/SignUp";
 import Main from "./app/screens/Main/Main";
 import TopicDetails from "./app/screens/TopicDetails/TopicDetails";
+import SubTopic from "./app/screens/SubTopic/SubTopic";
+import MainTopicDetail from "./app/screens/TopicDetails/MainTopicDetail";
+import MainTopicSubTopic from "./app/screens/SubTopic/MainTopicSubTopic";
 
 const Stack = createStackNavigator();
 
@@ -31,6 +34,15 @@ export default function App() {
             <Stack.Screen name="SignUp" component={SignUp} />
             <Stack.Screen name="Home" component={Main} />
             <Stack.Screen name="TopicDetailScreen" component={TopicDetails} />
+            <Stack.Screen name="SubTopicScreen" component={SubTopic} />
+            <Stack.Screen
+              name="SubMainTopicScreen"
+              component={MainTopicSubTopic}
+            />
+            <Stack.Screen
+              name="MainTopicDetailScreen"
+              component={MainTopicDetail}
+            />
           </>
         )}
       </Stack.Navigator>

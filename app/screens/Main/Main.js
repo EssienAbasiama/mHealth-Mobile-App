@@ -15,6 +15,7 @@ import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
 import { SafeAreaView } from "react-native-safe-area-context";
 import BottomSheet, { BottomSheetBackdrop } from "@gorhom/bottom-sheet";
 import topics from "../../storage/topic";
+import mainTopics from "../../storage/MainTopic";
 
 const screenWidth = Dimensions.get("window").width;
 const numColumns = 2;
@@ -53,8 +54,8 @@ export default function Main() {
     []
   );
 
-  const handleTopicPress = (id) => {
-    navigation.navigate('TopicDetailScreen', { id }); 
+  const handleMainPress = (id) => {
+    navigation.navigate("MainTopicDetailScreen", { id });
   };
 
   return (
@@ -118,96 +119,24 @@ export default function Main() {
             </TouchableOpacity>
           </View>
           <View style={styles.topics}>
-            <TouchableOpacity>
-              <View style={styles.topicContent}>
-                <View style={styles.imageContentContainer}>
-                  <Image
-                    style={styles.imageContent}
-                    source={{
-                      uri: "https://img.freepik.com/free-photo/medium-shot-happy-parents-be_23-2151446095.jpg?t=st=1716893006~exp=1716896606~hmac=b7b5cf53c7adf68cf21bece8021635c06100b232177d1c22532384ec204041ef&w=740",
-                    }}
-                  />
+            {mainTopics.map((topic) => (
+              <TouchableOpacity
+                key={topic.id}
+                onPress={() => handleMainPress(topic.id)}
+              >
+                <View style={styles.topicContent}>
+                  <View style={styles.imageContentContainer}>
+                    <Image
+                      style={styles.imageContent}
+                      source={{ uri: topic.topic_img }}
+                    />
+                  </View>
+                  <View style={styles.contentTextContainer}>
+                    <Text style={styles.contentText}>{topic.title}</Text>
+                  </View>
                 </View>
-                <View style={styles.contentTextContainer}>
-                  <Text style={styles.contentText}>Pregnancy</Text>
-                </View>
-              </View>
-            </TouchableOpacity>
-            <TouchableOpacity>
-              <View style={styles.topicContent}>
-                <View style={styles.imageContentContainer}>
-                  <Image
-                    style={styles.imageContent}
-                    source={{
-                      uri: "https://img.freepik.com/free-photo/portrait-mother-with-newborn-baby_23-2151055033.jpg?t=st=1716893171~exp=1716896771~hmac=20352121ae714f785024ac29dfb85ff7b060ede9697444d58f191d92134ab5a6&w=826",
-                    }}
-                  />
-                </View>
-                <View style={styles.contentTextContainer}>
-                  <Text style={styles.contentText}>Birth</Text>
-                </View>
-              </View>
-            </TouchableOpacity>
-            <TouchableOpacity>
-              <View style={styles.topicContent}>
-                <View style={styles.imageContentContainer}>
-                  <Image
-                    style={styles.imageContent}
-                    source={{
-                      uri: "https://img.freepik.com/free-photo/portrait-mother-with-newborn-baby_23-2151055102.jpg?t=st=1716893264~exp=1716896864~hmac=032ebce4a7d2f0706ab78031a75764e0b6eecca2cd4b5e4e041b9cb5fbe3b947&w=740",
-                    }}
-                  />
-                </View>
-                <View style={styles.contentTextContainer}>
-                  <Text style={styles.contentText}>After Birth</Text>
-                </View>
-              </View>
-            </TouchableOpacity>
-            <TouchableOpacity>
-              <View style={styles.topicContent}>
-                <View style={styles.imageContentContainer}>
-                  <Image
-                    style={styles.imageContent}
-                    source={{
-                      uri: "https://img.freepik.com/free-photo/black-pregnant-women-posing_23-2151446148.jpg?t=st=1716894103~exp=1716897703~hmac=8e7ee396bb40d9e89d0f0523e4eb3d4933eb4b552f0bfc1ce9ca8bee6cbe2c98&w=996",
-                    }}
-                  />
-                </View>
-                <View style={styles.contentTextContainer}>
-                  <Text style={styles.contentText}>Labour</Text>
-                </View>
-              </View>
-            </TouchableOpacity>
-            <TouchableOpacity>
-              <View style={styles.topicContent}>
-                <View style={styles.imageContentContainer}>
-                  <Image
-                    style={styles.imageContent}
-                    source={{
-                      uri: "https://img.freepik.com/premium-photo/woman-is-shown-with-blood-dripping-her-hands-this-image-can-be-used-depict-crime-horror-mystery-scene-from-thriller_153912-226779.jpg?w=360",
-                    }}
-                  />
-                </View>
-                <View style={styles.contentTextContainer}>
-                  <Text style={styles.contentText}>Postpartum bleeding</Text>
-                </View>
-              </View>
-            </TouchableOpacity>
-            <TouchableOpacity>
-              <View style={styles.topicContent}>
-                <View style={styles.imageContentContainer}>
-                  <Image
-                    style={styles.imageContent}
-                    source={{
-                      uri: "https://img.freepik.com/free-photo/african-american-woman-with-braids-standing-pink-background-disgusted-expression-displeased-fearful-doing-disgust-face-because-aversion-reaction_839833-2208.jpg?t=st=1716894569~exp=1716898169~hmac=d2e999f47519d91d6af488c13f5705194fe8c82e651327189babc21f0a5c934e&w=826",
-                    }}
-                  />
-                </View>
-                <View style={styles.contentTextContainer}>
-                  <Text style={styles.contentText}>Bacterial Vaginosis</Text>
-                </View>
-              </View>
-            </TouchableOpacity>
+              </TouchableOpacity>
+            ))}
           </View>
         </View>
         <BottomSheet
@@ -221,9 +150,11 @@ export default function Main() {
             <View style={styles.bottomSheetContainer}>
               <Text style={styles.bottonSheetTitle}>Explore Topics</Text>
               <View style={styles.bottomSheetContentContainer}>
-                
                 {topics.map((topic) => (
-                  <TouchableOpacity key={topic.id} onPress={() => handleTopicPress(topic.id)}>
+                  <TouchableOpacity
+                    key={topic.id}
+                    onPress={() => handleTopicPress(topic.id)}
+                  >
                     <View style={styles.topicContainer}>
                       <Text style={styles.topicTitle}>{topic.title}</Text>
                       <Image

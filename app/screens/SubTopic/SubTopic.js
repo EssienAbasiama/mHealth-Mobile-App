@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { useRoute } from "@react-navigation/native";
 import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
 import { LinearGradient } from "expo-linear-gradient";
-import { useNavigation } from "@react-navigation/native";
 import {
   View,
   Text,
@@ -16,19 +15,19 @@ import {
 } from "react-native";
 import topics from "../../storage/topic";
 
-function TopicDetails() {
+function SubTopic() {
   const [topic, setTopic] = useState(null);
   const route = useRoute();
   const { id } = route.params;
-  const navigation = useNavigation();
+  console.log(id);
   useEffect(() => {
-    const selectedTopic = topics.find((topic) => topic.id === id);
+    const selectedTopic = topics
+      .flatMap((topic) => topic.content.subtopics)
+      .find((subtopic) => subtopic.id === id);
+
+    console.log(selectedTopic);
     setTopic(selectedTopic);
   }, [id]);
-
-  const handleTopicPress = (id) => {
-    navigation.navigate("SubTopicScreen", { id });
-  };
 
   if (!topic) {
     return (
@@ -54,39 +53,10 @@ function TopicDetails() {
         </View>
 
         <Text style={styles.header}>{topic.title}</Text>
-        <Text style={styles.intro}>{topic.content.intro}</Text>
+        <Text style={styles.intro}>{topic.description}</Text>
         <View style={styles.containerDetails}>
-          {topic.content.details &&
-            topic.content.details.length > 0 &&
-            topic.content.details.map((detail, index) => (
-              <Text key={index} style={styles.body}>
-                {detail}
-              </Text>
-            ))}
+          <Text style={styles.body}>{topic.content}</Text>
         </View>
-
-        {/* Explore More Topics */}
-
-        {topic.content.subtopics && topic.content.subtopics.length > 0 && (
-          <View style={styles.subtopicsContainerr}>
-            <Text style={styles.bottonSheetTitle}>Read More</Text>
-            {topic.content.subtopics.map((subtopic) => (
-              <TouchableOpacity
-                key={subtopic.id}
-                onPress={() => handleTopicPress(subtopic.id)}
-              >
-                <View style={styles.subtopicsContainer}>
-                  <Text style={styles.topicTitle}>{subtopic.title}</Text>
-                  <Image
-                    source={require("../../assets/next.png")}
-                    style={{ height: 17, width: 17 }}
-                    resizeMode="cover"
-                  />
-                </View>
-              </TouchableOpacity>
-            ))}
-          </View>
-        )}
       </View>
     </ScrollView>
   );
@@ -187,4 +157,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default TopicDetails;
+export default SubTopic;

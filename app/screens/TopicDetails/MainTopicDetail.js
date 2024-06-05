@@ -14,20 +14,20 @@ import {
   Dimensions,
   Button,
 } from "react-native";
-import topics from "../../storage/topic";
+import mainTopics from "../../storage/MainTopic";
 
-function TopicDetails() {
+function MainTopicDetail() {
   const [topic, setTopic] = useState(null);
   const route = useRoute();
   const { id } = route.params;
   const navigation = useNavigation();
   useEffect(() => {
-    const selectedTopic = topics.find((topic) => topic.id === id);
+    const selectedTopic = mainTopics.find((topic) => topic.id === id);
     setTopic(selectedTopic);
   }, [id]);
 
   const handleTopicPress = (id) => {
-    navigation.navigate("SubTopicScreen", { id });
+    navigation.navigate("SubMainTopicScreen", { id });
   };
 
   if (!topic) {
@@ -187,4 +187,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default TopicDetails;
+export default MainTopicDetail;
