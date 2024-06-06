@@ -1,0 +1,119 @@
+{
+  "welcome": "Sannu Ayo 👋",
+  "subText": "Me kake karantawa a yau?",
+  "searchPlaceholder": "Nema",
+  "exploreTopics": "Bincika Batutuwa",
+  "closeButton": "Rufe",
+  "changeLanguage": "Sauya Harshe",
+  "mainTopics": [
+    {
+      "id": 1,
+      "title": "Ciki",
+      "topic_img": "https://img.freepik.com/free-photo/medium-shot-happy-parents-be_23-2151446095.jpg?t=st=1716893006~exp=1716896606~hmac=b7b5cf53c7adf68cf21bece8021635c06100b232177d1c22532384ec204041ef&w=740",
+      "description": "Gano hanya ta ciki, daga haihuwa zuwa haihuwar jarirai.",
+      "content": {
+        "intro": "Ciki wani babban tafiya ne wanda ke kunshe da canje-canje da yawa na jiki da na zuciya. Wannan lokaci yana haifar da samun juna biyu da ci gaban jarirai a cikin mahaifar uwa.",
+        "details": [
+          "Ciki ya kasu kashi uku, kowanne daga cikin su yana da nasa canje-canje da matsaloli na musamman.",
+          "Ziyarar lafiyar kai tsaye suna da mahimmanci don tabbatar da lafiya mai kyau. Wannan ya hada da ziyarar likita, gwaje-gwaje na yau da kullun da kuma hanyoyin kare kai daga cututtuka.",
+          "A cikin kashi na farko, mata da yawa suna fuskantar jin dadi da ra'ayin ciki. Dole ne a kula da abinci mai gina jiki da kuma jin dadi a wannan lokaci.",
+          "A cikin kashi na biyu, mata da yawa suna fara samun jin motsin jariri a cikin ciki. A wannan lokaci, ya kamata a gudanar da gwaje-gwaje don tabbatar da lafiya da kuma lafiyar jariri.",
+          "A cikin kashi na uku, jariri yana girma sosai kuma uwa na iya fuskantar rashin jin dadi saboda nauyin ciki. Kula da cin abinci, shakatawa da kuma motsa jiki na iya taimakawa wajen rage matsaloli.",
+          "Ciki yana tasiri akan tunani. Cutar damuwa da canje-canje na jiki suna iya haifar da damuwa, kuma yana da mahimmanci kada a yi watsi da wannan. Shawarar likita ko kwararru na iya taimakawa wajen magance damuwa.",
+          "Uwar mai ciki tana bukatar taimako daban-daban yayin tafiya ta cikin ciki. Shawara daga dangi da abokai suna iya zama taimako wajen gudanar da wannan lokaci."
+        ],
+        "subtopics": [
+          {
+            "id": 1,
+            "title": "Abinci Mai Gina Jiki a Ciki",
+            "topic_img": "https://img.freepik.com/free-photo/healthy-pregnancy-food_53876-74335.jpg",
+            "description": "Cin abinci mai gina jiki domin lafiya da jariri.",
+            "content": "Cin abinci mai kyau yana da matukar muhimmanci wajen tabbatar da lafiyar uwa da kuma ci gaban jariri. Ana ba da shawarar cin kayan lambu, 'ya'yan itatuwa, hatsi da nama mai kyau. Ya kamata a guje wa abinci mai yawan sukari da mai. Cin abinci mai kyau zai taimaka wajen rage jin yunwa da kuma kula da lafiyar jiki da na jariri."
+          },
+          {
+            "id": 2,
+            "title": "Hanyoyin Lafiya da Shakatawa",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-doing-yoga-exercise_53876-138232.jpg",
+            "description": "Shirya wa tafiya cikin ciki da kula da lafiya.",
+            "content": "Hanyoyin shakatawa suna taimakawa wajen rage damuwa da kuma jin dadi yayin ciki. Yin motsa jiki na laushi kamar yoga na cikin ciki na iya taimakawa wajen rage ciwo da damuwa. Ya kamata a guje wa motsa jiki mai tsauri da kuma gudanar da motsa jiki a hankali. Ana ba da shawarar cewa mata su gudanar da ayyukan da suke jin dadi da kuma rage damuwa."
+          },
+          {
+            "id": 3,
+            "title": "Canje-canje na Jiki da Zuciya",
+            "topic_img": "https://img.freepik.com/free-photo/happy-pregnant-woman-touching-belly-home_53876-129584.jpg",
+            "description": "Kula da tunani da lafiyar zuciya a cikin ciki.",
+            "content": "Ciki yana kawo canje-canje da yawa a jiki da kuma tunani. Mata suna iya jin damuwa, damuwa da kuma canje-canje na zuciya. Yana da mahimmanci a samu goyon bayan iyali da abokai. Yin tafiya, sauraron waƙoƙi da kuma yin magana da abokai suna iya taimakawa wajen rage damuwa. Shawarar likita kuma na iya zama taimako wajen gudanar da damuwa da canje-canje na jiki."
+          },
+          {
+            "id": 4,
+            "title": "Kulawar Lafiya Mai Kyau",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-checking-her-belly_53876-14438.jpg",
+            "description": "Mahimmancin kula da lafiya da gudanar da gwaje-gwaje.",
+            "content": "Kulawar lafiya mai kyau yana taimakawa wajen tabbatar da lafiyar uwa da kuma jariri. Ziyarar kai tsaye zuwa asibiti, gwaje-gwaje na yau da kullun da kuma shawarwarin likita suna da muhimmanci. Yana da mahimmanci a kula da abubuwan da suke da alaka da lafiyar ciki kamar yadda likitoci suka bayar da shawara. Yin la'akari da kowane irin matsalolin lafiya da kuma shan magani idan ya zama dole."
+          },
+          {
+            "id": 5,
+            "title": "Shirye-shiryen Haihuwa",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-holding-her-belly-while-sitting_53876-146510.jpg",
+            "description": "Shirye-shirye domin tafiya cikin ciki da haihuwa.",
+            "content": "Shirya wa haihuwa yana bukatar lokaci da kuma shiri mai kyau. Yana da mahimmanci a gudanar da shawarwari tare da likita da kuma kula da abubuwan da suke da alaka da lafiyar uwa da jariri. Shirya wa abubuwan da ke zuwa bayan haihuwa kuma yana da mahimmanci. Ya kamata uwa ta yi la'akari da yadda za ta kula da jariri da kuma abubuwan da ke da alaka da kula da jariri bayan haihuwa."
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Geburt",
+      "topic_img": "https://img.freepik.com/free-photo/portrait-mother-with-newborn-baby_23-2151055033.jpg?t=st=1716893171~exp=1716896771~hmac=20352121ae714f785024ac29dfb85ff7b060ede9697444d58f191d92134ab5a6&w=826",
+      "description": "Bayanin yadda ake yin gyara, matsayin jiki, da kuma ake kira a kan kafin an kira.",
+      "content": {
+        "intro": "Geburt (Gyara) yana da kwarewar da ake ciki a matsayin yadda wani jiki ya shigo daga kanawar yarinya zuwa wadatake. Wannan shine mafita da ke fuskantar jiki ta tarihi.",
+        "details": [
+          "Akarsu ya watsar da uku: akarsa ya canza, akarsa a kan-wani-kan, da kuma yin yin baki na abinci mai suna. Sakamakon kwarewar kowace lokacin ya samar da ayyukan mai tsanani da tsanani.",
+          "Akarsa ya samu akwatin cikin wani-kan kuma yanayin shigarwa na jikin yarinya ya watsar da jiki cikin cikin kana. Wannan lokaci za a iya yin matsala don ya samar da akarsa.",
+          "Lokaci na biyu na kwarewar ita na tayar da jiki na yarinya ya kasance mata da jiki na kuma. Kamar wani hanyar da ake zura ko a amfani da yunwa ko fada ne, idan kuma ake iya samun magungunan kwayar jiki.",
+          "Gwargwado na biyu na kwarewar ita na dawo da matsayin kwayar jiki a kan kafin ya dawo. Kamar yadda mai magana mai ban dariya ya ba mu damar kwararrewa a cikin lokaci na dawo. Saurari wani layin da za'a iya yin magunguna don yin baki.",
+          "Akarsu na uku na kwarewar ita na tafiyar da kwayar jiki. Wannan ita ce ake ba da za a kasance kusa da 30 munit. Za a buɗe da mata da jiki ne su na iya yin hakan.",
+          "Hadin kai bayan gobe da wuri da ke karewa daga daidai da matsayin ƙaramin matsala ko ƙwaƙwalwar kwayar jiki da yake. Saboda haka, za a yi mai magana da kwayar jiki da zamantakewar abin mamaki."
+        ],
+        "subtopics": [
+          {
+            "id": 6,
+            "title": "Abubuwan da ke faruwa a lokacin gyara",
+            "topic_img": "https://img.freepik.com/free-photo/doctor-explaining-pregnancy-check-up-report-while-consulting-young-expectant-woman_1262-16689.jpg",
+            "description": "Yadda ake fahimtar abubuwan da ke faruwa a lokacin gyara da kuma abinda ake ganin da za a samu.",
+            "content": "Gyara ta yi uku kamar yadda kwarewarta ta ci gaba da gudanar da ita ta ke gudana. Gyaran kyakkyawan lokaci ne ya sabunta da lokaci ko kuma kwana biyu ko kuma gaba. Mafi girma shine guraren sha'awar kyakkyawa, yanayin fushi, da kuma jinyar da kuma ɗanɗanatu na kafa. Koyaushe za a iya nuna taimako da al'amura na mai yiwuwa da kuma sadarwar matsalar jiki ta gyara. Gyaran hali mai sanyi tsakanin lokaci ne ya hanyar samun abinci."
+          },
+          {
+            "id": 7,
+            "title": "Hanyar hadin kai da dafe",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-having-regular-checkup-with-doctor_23-2148379329.jpg",
+            "description": "Abubuwan da za a iya yin don kafa kwararri a lokacin gyara da dafe.",
+            "content": "Hanyar hadin kai da dafe zai iya dogara a yau da kullum. Hanyar dafe na farko shine gyaran farashin jiki mai ban dariya da kwakwalwata da kayan jini, wanda ya taimaka ga gyara ta bayyana. Hanyar hadin kai na biyu ya hada da matsaloli na gurbata masu kwakwalwata, wanda za a iya amfani da wani bayyana ko an kuma ba da dariya. Mai magana mai ban dariya yana da iko ga gyara kuma ya kare."
+          },
+          {
+            "id": 8,
+            "title": "Hanyoyi na kwarewar jiki",
+            "topic_img": "https://img.freepik.com/free-photo/midsection-pregnant-woman-having-regular-checkup-with-doctor_23-2148379332.jpg",
+            "description": "Abubuwan da za a iya yin don tsaye cikin lokaci na gyara.",
+            "content": "Hanyoyi na kwarewar jiki an iya ba mu damar kwarewarta ta farko, da ke biye, da kyau a lokacin gyara. A iya samun wata matsakaici da ke zura, wani matsalar da ke zaɓi, ko wani ya ɗauka ya samu. Kowane matsalar na da alhakin jin dadin baki na kansu ya iya amfani da ita a hankali."
+          },
+          {
+            "id": 9,
+            "title": "Bincike bayan gyara",
+            "topic_img": "https://img.freepik.com/free-photo/mother-baby-playing-bed_1157-19360.jpg",
+            "description": "Karin tabbatarwa ga kai da yarinya bayan gyara.",
+            "content": "Bincike bayan gyara na yawan ci gaba ga yarinya da kuma wani ya iya tunani. Gyaran kwana na farko zai dakatar da yanayin jikin yarinya, wanda zai taimaka ta har zuwa yana jiran rashin kwana na yarinya. Tunanin juna da hadaka bayan gyara an kuma yaki masa zaɓi da wasaɗi don a rinka gyaran gyaran ƙanwarsa."
+          },
+          {
+            "id": 10,
+            "title": "Cesarean Section",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-showing-ultrasound-scan-doctor_23-2148888593.jpg",
+            "description": "Fahimtar dan yatsun gyara da yadda ake ɗauka a lokacin gyara.",
+            "content": "Cesarean Section (C-section) shine wani abu mai yawa na gyara mai yawa da ake ɗauka. Yana da ɗabi'ar mamaki da aka samu da kyawawan matsalar a matsayin gyaran yarinya a matsayin gyaran yarinya. A matsayin C-section an iya gyara kyauta idan wani matsaloli ya tsinci, ko wani matsalar nasaɗiɗi ne don yarinya. Gyaran yadda ake ɗauka zai ɗauki kowace rufe ko musamman alakantar tsinci. Bayan gyara za a tabbatar da yadda ake ɗauka na aikin tattalin arziki da gyara na farko na gyara."
+          }
+        ]
+      }
+    }
+  ]
+}

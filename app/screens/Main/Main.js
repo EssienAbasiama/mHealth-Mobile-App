@@ -1,4 +1,10 @@
-import React, { useState, useMemo, useRef, useCallback } from "react";
+import React, {
+  useState,
+  useMemo,
+  useRef,
+  useCallback,
+  useEffect,
+} from "react";
 import { useNavigation } from "@react-navigation/native";
 import {
   View,
@@ -10,12 +16,18 @@ import {
   ScrollView,
   Dimensions,
   Button,
+  FlatList,
 } from "react-native";
 import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
 import { SafeAreaView } from "react-native-safe-area-context";
 import BottomSheet, { BottomSheetBackdrop } from "@gorhom/bottom-sheet";
 import topics from "../../storage/topic";
 import mainTopics from "../../storage/MainTopic";
+// import { languageResources } from "../../../services/i18next";
+// import languagesList from "./../../../services/languagesList.json";
+import RadioButton from "../../assets/components/RadioButton";
+import PropTypes from "prop-types";
+import { useTranslation } from "react-i18next";
 
 const screenWidth = Dimensions.get("window").width;
 const numColumns = 2;
@@ -25,21 +37,47 @@ const itemWidth =
   (screenWidth - containerPadding * 2 - itemSpacing * (numColumns - 1)) /
   numColumns;
 
-export default function Main() {
+const Main = ({
+  languageResources = {},
+  languagesList = {},
+  changeLng = () => {},
+}) => {
+  // const mainTopics = t("mainTopics");
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [bottomSheetOpen, isOpen] = useState(false);
   const [email, setEmail] = useState("");
+  const [selectedLanguage, setSelectedLanguage] = useState("en");
+
   const navigation = useNavigation();
   const snapPoints = useMemo(() => ["25%", "45%"], []);
+  const languageSnapPoints = useMemo(() => ["25%", "50%"], []);
   const bottomSheetRef = useRef(null);
+  const bottomSheetSettingRef = useRef(null);
+  const { t } = useTranslation();
+  // const mainTopics = t("mainTopics");
+  useEffect(() => {
+    console.log("TokicsArray", t("mainTopics").toString());
+  }, []);
+
+  const handleLanguageSelect = (item) => {
+    setSelectedLanguage(item);
+    changeLng(item);
+    console.log("SelectedLanguage", selectedLanguage);
+  };
 
   const handleClosePress = () => {
     bottomSheetRef.current?.close();
   };
+  const handleCloseClosePress = () => {
+    bottomSheetSettingRef.current?.close();
+  };
 
   const handleOpenPress = () => {
     bottomSheetRef.current?.expand();
+  };
+  const handleOpenSettingPress = () => {
+    bottomSheetSettingRef.current?.expand();
   };
   const handlePress = () => {};
 
@@ -59,127 +97,170 @@ export default function Main() {
   };
 
   return (
-    <ScrollView contentContainerStyle={styles.scrollContainer}>
-      <SafeAreaView style={styles.container}>
-        <View>
-          <View style={styles.header}>
-            <View>
-              <Text style={styles.welcome}>Hi Ayo 👋 </Text>
-              <Text style={styles.subText}>
-                What are you reading about today?
-              </Text>
-            </View>
-            <View style={styles.flexContainer}>
-              <TouchableOpacity onPress={handlePress}>
-                <View style={styles.notificationContainer}>
-                  <Image
-                    source={require("../../assets/bell.png")}
-                    // style={styles.image}s
-                    style={{ height: 17, width: 17 }}
-                    resizeMode="cover"
-                  />
-                  <View style={styles.notificationTextContainer}>
-                    <Text style={styles.notificationText}>2</Text>
-                  </View>
-                </View>
-              </TouchableOpacity>
-              <TouchableOpacity onPress={handleOpenPress}>
-                <View style={styles.notificationContainer}>
-                  <Image
-                    source={require("../../assets/menu.png")}
-                    style={{ height: 17, width: 17 }}
-                    resizeMode="cover"
-                  />
-                </View>
-              </TouchableOpacity>
-            </View>
-          </View>
-          <View style={styles.searchSection}>
-            <View style={styles.searchContainer}>
-              <Image
-                source={require("../../assets/ep_search.png")}
-                style={styles.searchIcon}
-                resizeMode="cover"
-              />
-              <TextInput
-                placeholder="Search"
-                selectionColor="#2D2D5F"
-                onChangeText={(text) => setUsername(text)}
-                style={styles.textSearchInput}
-              />
-            </View>
-            <TouchableOpacity onPress={handlePress}>
-              <View style={styles.filterContainer}>
-                <Image
-                  source={require("../../assets/filter.png")}
-                  style={styles.image}
-                  resizeMode="cover"
-                />
+    <>
+      <ScrollView contentContainerStyle={styles.scrollContainer}>
+        <SafeAreaView style={styles.container}>
+          <View>
+            <View style={styles.header}>
+              <View>
+                <Text style={styles.welcome}>{t("welcome")} </Text>
+                <Text style={styles.subText}>{t("subText")}</Text>
               </View>
-            </TouchableOpacity>
-          </View>
-          <View style={styles.topics}>
-            {mainTopics.map((topic) => (
-              <TouchableOpacity
-                key={topic.id}
-                onPress={() => handleMainPress(topic.id)}
-              >
-                <View style={styles.topicContent}>
-                  <View style={styles.imageContentContainer}>
+              <View style={styles.flexContainer}>
+                <TouchableOpacity onPress={handleOpenSettingPress}>
+                  <View style={styles.notificationContainer}>
                     <Image
-                      style={styles.imageContent}
-                      source={{ uri: topic.topic_img }}
+                      source={require("../../assets/settings.png")}
+                      // style={styles.image}s
+                      style={{ height: 18, width: 18 }}
+                      resizeMode="cover"
+                    />
+                    <View style={styles.notificationTextContainer}>
+                      <Text style={styles.notificationText}>2</Text>
+                    </View>
+                  </View>
+                </TouchableOpacity>
+                <TouchableOpacity onPress={handleOpenPress}>
+                  <View style={styles.notificationContainer}>
+                    <Image
+                      source={require("../../assets/menu.png")}
+                      style={{ height: 17, width: 17 }}
+                      resizeMode="cover"
                     />
                   </View>
-                  <View style={styles.contentTextContainer}>
-                    <Text style={styles.contentText}>{topic.title}</Text>
-                  </View>
-                </View>
-              </TouchableOpacity>
-            ))}
-          </View>
-        </View>
-        <BottomSheet
-          index={0}
-          ref={bottomSheetRef}
-          snapPoints={snapPoints}
-          enablePanDownToClose={true}
-          backdropComponent={renderBackdrop}
-        >
-          <ScrollView contentContainerStyle={styles.bottomSheetScrollContainer}>
-            <View style={styles.bottomSheetContainer}>
-              <Text style={styles.bottonSheetTitle}>Explore Topics</Text>
-              <View style={styles.bottomSheetContentContainer}>
-                {topics.map((topic) => (
-                  <TouchableOpacity
-                    key={topic.id}
-                    onPress={() => handleTopicPress(topic.id)}
-                  >
-                    <View style={styles.topicContainer}>
-                      <Text style={styles.topicTitle}>{topic.title}</Text>
-                      <Image
-                        source={require("../../assets/next.png")}
-                        style={{ height: 17, width: 17 }}
-                        resizeMode="cover"
-                      />
-                    </View>
-                  </TouchableOpacity>
-                ))}
-                {/* Close BTN */}
-                <TouchableOpacity
-                  style={styles.closeModalBtn}
-                  onPress={handleClosePress}
-                >
-                  <Text style={styles.buttonText}>Close</Text>
                 </TouchableOpacity>
               </View>
             </View>
-          </ScrollView>
-        </BottomSheet>
-      </SafeAreaView>
-    </ScrollView>
+            <View style={styles.searchSection}>
+              <View style={styles.searchContainer}>
+                <Image
+                  source={require("../../assets/ep_search.png")}
+                  style={styles.searchIcon}
+                  resizeMode="cover"
+                />
+                <TextInput
+                  placeholder={t("searchPlaceholder")}
+                  selectionColor="#2D2D5F"
+                  onChangeText={(text) => setUsername(text)}
+                  style={styles.textSearchInput}
+                />
+              </View>
+              <TouchableOpacity onPress={handlePress}>
+                <View style={styles.filterContainer}>
+                  <Image
+                    source={require("../../assets/filter.png")}
+                    style={styles.image}
+                    resizeMode="cover"
+                  />
+                </View>
+              </TouchableOpacity>
+            </View>
+            <View style={styles.topics}>
+              {mainTopics.map((topic) => (
+                <TouchableOpacity
+                  key={topic.id}
+                  onPress={() => handleMainPress(topic.id)}
+                >
+                  <View style={styles.topicContent}>
+                    <View style={styles.imageContentContainer}>
+                      <Image
+                        style={styles.imageContent}
+                        source={{ uri: topic.topic_img }}
+                      />
+                    </View>
+                    <View style={styles.contentTextContainer}>
+                      <Text style={styles.contentText}>{topic.title}</Text>
+                    </View>
+                  </View>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+          <BottomSheet
+            index={-1}
+            ref={bottomSheetRef}
+            snapPoints={snapPoints}
+            enablePanDownToClose={true}
+            backdropComponent={renderBackdrop}
+          >
+            <ScrollView
+              contentContainerStyle={styles.bottomSheetScrollContainer}
+            >
+              <View style={styles.bottomSheetContainer}>
+                <Text style={styles.bottonSheetTitle}>
+                  {t("exploreTopics")}
+                </Text>
+                <View style={styles.bottomSheetContentContainer}>
+                  {topics.map((topic) => (
+                    <TouchableOpacity
+                      key={topic.id}
+                      onPress={() => handleTopicPress(topic.id)}
+                    >
+                      <View style={styles.topicContainer}>
+                        <Text style={styles.topicTitle}>{topic.title}</Text>
+                        <Image
+                          source={require("../../assets/next.png")}
+                          style={{ height: 17, width: 17 }}
+                          resizeMode="cover"
+                        />
+                      </View>
+                    </TouchableOpacity>
+                  ))}
+                  {/* Close BTN */}
+                  <TouchableOpacity
+                    style={styles.closeModalBtn}
+                    onPress={handleClosePress}
+                  >
+                    <Text style={styles.buttonText}>{t("closeButton")}</Text>
+                  </TouchableOpacity>
+                </View>
+              </View>
+            </ScrollView>
+          </BottomSheet>
+        </SafeAreaView>
+      </ScrollView>
+      <BottomSheet
+        index={0}
+        ref={bottomSheetSettingRef}
+        snapPoints={languageSnapPoints}
+        enablePanDownToClose={true}
+        backdropComponent={renderBackdrop}
+      >
+        {/* <ScrollView contentContainerStyle={styles.bottomSheetScrollContainer}> */}
+        <View style={styles.bottomSheetContainer}>
+          <Text style={styles.bottonSheetTitle}>{t("changeLanguage")}</Text>
+          <View style={styles.bottomSheetContentContainer}>
+            <FlatList
+              data={Object.keys(languageResources)}
+              renderItem={({ item }) => (
+                <TouchableOpacity
+                  // key={topic.id}
+                  onPress={() => handleLanguageSelect(item)}
+                >
+                  <View style={styles.topicContainer}>
+                    <Text style={styles.topicTitle}>
+                      {languagesList[item].nativeName}
+                    </Text>
+                    <RadioButton selected={selectedLanguage === item} />
+                  </View>
+                </TouchableOpacity>
+              )}
+            />
+
+            {/* Close BTN */}
+            <TouchableOpacity
+              style={styles.closeModalBtn}
+              onPress={handleClosePress}
+            >
+              <Text style={styles.buttonText}>{t("closeButton")}</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+        {/* </ScrollView> */}
+      </BottomSheet>
+    </>
   );
-}
+};
 
 const styles = StyleSheet.create({
   bottomSheetScrollContainer: {
@@ -371,3 +452,11 @@ const styles = StyleSheet.create({
     lineHeight: 23.46,
   },
 });
+
+Main.propTypes = {
+  languageResources: PropTypes.object.isRequired,
+  languagesList: PropTypes.object.isRequired,
+  changeLng: PropTypes.func.isRequired,
+};
+
+export default Main;
