@@ -21,7 +21,7 @@ import {
 import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
 import { SafeAreaView } from "react-native-safe-area-context";
 import BottomSheet, { BottomSheetBackdrop } from "@gorhom/bottom-sheet";
-import topics from "../../storage/topic";
+// import topics from "../../storage/topic";
 import mainTopics from "../../storage/MainTopic";
 // import { languageResources } from "../../../services/i18next";
 // import languagesList from "./../../../services/languagesList.json";
@@ -55,9 +55,10 @@ const Main = ({
   const bottomSheetRef = useRef(null);
   const bottomSheetSettingRef = useRef(null);
   const { t } = useTranslation();
-  // const mainTopics = t("mainTopics");
+  const mainTopics = t("mainTopics", { returnObjects: true });
+  const topics = t("topics", { returnObjects: true });
   useEffect(() => {
-    console.log("TokicsArray", t("mainTopics").toString());
+    // console.log("NewTopicsArray", t("mainTopics", { returnObjects: true }));
   }, []);
 
   const handleLanguageSelect = (item) => {
@@ -95,7 +96,9 @@ const Main = ({
   const handleMainPress = (id) => {
     navigation.navigate("MainTopicDetailScreen", { id });
   };
-
+  const handleTopicPress = (id) => {
+    navigation.navigate("TopicDetailScreen", { id });
+  };
   return (
     <>
       <ScrollView contentContainerStyle={styles.scrollContainer}>

@@ -115,5 +115,116 @@
         ]
       }
     }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "title": "Obara Ụtọ",
+      "topic_img": "https://img.freepik.com/free-photo/medium-shot-happy-parents-be_23-2151446095.jpg?t=st=1716893006~exp=1716896606~hmac=b7b5cf53c7adf68cf21bece8021635c06100b232177d1c22532384ec204041ef&w=740",
+      "description": "Nzoputa ego nke obi, nke a ncheta ego nke ndu, nke n'ime ego.",
+      "content": {
+        "intro": "Obara Ụtọ bụ egwu ọma gị dị, gịbaa otu na-enweta mmemme nnukwu maka nwoke na nwanne ya.",
+        "details": [
+          "Obara Ụtọ nwere ihe 40, maara nke a chọrọ ihe ọ bụla. Nke ihe mere mere na-adịghị ahụ.",
+          "Ọchịchị bụ n'aka na-akpa aka, oghere, na akọrọ n'ịfụ. Ọ nwere nkọwa ikpeazụ ma bụ bido.",
+          "Uzu mmemme ka ọ dị mma, ma na mba nwekwara. Ọ na-eme otu n'uzọ, maara maara na nhazi n'ọka.",
+          "Na ọchịchị anụ ọ dị, nwoke nwere udi mma, mana nwoke nwere nkwupụta ihe mma. Ọdịbendị n'ọbara n'azu ahụ.",
+          "Obara Ụtọ bụ egwu nke nchekwa uche mmemme, n'aka ịgba mmemme na mmemme nnukwu. Ọ bụrụ na ọ dịghị otu ihe ahụ bụ ihe mmadụ.",
+          "N'ụbọchị nke a, ụgwọ ngwa nwere ike ịba mfe aha, n'ọdịchịchi, na n'ọdịchi.",
+          "Ịkwalite na obodo, mepụta n'akụ na n'akụ, n'oge gị na-enye gị njem n'ime otu ma mmadụ."
+        ],
+        "subtopics": [
+          {
+            "id": 1,
+            "title": "Nkwa Na-Enweghị Mmanya",
+            "topic_img": "https://img.freepik.com/free-photo/healthy-pregnancy-food_53876-74335.jpg",
+            "description": "O nwere ike ime mmadụ n'oge na-egwu n'ime ego.",
+            "content": "Nkwa na-enweghị mmanya bụ ike nke mmemme gị n'ọchi na ụlọ, maara mma ụwa n'anya mma. Nkwa na-enweghị mmanya bụ ka mkpụrụ anya ike mmanya na gị na ha. Mmepeere nke na-adịghị ala, ura na-afụ maara ya na na-achịka ike. Mmanya na-enweghị mmanya bụ mmanya ịgbanwe mkpụrụ anya, ịgbanwe mkpụrụ anya na mmanya. Nkwa na-enweghị mmanya bụ na nke gị jụrụ ike anyị na-abụ ebe ọtụtụ ọtụtụ."
+          },
+          {
+            "id": 2,
+            "title": "Egwuregwu Na Umu Ọjị",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-doing-yoga-exercise_53876-138232.jpg",
+            "description": "Nzoputa ike nwere nke a, gịbaa otu ma mmemme nnukwu maka nwoke na nwanne ya.",
+            "content": "Egwuregwu na umu ọjị bụ egwuregwu nwere ike ike na-enweta otu na-enweghị mmanya, na-enwe otu na nwere ike n'oge, ma na ụjọ na nkịtị. E ji egwuregwu na-enweghị mmanya, ma jide n'ụlọ n'ụlọrụ na mma. N'ezie na-ewe na ụzọ, maara ike ọdị, maara ihe ndị na-eziteghị n'oge. Ọ kwesịrị ka ịgbanwe na-enweghị mmanya ma na n'ọdịchị."
+          },
+          {
+            "id": 3,
+            "title": "Uche Mmadụ",
+            "topic_img": "https://img.freepik.com/free-photo/happy-pregnant-woman-touching-belly-home_53876-129584.jpg",
+            "description": "Nzoputa ego nke obi, nke a ncheta ego nke ndu, nke n'ime ego.",
+            "content": "Uche mmadụ bụ n'ike na-enweta ihe ọ bụla. N'ụzọ, jide n'ụzọ n'ụzọ n'ime ego, maara n'etiti n'etiti. Uche mmadụ nwere ike nwere ike ime mmadụ, na-eme eziokwu n'izizi n'ime ego. Ọ bụrụ na-ewebighị na-ebighị ọma, kachasị eziokwu n'izizi n'ime ego. Uche mmadụ na-enweghị mmanya bụ na-egwuregwu, na na-achọ maka ọbụla."
+          },
+          {
+            "id": 4,
+            "title": "Iji Mmamma N'ọrụ",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-checking-her-belly_53876-14438.jpg",
+            "description": "Nzoputa ego nke obi, nke a ncheta ego nke ndu, nke n'ime ego.",
+            "content": "Iji mmamma n'ọrụ bụ iji nke na-eziokwu n'ime ego ma na n'izizi n'ime ego. Iji n'ụzọ na-achọ maka ọ bụla. Iji n'ụzọ na-achọ maka nwoke na nwanne ya. Iji n'ụzọ na-achọ maka ihe gbasara mmemme na-ebighị ọma. Iji mmamma n'orụ bụ iji nke na-eziokwu n'ime ego ma na n'izizi n'ime ego."
+          },
+          {
+            "id": 5,
+            "title": "Nwata Obara Ụtọ",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-holding-her-belly-while-sitting_53876-146510.jpg",
+            "description": "Nzoputa ego nke obi, nke a ncheta ego nke ndu, nke n'ime ego.",
+            "content": "Nwata obara ụtọ bụ n'ike na-enweta ihe ọ bụla. N'ụzọ, jide n'ụzọ n'ụzọ n'ime ego, maara n'etiti n'etiti. Nwata obara ụtọ nwere ike nwere ike ime mmemme, na-eme eziokwu n'izizi n'ime ego. Ọ bụrụ na-ewebighị na-ebighị ọma, kachasị eziokwu n'izizi n'ime ego."
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Ụbọchi",
+      "topic_img": "https://img.freepik.com/free-photo/portrait-mother-with-newborn-baby_23-2151055033.jpg?t=st=1716893171~exp=1716896771~hmac=20352121ae714f785024ac29dfb85ff7b060ede9697444d58f191d92134ab5a6&w=826",
+      "description": "Ụbọchi, aghụghọ na iji ego ofu, na oge banyere otu na iji ego ọhụrụ.",
+      "content": {
+        "intro": "Ụbọchi bụ onye isi nke yanayin ƙyanwa, nke na-eme ọrụ na ịbụ ọmụ. O bụ ike nke mba na ndụ a na-agbanyere.",
+        "details": [
+          "Ezinaụlọ ụbọchi di n'ọgbako: ụbọchi na-amụta, ụbọchi na-ama, na ọzọ na ọrụ na-eme ego mmiri. N'ịbanye, i nwere ike ike ike ị nwere.",
+          "Ụbọchi na-amụta bụ na ụdaokwu ebe ọmụ gbara gị mụọ na ụzọ, na-ebi gị onye nwere ego. Onye oke mere, ụzọ ya n'agba omenala ma-ọ bụ mma. Ebe ọmụ gbara gị nwere n'ụdị.",
+          "Ụbọchi na-ama bụ na ụzọ bụ na-efu na na-eme na ọzọ na ọrụ ma-miri eze. Ọrụ iji gị n'ụzọ bụ na na-ebi gị onye nwere ego.",
+          "Ebe ọzọ na-amepe ụzọ bụ na ọmụ nwere ego na-ama n'ọzọ n'ụdaokwu n'ime n'ụzọ. Mmadụ aka n'ebi gị na-ama n'ịhụnanya maka ụzọ. Ụzọ iji iwe nke gị na-akụkọ dị ka ịnya ụlọ ọnụ nọ.",
+          "Ụbọchi nke ọgadị na-eme ego ofu bụ na ọzọ nwere ego na ụzọ. Ebe nke ụzọ nwere n'asaa ebe n'ihi 30 nke ọmụ gbara gị na-ama. Iwe na-ebi gị onye nwere ego ga-enweghị ike na-ala ego ofu ka ha enweghị ofuma.",
+          "Ezigbo ụbọchi eme n'imepe ọkụ na-abụọ na ọmụ dị n'obodo mmadụ. Ọmụ na-akpọ mmadụ dị ịkpịakọ ozi, n'ihi n'ala nwoke nke ọmụ. Mmiri-ji-ala na ije, na ọdị, na-na-abụ ụzọ dị n'ofu n'ọmụ gbara gị n'ọnụ. Gịnyere mmadụ-nye-mmụ-ọzọ na-achọ ụgbọ ala na ọdị na-enyere na iji mmadụ-nye-mmụ-ọzọ na-achọ agba mmadụ."
+        ],
+        "subtopics": [
+          {
+            "id": 6,
+            "title": "Ezi na nche nke ụbọchi",
+            "topic_img": "https://img.freepik.com/free-photo/doctor-explaining-pregnancy-check-up-report-while-consulting-young-expectant-woman_1262-16689.jpg",
+            "description": "N'agbanyeghị nke ndị ọzọ nke ụbọchi na kedu iji.",
+            "content": "Ụbọchi dị na ezinaụlọ nke mba, ụbọchi na-amụta, ụbọchi na-ama, na ọzọ na ọrụ na-eme ego mmiri. Ụbọchi na-amụta dị n'agbanyeghị nke mba, na-ebi gị onye nwere ego. Ụbọchi na-ama bụ nke ọzọ na-ebi gị onye nwere ego. Ebe ọrụ dị n'agbanyeghị na-ama ka ọmụ gbara gị nwere ego n'ọzọ. Ezi nke abụọ dị n'agbanyeghị na-ama na-echiche n'ibi-udo, na iko nke aghugho, na nweta ọzọ. Ọnụ gị dị mma n'imepe gị na ndụ na-eme ego na ọrụ."
+          },
+          {
+            "id": 7,
+            "title": "Eziekwesịrị Nsọ na Otu-akpụkpọ",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-having-regular-checkup-with-doctor_23-2148379329.jpg",
+            "description": "Nhọpụta n'imepe iji ịgbasa mmiri na ọrụ na ụzọ.",
+            "content": "Eziekwesịrị nsọ na otu-akpụkpọ nke ụbọchi na-eme mma. Ọzọ nke na-eme ego nwere njiko ọzọ dị na ike ịgba onwe gị n'agbanyeghị nke mba, n'akụkụ onwe gị, na na-eme ego. Ụbọchi na-ama ka mba ịrịba aka. A nwere njiko ike n'ụzọ iji kọwa na-ama na iji ṅụghari ya. Ị bụkwa n'agbanyeghị iko onwe gị n'ebi gị onye nwere ego dị ka njiko n'ihu."
+          },
+          {
+            "id": 8,
+            "title": "Ebe Nke Otu-na-aku",
+            "topic_img": "https://img.freepik.com/free-photo/midsection-pregnant-woman-having-regular-checkup-with-doctor_23-2148379332.jpg",
+            "description": "Ọhụrụ ezi na nche nke ụbọchi.",
+            "content": "Ezigbo ebe na-eme ego na-ama ezigbo mma, na njikwa njikwa, na-ahụ ya n'ịnwe akụkụ mma n'ịhụnanya. A nwere ike iji na-ahụ ya n'ihu na na-abụ ya n'obodo mba. Ebe onwe gị na-eme ego na-eme mma. Nnabata na nne mmụ nwere njiko na-enye na iji ngwa ngwa kwụọ, na ịkanka iji kpepụ ngwa ngwa. A nwere njiko ike na-ahụ ya n'ọrụ na ọrụ ọzọ. Ikwadọ na iwe ego mmiri ka ọmụ gbara gị na-ama."
+          },
+          {
+            "id": 9,
+            "title": "Nsọ na-akwụghị na njide na ịkọ",
+            "topic_img": "https://img.freepik.com/free-photo/mother-baby-playing-bed_1157-19360.jpg",
+            "description": "N'enye onwe gị na ọmụ gị nyea ọnụ na ụgbọala.",
+            "content": "Nsọ na-akwụghị na njide na ịkọ dị na-ahụ n'ụbọchi na-ama na-ama. Ọmụ na-akwụghị na njide na ike nwere njiko njiko. Ị bụkwa n'ahụ ya n'ihu n'akụkụ. Ọnụ gị dị mma n'imepe gị na ndụ na-eme ego na ọrụ."
+          },
+          {
+            "id": 10,
+            "title": "Cesarean Section",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-showing-ultrasound-scan-doctor_23-2148888593.jpg",
+            "description": "N'imepe mba na onye ga-ahụ maka ịgbasa mmiri.",
+            "content": "Cesarean Section (C-section) bụ ịgbasa nnukwu nke na-eme ego nwere ọkwa n'akụkụ onye nwere ego n'akụkụ n'agbanyeghị nke mba na onye nwere ego. Ọrụ iji jikọrọ nnukwu nke na-eme ego ego na ịkpe na mba n'akụkụ n'akụkụ. Ọrụ nke na-eme ego ego dị n'akụkụ na ịkpe na ọrụ na ọrụ ọzọ na-akpọla ike nnukwu nke na-eme ego ego nwere ọkwa na-akụkụ. N'imepe mba, ọzọ n'imepe ego na-ekwe na iji na-ekwe na iji na-ekwe na iji ihe ọ bụla na-ahụ ya n'ihu."
+          }
+        ]
+      }
+    }
   ]
 }
