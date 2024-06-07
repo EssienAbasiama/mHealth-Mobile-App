@@ -13,13 +13,17 @@ import {
   Dimensions,
   Button,
 } from "react-native";
-import topics from "../../storage/topic";
-import mainTopics from "../../storage/MainTopic";
+import { useTranslation } from "react-i18next";
+// import topics from "../../storage/topic";
+// import mainTopics from "../../storage/MainTopic";
 
 function MainTopicSubTopic() {
   const [topic, setTopic] = useState(null);
   const route = useRoute();
   const { id } = route.params;
+  const { t } = useTranslation();
+  const mainTopics = t("mainTopics", { returnObjects: true });
+
   console.log(id);
   useEffect(() => {
     const selectedTopic = mainTopics

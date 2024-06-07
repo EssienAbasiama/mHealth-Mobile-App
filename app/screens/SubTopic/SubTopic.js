@@ -13,13 +13,17 @@ import {
   Dimensions,
   Button,
 } from "react-native";
-import topics from "../../storage/topic";
+import { useTranslation } from "react-i18next";
+// import topics from "../../storage/topic";
 
 function SubTopic() {
   const [topic, setTopic] = useState(null);
   const route = useRoute();
   const { id } = route.params;
-  console.log(id);
+
+  const { t } = useTranslation();
+  const topics = t("topics", { returnObjects: true });
+
   useEffect(() => {
     const selectedTopic = topics
       .flatMap((topic) => topic.content.subtopics)

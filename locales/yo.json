@@ -114,117 +114,286 @@
           }
         ]
       }
+    },
+    {
+      "id": 3,
+      "title": "Lati Oko",
+      "topic_img": "https://img.freepik.com/free-photo/portrait-mother-with-newborn-baby_23-2151055102.jpg?t=st=1716893264~exp=1716896864~hmac=032ebce4a7d2f0706ab78031a75764e0b6eecca2cd4b5e4e041b9cb5fbe3b947&w=740",
+      "description": "Aaye ti o tun ni itumo ti o tun ni fi ayoka jade pelu omo titun.",
+      "content": {
+        "intro": "Aaye to ni o tun ni itumo ti o tun ni fi ayoka jade pelu omo titun, nikan ni yio gbogbo irinse lati oko ati lati so itumo ti o tun ni fi ayoka jade pelu omo titun re.",
+        "details": [
+          "Awon keji meji lo le gbogbo aaye ti o tun ni itumo ti o tun ni fi ayoka jade pelu omo titun. Aaye yii ni o ni ifarada fun igbega iya ati agbeke pade omo.",
+          "Iriri re ni nikan ti ohun lo le da, nigbati igbega yio wu kuro, awon oniriri ti o sebe ati agbega wulo lo lo. A bi ilera, awon amojuto ati asayan iyo ni awon ohun ti aye yi wa ni nigbati yii.",
+          "Awon igbese ti o le ba ni wa nibiti, pelu awon iya odunmiran to n sise nibi ti won ni o le ki okan wa je awon oniru re ati awon ti a nife re. Ti a ba ti wa ni ifiranse ati ifojusere laarin wa, o le fi asa ilera wa.",
+          "Ise iranwo omo le julo gba, sugbon o ni da fun omo titun. Wa a n si ijoba lati bi ajiise lati rin ninu awo dida ati awon oniru ti o le fi eka sii. O ni ifarada fun ilera aye wa tabi ayanfe wa.",
+          "Awon iduro ti o jo nigbati omo nlo, igba omo yio nlo, o si gbe inu wa lati ki omo re je owo kan le, ko si ile ayele, o ni ibe fun awon omo yio nlo. Awon iriri aye yio ni lati kuro lo fun iduro. O ni fun eka daradara aye to se orile ede nla yii. Gbogbo igbese ni o si ni igbese si o, nigba nla ati lati fi ifakere ki o si je, lehin orile ede kan, ko si oro ti o le mu, ko si alarinrin nla kan.",
+          "Ise iranwo fun eniyan ni o ni ifarada lati oko. Ki a tun won si ona to wa, ti o je akoko awo, iwe itumo to wa fun wa lodo awon ore ati agbegbe.",
+          "Wa tun so ore, bi pe o le ba wa ni isan itumo, owo funfun fun itumo ti o ma nlo, o le ma pade wa lati oro ni orisun omo ti o nlo. A ni lati fesi ise iranwo yio da lati ba wa ni eniyan ohun aye ati ki o si bere ohun ti o se yio le ba a omo."
+        ],
+        "subtopics": [
+          {
+            "id": 11,
+            "title": "Igbega Eleya",
+            "topic_img": "https://img.freepik.com/free-photo/newborn-baby-sleeping-basket_1157-18750.jpg",
+            "description": "Inu ati gbagbe ilera nigbati o nlo.",
+            "content": "Igbega ilera nigbati o nlo le ri pe okunrin mejila le lo, nigbati igbega aye yio feleti leyin ti o soju nipa awon ohun bi oro igbega ati eyiti e nlo. Awon igbega ti a nidi ni okunrin mejila le lo le to ojoogun si igbega lati ite wa ti okunrin mejila le lo. Igbega ilera aye yii, tabi lochia, le le nigbati meji ati meje le lo le yio dabi ilu. Igba oniriri igbe, bi irun idile yii tabi awon aisan idi nlo, le gbe ifakere igbega pelu iye akoso tabi ohun to to wa bi igi soke. Ni ohun to mu o le da awon iriri to se dudu bi ilera, gbe eje akoko kan, se akoko kan tabi fun ara wa fun igbega le se ohun to pa. Iru ise ilera ti o yio sa lori imuran eniyan pelu itumo to n bimo lara."
+          },
+          {
+            "id": 12,
+            "title": "Emo Didun",
+            "topic_img": "https://img.freepik.com/free-photo/happy-mother-baby-son-playing-bed_1157-18672.jpg",
+            "description": "Isegbe iru didun ati alaaye nigbati o nlo.",
+            "content": "Aaye ti o tun ni itumo ti o tun ni fi ayoka jade pelu omo titun le le ri awon iru didun ti o tun ni ifisemo ti o tun ni iye ayoka ati itan aye. Awon iru didun yii aye yio fi ayoka jade, tabi ifileye tabi ifiranse aye. Awon iru didun to wa tabi baby blues, bi oro iranwo iru didun, igbati aye yii le yio de bi akoko meji. Sugbon, nigbati igbega iru didun tabi iranwo didun to wo, o le pa li aye yii yii, o le muwa awo didun. Nigba meji le meji, bi oro iranwo iru didun, isiwaju pelu awon ore ati agbegbe je gboriwo. Fun ise iranwo iru didun, awon awo ti o ba wii pelu awon agbegbe to wa ni ki o si so pe, aye o le fi awo didun. Gbigbe omo mimo gba bi oro bi igbega, fi oro aye kan ni aye yii ki o si fi ori re pa da. Ibi re lo yio wa lorun ati ki o si fi obi didun si igbega aye kan tabi aya."
+          },
+          {
+            "id": 13,
+            "title": "Arigba Aye",
+            "topic_img": "https://img.freepik.com/free-photo/mother-breastfeeding-her-baby_1157-20452.jpg",
+            "description": "Itumo ati igbesoke lati fi ayoka jade yiyo.",
+            "content": "Itumo ati igbesoke lati fi ayoka jade yiyo ni ibiti ni fun iya ati omo, tabi ibanisefayo bi oro igbega ati itan aye. Sugbon, o le ni igbega lati jade lati ohun ti kia titi, labe egbo ati igbega si ona kan. Awo ti o ba wa ninu igbega yiyo lo n le ki wa ni ikanni tabi igbesoke. Ile iwosan ni ki o si fi ayoka jade yiyo, nitori eyi ti ko ni ifise iyawo ati omo re. Igbesoke ise arigba aye yii ni ki o si gbe igbesoke aye to wo to wa pelu ayoka jade pelu omo titun wa. Nigba yii, o ni ofore fun aye re ati alaaye fun aye re. Tabi awon awo ti o ba wii ni ki o si fi awo didun fun. Ibeere ti o ba wa ni pe, nigbati e maa ro omo re, ki o si tun beere fun wa pelu awon awo ise iwosan tabi awon agbegbe to wa."
+          },
+          {
+            "id": 14,
+            "title": "Arigba Igi",
+            "topic_img": "https://img.freepik.com/free-photo/newborn-baby-sleeping_1157-18777.jpg",
+            "description": "Ki o si fi ayoka jade wa fun aye omo re ati ki o si julo orisun aye kan.",
+            "content": "Ki o si fi ayoka jade wa fun aye omo re ati ki o si julo orisun aye kan ni ibiti ni fun iya ati omo. Ni orisun aye yii, itumo itan pelu omo, awon ifiranse aye tabi awon ise ibere yiyo yii ni awon ifiranse aye yii. Ki o si da ri awon ibi ako rere aye re ati ki o si tun bi asa ayoka pelu aye re yiyo tabi oro kan to le se ifiranse aye yii. Awon ohun ti ko le di wulo, itumo itan aye yii, ti o ti pada fun aye omo, bi oro pade iyo pelu bi ifokanbale re. Ise arigba pelu oniriri aye to wa ni ki o si gbe igbesoke igbesoke aye ni ibi aye re wa ni pelu wa ni oro to jaye tabi awon igbesoke ti o ba wa fun aye omo. Iyato fun kisi ati igba aye pelu awon ilera ni igbanise aye omo re lati lo da ni ki o si ma jeje."
+          },
+          {
+            "id": 15,
+            "title": "Ise Ira",
+            "topic_img": "https://img.freepik.com/free-photo/mother-baby-bed_1157-19430.jpg",
+            "description": "Ki o si fi ifese iranwo wa fun ise iranwo yii.",
+            "content": "Ki o si fi ifese iranwo wa fun ise iranwo yii, iwo omo kan. Ni orisun aye yii, nigbati o maa je irinse iranwo yii tabi igbesoke, ni ko le pe lati gba ogo ni iranwo yii. Ki o si tun beere fun ifese iranwo yii fun irinse iranwo ati ki o si wa so pe pe igbese iranwo yii. Ki o si gba ise iranwo yii lati orun ati ki o si beere pe o ko je daju ninu aye yii. Ki o si tun beere pe ki o si tun wa isan ifese iranwo re lati omo re pelu atunbi tabi ki o si so pe ki o si wa ninu aye yi nigbati o ba gba ise iranwo yii. Yi oro yi mu ki o si tun pese ise iranwo re nigbati o si wa ninu aye ati ki o si pese aye omo to gbe a ti o. "
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Iṣẹ abí",
+      "topic_img": "https://img.freepik.com/free-photo/black-pregnant-women-posing_23-2151446148.jpg?t=st=1716894103~exp=1716897703~hmac=8e7ee396bb40d9e89d0f0523e4eb3d4933eb4b552f0bfc1ce9ca8bee6cbe2c98&w=996",
+      "description": "Ọmọ iṣẹ abí ati sise tán fun bí ọmọ.",
+      "content": {
+        "intro": "Iṣẹ abí jẹ ilana bí ọmọ, ti o ni ibẹrẹ ti irora, ṣiṣí ẹnu ikun, ati ikúnrẹrẹ ọmọ. Mọ ati ṣiṣeto le ran o lọwọ lati ṣakoso iriri iṣẹ abí ti o nira ṣugbọn ti o ni ere.",
+        "details": [
+          "Iṣẹ abí maa n pin si awọn ipele mẹta: iṣẹ abí alakoko, iṣẹ abí to lagbara, ati isọdọmọ placẹnta. Ọkọọkan ninu wọn ni awọn abuda oto ati pe o nilo awọn ilana iṣakoso oriṣiriṣi.",
+          "Iṣẹ abí alakoko ni ibẹrẹ irora, ti o pọ si ni agbara ati igbagbogbo. Ipele yii le gba ọpọlọpọ awọn wakati tabi paapaa awọn ọjọ. O ṣe pataki lati wa ni itura, sinmi, ati mu omi. Awọn iṣẹ́lẹ́ bẹ́ẹ̀ bí rìn le ran iṣẹ abí lọwọ lati tesiwaju.",
+          "Iṣẹ abí to lagbara ni ami nipasẹ irora ti o pọ si ati igbagbogbo, ati pe ẹnu ikun ṣí ni iyara. Awọn aṣayan iṣakoso irora, gẹgẹ bi epidural tabi awọn ilana mimi, le ṣee lo lakoko ipele yii. O ṣe pataki lati tẹle itọsọna olupese iṣẹ ilera rẹ.",
+          "Ipele keji ti iṣẹ abí jẹ ipele ikọ, nibiti ọmọ ti nlọ nipasẹ ikanni abí ati a bí. Awọn ipo ibí oriṣiriṣi le ran ilana yii lọwọ. Tẹle itọsọna olupese iṣẹ ilera rẹ lakoko ipele yii jẹ pataki.",
+          "Ipele kẹta ni itujade placẹnta, ti o maa n ṣẹlẹ laarin iṣẹju 30 lẹhin ti a bí ọmọ. Ikọ ẹlẹgẹ le jẹ pataki, ati olupese iṣẹ ilera yoo rii daju pe gbogbo placẹnta ti tu silẹ lati dena awọn ilolu.",
+          "Itọju ọmọde ni kiakia pẹlu iṣiro iya fun eyikeyi awọn ami ilolu, gẹgẹbi ẹjẹ pupọ tabi akoran. A tun yoo ṣayẹwo ọmọ tuntun lati rii daju pe wọn ni ilera. Ifọwọkan ara-si-ara ati bẹrẹ ifunni ọmọ lẹsẹkẹsẹ ni a gba niyanju lati ṣe igbega asopọ ati ifọwọsi iṣelọpọ wara.",
+          "O ṣe pataki lati ni eto ibí kan, ṣugbọn tun jẹ irọrun bi awọn ipo ti a ko reti le dide. Sọrọ awọn ayanfẹ rẹ pẹlu olupese iṣẹ ilera rẹ ati ṣii si awọn iṣeduro wọn da lori ipo naa."
+        ],
+        "subtopics": [
+          {
+            "id": 16,
+            "title": "Awọn ami ti iṣẹ abí",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-having-contractions_1157-19953.jpg",
+            "description": "Mọ awọn ami pe iṣẹ abí n bẹrẹ.",
+            "content": "Mọ awọn ami ti iṣẹ abí le ran o lọwọ lati mọ igba lati kan si olupese iṣẹ ilera rẹ ati mura fun ibí. Awọn ami ti o wọpọ pẹlu awọn irora deede ti o pọ si ni agbara ati igbagbogbo, irora isalẹ ẹhin, ati ifihan ẹjẹ (ẹjẹ-ara). Iṣẹ ilẹkun awọ ti o fọ, tabi omi ti n ṣẹlẹ, jẹ ami ti o han gbangba pe iṣẹ abí sunmọ. O ṣe pataki lati ṣe iṣiro awọn irora lati pinnu igbagbogbo ati gigun wọn. Ti o ba ni iriri eyikeyi awọn ami wọnyi, kan si olupese iṣẹ ilera rẹ fun itọsọna lori igba lati lọ si ile-iwosan tabi ile ibí."
+          },
+          {
+            "id": 17,
+            "title": "Iṣakoso irora",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-with-contractions_1157-19952.jpg",
+            "description": "Awọn aṣayan fun iṣakoso irora lakoko iṣẹ abí ati ibí.",
+            "content": "Iṣakoso irora lakoko iṣẹ abí le ṣee ṣe ni ọpọlọpọ awọn ọna. Awọn ọna adayeba pẹlu awọn adaṣe mimi, wiwo, ati ifọwọra, eyiti o le ṣe iranlọwọ lati ṣakoso irora laisi oogun. Hydrotherapy, tabi ṣiṣẹ ninu omi, tun le pese itunu. Awọn aṣayan oogun pẹlu epidural, eyiti o pese idinku irora pataki lakoko ti o jẹ ki iya wa ni mimọ ati nimọlẹ. Awọn aṣayan miiran pẹlu awọn oogun irora inu ẹṣọ ati nitrous oxide. O ṣe pataki lati jiroro awọn ayanfẹ iṣakoso irora pẹlu olupese iṣẹ ilera rẹ ni ilosiwaju ki o si ni irọrun bi iṣẹ abí ti nlọsiwaju."
+          },
+          {
+            "id": 18,
+            "title": "Awọn ipo ibí",
+            "topic_img": "https://img.freepik.com/free-photo/mother-baby-bed_1157-19429.jpg",
+            "description": "Awọn ipo oriṣiriṣi ti o le ṣe iranlọwọ ninu ilana ibí.",
+            "content": "Awọn ipo ibí oriṣiriṣi le ṣe iranlọwọ lati ṣe iṣẹ abí ati ibí, ati pe o ṣe pataki lati wa ohun ti o ṣiṣẹ julọ fun ọ. Awọn ipo ti o duro, gẹgẹbi iduro, iduro, tabi lilo aga ibí, le lo walẹ lati ṣe iranlọwọ fun ọmọ lati sọkalẹ. Awọn ipo ọwọ-ati-ọwọ le dinku irora ẹhin ati ṣe iwuri fun ọmọ lati gbe si ipo ti o dara julọ. Awọn ipo ẹgbẹ le pese isinmi lakoko ti o tun jẹ ki ikọ ṣiṣẹ daradara. Lilo bọọlu ibí tun le ṣe igbega gbigbe ati itunu. Idanwo pẹlu awọn ipo oriṣiriṣi lakoko iṣẹ abí le ṣe iranlọwọ fun ọ lati wa ọna ti o ni itunu julọ ati ti o munadoko lati bi ọmọ."
+          },
+          {
+            "id": 19,
+            "title": "Eto ibí",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-smiling-holding-her-belly_1157-18396.jpg",
+            "description": "Ṣiṣe ati ibasọrọ eto ibí rẹ.",
+            "content": "Eto ibí jẹ iwe ti o ṣe akojọ awọn ayanfẹ rẹ fun iṣẹ abí ati ibí. O pẹlu awọn yiyan nipa iṣakoso irora, awọn ipo ibí, ati ẹni ti yoo wa lakoko ibí. Lakoko ti nini eto ibí ṣe pataki, o tun ṣe pataki lati wa ni irọrun bi awọn ipo ti a ko reti le dide. Sọrọ eto ibí rẹ pẹlu olupese iṣẹ ilera rẹ ki o rii daju pe awọn ayanfẹ rẹ ni ibaraẹnisọrọ pẹlu ẹgbẹ ibí. Eto ibí ti o dara ti pese le ṣe iranlọwọ fun ọ lati ni idari diẹ sii ati rii daju pe awọn aini ati awọn ifẹ rẹ ni a bọwọ fun lakoko iṣẹ abí ati ibí."
+          },
+          {
+            "id": 20,
+            "title": "Eto atilẹyin",
+            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-smiling-holding-her-belly_1157-18395.jpg",
+            "description": "Ipa eto atilẹyin lakoko iṣẹ abí ati ibí.",
+            "content": "Nini eto atilẹyin to lagbara lakoko iṣẹ abí ati ibí le pese atilẹyin ẹdun ati ti ara. Eyi le pẹlu alabaṣiṣẹpọ rẹ, awọn ọmọ ẹgbẹ ẹbi, awọn ọrẹ, tabi doula. Awọn doula jẹ awọn alamọdaju ti o ni ikẹkọ ti o pese atilẹyin lemọlemọfún lakoko iṣẹ abí ati ibí. Wọn le pese awọn iwọn itunu, ṣe iranlọwọ pẹlu awọn ilana iṣakoso irora, ati pese idaniloju. Ṣiṣọpọ pẹlu ẹgbẹ atilẹyin rẹ nipa eto ibí ati awọn ayanfẹ rẹ ṣe pataki. Ibalopo wọn le ṣe iranlọwọ fun ọ lati ni igboya diẹ sii ati atilẹyin, ti nṣe alabapin si iriri ibí ti o dara."
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Ẹjẹ Lẹ́hìn Ìbí",
+      "topic_img": "https://img.freepik.com/premium-photo/woman-is-shown-with-blood-dripping-her-hands-this-image-can-be-used-depict-crime-horror-mystery-scene-from-thriller_153912-226779.jpg?w=360",
+      "description": "Oye ẹjẹ lẹ́hìn ìbí ati bi a ṣe le ṣakoso rẹ.",
+      "content": {
+        "intro": "Ẹjẹ lẹ́hìn ìbí, tabi lochia, jẹ apakan ti o wọpọ ti ilana imularada lẹhin ibí. O kan yiyọ ilẹ ikun ati pe o le duro fun ọpọlọpọ awọn ọsẹ.",
+        "details": [
+          "Lochia maa n bẹrẹ bi ṣiṣan pupa ti o wuwo ti o dinku ni iye ati pe o yipada si pink, brown, ati nikẹhin funfun tabi ofeefee.",
+          "O ṣe pataki lati ṣọ iye ati awọ ẹjẹ lati rii daju pe o tẹle ilana deede. Ẹjẹ pupọ tabi fifihan awọn ege nla le tọka iṣoro kan ati pe o yẹ ki o sọ fun olupese iṣẹ ilera rẹ.",
+          "Sinmi ati yago fun awọn iṣẹ́lẹ́ ti o wuwo le ṣe iranlọwọ lati ṣakoso ẹjẹ. O ṣe pataki lati fun ara rẹ ni akoko lati larada ati yago fun awọn iṣẹ́lẹ́ ti o le pọ si ẹjẹ.",
+          "Lilo awọn aṣọ atẹgun mimọ dipo awọn tampons ni a ṣe iṣeduro lati dinku eewu ikolu. Yi awọn aṣọ atẹgun pada nigbagbogbo lati ṣetọju imototo.",
+          "Hydration ati ounjẹ to dara le ṣe atilẹyin imularada ati iranlọwọ lati ṣakoso ẹjẹ. Jijẹ ounjẹ ti o ni iwọntunwọnsi ti o ni iron le ṣe iranlọwọ lati tun pada pipadanu ẹjẹ.",
+          "Ẹjẹ lẹ́hìn ìbí le jẹ fun ọpọlọpọ awọn ọsẹ, ti o maa dinku ni agbara nipasẹ ọsẹ kẹfa. Ti ẹjẹ ba tẹsiwaju kọja aaye yii tabi di iwuwo, kan si olupese iṣẹ ilera rẹ.",
+          "Ìlọsíwájú ayẹwo lẹ́hìn ìbí jẹ pataki lati ṣayẹwo imularada ati yanju eyikeyi awọn ifiyesi ti o ni ibatan si ẹjẹ lẹ́hìn ìbí. Olupese iṣẹ ilera rẹ le pese itọsọna ati atilẹyin lati rii daju pe o ni imularada to dara."
+        ],
+        "subtopics": [
+          {
+            "id": 21,
+            "title": "Ohun Ti O Nira",
+            "topic_img": "https://img.freepik.com/free-photo/newborn-baby-feet_1157-18555.jpg",
+            "description": "Awọn ipele ati akoko ti ẹjẹ lẹ́hìn ìbí.",
+            "content": "Ẹjẹ lẹ́hìn ìbí, tabi lochia, lọ nipasẹ awọn ipele pupọ. Ni awọn ọjọ diẹ lẹhin ibí, ẹjẹ jẹ akọkọ ti o wuwo ati pupa ti o wuwo, bii akoko afọ́mọ ti o wuwo. Ipele akọkọ yii ma n ṣiṣe nipa ọjọ 3 si 10. Awọn ṣiṣan lẹhinna yipada si awọ pink tabi brown, tọka ipele atẹle ti imularada. Ipele yii le ṣiṣe titi di ọsẹ keji lẹ́hìn ìbí. Nipasẹ, lochia di funfun tabi ofeefee ṣiṣan, eyiti o le tẹsiwaju fun ọpọlọpọ awọn ọsẹ. O ṣe pataki lati ṣọ awọn ṣiṣan naa ki o sọ fun olupese iṣẹ ilera rẹ nipa eyikeyi awọn ifiyesi. Ẹjẹ pupọ, fifihan awọn ege nla, tabi õrùn ti o le tọka awọn ilolu ti o nilo itọju iṣoogun."
+          },
+          {
+            "id": 22,
+            "title": "Ṣiṣakoso Ẹjẹ",
+            "topic_img": "https://img.freepik.com/free-photo/newborn-baby-feet_1157-18556.jpg",
+            "description": "Awọn imọran fun iṣakoso ẹjẹ lẹ́hìn ìbí ati igbega imularada.",
+            "content": "Ṣiṣakoso ẹjẹ lẹ́hìn ìbí pẹlu ọpọlọpọ awọn igbesẹ lati rii daju itunu ati imototo. Sinmi ati yago fun awọn iṣẹ́lẹ́ ti o wuwo le ṣe iranlọwọ lati ṣakoso ẹjẹ. Lilo awọn aṣọ atẹgun mimọ dipo awọn tampons dinku ewu ikolu ati gba ọ laaye lati ṣọ awọn ṣiṣan naa ni pipe. Yi awọn aṣọ atẹgun pada nigbagbogbo lati ṣetọju imototo. Hydration ati ounjẹ iwọntunwọnsi ti o ni iron le ṣe iranlọwọ lati tun pada pipadanu ẹjẹ. Awọn adaṣe oníjéjé àpòfẹ́ẹ́ le ṣe iranlọwọ ni imularada. Ti o ba ṣe akiyesi eyikeyi awọn aami aisan ti ko ṣe deede, gẹgẹ bi ẹjẹ pupọ, awọn ege nla, tabi õrùn ti ko dun, kan si olupese iṣẹ ilera rẹ lẹsẹkẹsẹ. Ìlọsíwájú ayẹwo lẹ́hìn ìbí jẹ pataki lati ṣayẹwo imularada rẹ ati yanju eyikeyi awọn ifiyesi."
+          },
+          {
+            "id": 23,
+            "title": "Nigbati O gbọdọ Wa Iranlọwọ",
+            "topic_img": "https://img.freepik.com/free-photo/newborn-baby-feet_1157-18557.jpg",
+            "description": "Ìmọ̀ àwọn àmì tó tọ́kasi àwọn iṣòro àti ìmọ̀gbà tí ó yẹ kí o fẹ́ ìtìjúwàá iṣègùn.",
+            "content": "Nígbàtí ẹjẹ lẹ́hìn ìbí jẹ apakan ti o wọpọ ti imularada, awọn ami kan le tọka awọn ilolu ti o nilo itọju iṣoogun. Wa iranlọwọ ti o ba ni ẹjẹ ti o wuwo ti o jẹ ki aṣọ mimọ ni wakati kan tabi kere si, awọn ege nla (ti o tobi ju bọọlu golf lọ), õrùn ti ko dun, tabi awọn aami aisan ti o ni nkan ṣe pẹlu ikolu gẹgẹbi iba ati awọn ẹdọfu. Ìrora ti o tẹsiwaju tabi ti o nira lori akoko tun nilo pe ki o pe olupese iṣẹ ilera rẹ. Ti ẹjẹ ba tẹsiwaju ju ọsẹ mẹfa lọ tabi lojiji pọ si lẹhin ti o ti lọ silẹ, o ṣe pataki lati wa imọran iṣoogun. Olupese iṣẹ ilera rẹ le ṣe ayẹwo ipo rẹ ki o pese itọju pataki lati rii daju imularada to dara."
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Bacterial Vaginosis",
+      "topic_img": "https://img.freepik.com/free-photo/african-american-woman-with-braids-standing-pink-background-disgusted-expression-displeased-fearful-doing-disgust-face-because-aversion-reaction_839833-2208.jpg?t=st=1716894569~exp=1716898169~hmac=d2e999f47519d91d6af488c13f5705194fe8c82e651327189babc21f0a5c934e&w=826",
+      "description": "Ogbólógbò Bacterial Vaginosis (BV), àwọn ìdí rẹ̀, àwọn àmí rẹ̀, àti àwọn ìtọ́jú rẹ̀.",
+      "content": {
+        "intro": "Bacterial Vaginosis (BV) jẹ́ àrùn tí ó wọ́pọ̀ nínú ọ̀gbẹ́ obìnrin tó ṣàkóbá fún àìdọ̀gba nínú bacteria wọ́n pẹ̀lú nínú ọ̀gbẹ́. Ó ní àwọn àmí bí ìfarahàn ìdọ̀tí àtàtà, ìhámọ̀nà, àti àìsàn nínú ọ̀gbẹ́.",
+        "details": [
+          "BV ń ṣẹlẹ̀ nígbà tí àìdọ̀gba bá wà láàrín àwọn bacteria rere àti àwọn tí kò dára nínú ọ̀gbẹ́, tó mú kí ìgbèga àwọn bacteria tó lewu.",
+          "Àwọn àmí tí ó wọ́pọ̀ jẹ́ àrà, ìdọ̀tí ọ̀gbẹ́ tó rọ̀rùn pẹ̀lú ìhámọ̀nà tó dárà, ìríra, àti rírà nínú ọ̀gbẹ́ nígbà tí o bá ń yà gògọ́.",
+          "BV kò kà sí àrùn tí a lè ní láti àjẹ́mọ́, ṣùgbọ́n ìṣe àfẹ́tọ̀rọ̀ọ̀sọ̀rọ̀ó lè mú ki ewu rẹ̀ pọ̀ sí.",
+          "Ìtọ́jú àkànṣe ní àwọn antibiotics, bí ó tilẹ̀ jẹ́ tí a ń mú ní ènìyàn tàbí ti a fi sílẹ̀ lórí ara. Ó ṣe pàtàkì láti parí gbogbo àwọn ìtọ́jú láti dẹ́kun àtúnfẹsẹ̀.",
+          "Ìdọ́tí ọ̀gbẹ́ tó dára àti ìkọ́ra douching lè ràn án lọ́wọ́ láti dẹ́kun BV. Probiotics lè wúlò fún jíjẹ́ padà ìdọ̀gba bacteria nínú ọ̀gbẹ́.",
+          "Bí a kò bá tọ́jú BV, ó lè fa àwọn ìṣòro bí ewu àjẹ́mọ́ràn àti àtọ́gbọn gbígbé, àwọn ìṣòro ìbímọ̀, àti àrùn oníjagun tó kàn àwọn ara ọ̀gbẹ́.",
+          "Ìwọ̀n yíyan obìnrin tí ó wọ́pọ̀ lè ràn án lọ́wọ́ láti bójú tó ìlera ọ̀gbẹ́ àti yáwòrán àwọn àmí BV."
+        ],
+        "subtopics": [
+          {
+            "id": 24,
+            "title": "Àwọn Ìdí àti Àwọn Ewu",
+            "topic_img": "https://img.freepik.com/free-photo/woman-with-stomach-ache-sitting-bed_23-2148590460.jpg",
+            "description": "Ogbólógbò ohun tí ó mú BV wá àti àwọn ewu tí ó rọ̀ mọ́ ọ́.",
+            "content": "BV ń ṣẹlẹ̀ nítorí àìdọ̀gba nínú ọ̀gbẹ́ flora, níbi tí àwọn bacteria tó lewu bá di púpọ̀ ju àwọn tó dára lọ. Àwọn ohun tó lè mu àìdọ̀gba yìí ṣẹlẹ̀ ni àwọn ẹlẹ̀gbẹ́ tàbí ìjẹ́pọ̀, douching, àti àìní lactobacilli (àwọn bacteria rere). Àwọn ìyípadà nínú homonù, bíi àwọn tí ń ṣẹlẹ̀ nígbà ìbímọ̀, àti ìlò àwọn ohun ìmọ̀ràn léwu sì lè mú ewu rẹ̀ pọ̀ sí. Ogbólógbò àwọn ìdí àti àwọn ewu yìí jẹ́ pàtàkì fún ìdènà àti ìtọ́jú. Ìkọ́ra douching, jíjẹ́ ilépa ounjẹ dáradára, àti àwọn ìgbésí ayé àfẹ́tọ̀rọ̀ọ̀sọ̀rọ̀ó lè ràn án lọ́wọ́ láti dẹ́kun BV."
+          },
+          {
+            "id": 25,
+            "title": "Àwọn Àmí àti Ìdánilójú",
+            "topic_img": "https://img.freepik.com/free-photo/young-woman-suffering-stomach-pain-sitting-bed-home_231208-13061.jpg",
+            "description": "Ìmọ̀ àwọn àmí BV àti ìtópinpin bí a ṣe ń ṣe ìdánilójú rẹ̀.",
+            "content": "Àwọn àmí pataki BV ni ìdọ̀tí ọ̀gbẹ́ tí ó rọ̀rùn pẹ̀lú ìhámọ̀nà tó lagbara, tó ń dárà. Àwọn obìnrin kan tún lè ní ìríra, rírà nínú ọ̀gbẹ́ nígbà tí wọn bá ń yà gògọ́, tàbí àìsàn nínú ọ̀gbẹ́. Ìdánilójú nígbà gbogbo ni ìtòpinpin ọ̀gbẹ́ nípa olùtọ́jú ìlera, ẹniti ó lè mú àpẹẹrẹ ìdọ̀tí ọ̀gbẹ́ fún ìdánilójú. Oríìṣí pH nínú ọ̀gbẹ́ tún lè ṣàlàyé, bí BV ṣe ń mú kí pH ti gíga. Ìmọ̀ àwọn àmí kíákíá àti ṣíṣẹ ìmọ̀ran ìtọ́jú lè mú kí ìtọ́jú ọ̀rẹ̀yìnàá àti dẹ́kun àwọn ìṣòro."
+          },
+          {
+            "id": 26,
+            "title": "Àwọn Ìtọ́jú",
+            "topic_img": "https://img.freepik.com/free-photo/close-up-woman-having-stomach-ache_23-2148637635.jpg",
+            "description": "Ìmọ̀ àwọn ìtọ́jú yàtọ̀ fún BV.",
+            "content": "Ìtọ́jú fún BV nígbà gbogbo ni àwọn antibiotics, bí metronidazole tàbí clindamycin, tí a lè mú ní ènìyàn tàbí tí a fi sílẹ̀ lórí ara. Ó ṣe pàtàkì láti parí gbogbo àwọn ìtọ́jú antibiotics láti jẹ́rìí pé àrùn náà ti lọ. Nínú àwọn àpẹẹrẹ, probiotics lè ṣe àpèjúwe láti ràn án lọ́wọ́ láti jíjẹ́ padà ìdọ̀gba bacteria nínú ọ̀gbẹ́. Ó tún ṣe pàtàkì láti yà douching àti lò àwọn ohun ìmọ̀ràn tí ó ń dára, tí kò ní òòrùn. Ìyàwòrán ìmọ̀ran pẹ̀lú olùtọ́jú ìlera rẹ lè ràn án lọ́wọ́ láti jẹ́rìí pé àrùn náà ti lọ àti dẹ́kun àtúnfẹsẹ̀."
+          },
+          {
+            "id": 27,
+            "title": "Àwọn Ètò Ìdènà",
+            "topic_img": "https://img.freepik.com/free-photo/woman-with-stomach-ache-sitting-bed_23-2148590461.jpg",
+            "description": "Àwọn ìmọ̀ràn àti àwọn ètò fún ìdènà BV.",
+            "content": "Ìdènà BV ní àwọn ẹ̀tọ̀ ti àwọn ilépa ẹ̀rọ-ọmọ̀ràn ọ̀gbẹ́ àti àìsọ̀nọ́n àwọn ohun tí lè mú àìdọ̀gba bacteria ṣẹlẹ̀. Ẹ̀kọ́ra douching, lò àwọn ohun ìmọ̀ràn tí kò ní òòrùn, àti ṣíṣe àfẹ́tọ̀rọ̀ọ̀sọ̀rọ̀ó nípa lò condoms lè ràn án lọ́wọ́ láti dẹ́kun BV. Ìwò pé ẹwà ọ̀gbọ́ (cotton) àti yà àwọn ẹ̀wù tó pé lé ara lè tún ràn án lọ́wọ́ láti jẹ́rìí ìlera ọ̀gbẹ́. Probiotics, bí ó tilẹ̀ jẹ́ nínú ounjẹ tàbí àwọn ohun ìmọ̀ràn ẹ̀wẹ̀, lè ràn án lọ́wọ́ láti jẹ́rìí ìdọ̀gba bacteria. Ìyàwòrán ìmọ̀ran obìnrin tí ó wọ́pọ̀ ṣe pàtàkì fún àwọn ètò ìlera ọ̀gbẹ́ àti ṣíṣe yáwòrán àwọn àmí bíi àìdọ̀gba."
+          },
+          {
+            "id": 28,
+            "title": "Àwọn Ìṣòro àti Nígbà tí ó yẹ kí ó Wá Ìrànlọ́wọ́",
+            "topic_img": "https://img.freepik.com/free-photo/young-woman-with-stomachache-sitting-bed_23-2148637308.jpg",
+            "description": "Ogbólógbò àwọn ìṣòro tí BV lè mú wa àti nígbà tí ó yẹ kí ó wá ìrànlọ́wọ́ ìtọ́jú.",
+            "content": "Nígbà tí BV kò fẹ́ra ńlá, ó lè mú àwọn ìṣòro bá tí a kò bá tọ́jú rẹ̀. Àwọn wọ̀nyí ní ewu àjẹ́mọ́ràn àti àtọ́gbọn gbígbé, àwọn ìṣòro ìbímọ̀ bíi ìkópa ní ọjọ́ kọ́ọ̀kan, àti àrùn oníjagun tó ń kan àwọn ọ̀gbẹ́, tó lè ní ipa lórí ibi. Bí o bá ní àwọn àmí BV, ó ṣe pàtàkì láti wá ìmọ̀ran ìtọ́jú kíákíá. BV tí ó ṣe pé tàbí tí a kò tọ́jú rẹ̀ yẹ kí olùtọ́jú ìlera kan tó àwọn ìdí tó kàn àti àwọn ìtọ́jú tó yẹ. Ìmọ̀ kíákíá lè ràn án lọ́wọ́ láti dẹ́kun àwọn ìṣòro àti jẹ́rìí ìlera ọ̀gbẹ́."
+          }
+        ]
+      }
     }
   ],
   "topics": [
     {
       "id": 1,
-      "title": "Ibi",
-      "topic_img": "https://img.freepik.com/free-photo/medium-shot-happy-parents-be_23-2151446095.jpg?t=st=1716893006~exp=1716896606~hmac=b7b5cf53c7adf68cf21bece8021635c06100b232177d1c22532384ec204041ef&w=740",
-      "description": "Mọ̀ ìrìnàjò ibi, láti ìsísí sí ìbímọ̀.",
+      "title": "Ohun tí BPCR jẹ́",
+      "topic_img": "https://img.freepik.com/free-photo/unwanted-child-shocked-dark-skinned-young-woman-looks-with-puzzlement_273609-44884.jpg?t=st=1717344285~exp=1717347885~hmac=91a442fda611a67b7ba72370e11b576adda34a03efe65e15645e66fc26be091c&w=826",
+      "description": "Mọ̀ ohun tí Ìkànsí àwọn Ìbímọ̀ àti Ìmúra àwọn Ìṣòro (BP/CR) jẹ́, ètò ìgbàlà èdá tí ó ṣe ìdánilójú ìbímọ̀ àìléwu àti kúrò ní ikú obìnrin àti àwọn ọmọ tuntun.",
       "content": {
-        "intro": "Ibi jẹ́ ìrìnàjò àgbàyanu tí ó ní àwọn ayipada ara àti ọkàn púpọ̀. Àkókò yìí yọrí sí ìgbésí ayé àti ìdàgbàsókè ọmọ láàárín ikùn ìyá.",
+        "intro": "Ìkànsí àwọn Ìbímọ̀ àti Ìmúra àwọn Ìṣòro (BP/CR) jẹ́ nípa pípa dájú pé gbogbo obìnrin tí ó ń retí ọmọ ní ìfẹ́ pípé lórí àwọn iṣẹ́ ìtọọ́jú nígbà tí ó ṣe pàtàkì jù. Nípa gbígbé àwọn ètò kalẹ̀, a lè dẹ́kun àwọn ìyará tó léwu àti yè àwọn ìgbésí ayé.",
         "details": [
-          "Ibi máa ń lásán ní òjò méwàá, pínyé sí mẹ́tà. Òkọ̀ọ̀kan wọn ní àwọn ìdàgbàsókè àti àwọn ìṣòro tàbí àdìtú ara wọn.",
-          "Àwọn ìpàdé ìléra lásán dárà fún àtúnṣe ti èmi àti ọmọ. Eyi pẹlu àwọn ìbẹwò fún olùtìgbà ìtọ́jú, àwọn ṣíṣe àyẹwò láti wọ́le nítorí irokeke bàíṣì.",
-          "Ní ètò̀kú mẹ́tà, ọ̀pọ̀lopọ̀ àwọn obìnrin máa ń ní ìfẹ̀, àti èdá ilé fún ìmọ̀ tí àárò. Ìtíjú yẹ kí à fi sí ọ̀rọ̀ aṣejádá náà.",
-          "Ní ètòkú kejì, ọ̀pọ̀lopọ̀ àwọn obìnrin máa ń rí ìlòpo-mẹ́tà nínú ìlérí ènìyàn àti pẹ̀lẹ́dun. Ó dárà láti bẹ̀rẹ̀ sí àyẹ̀wò àwọn èteṣísà bí wíwọ̀lé tàbí òwúrẹ ìwọ̀n, kí á lè rí ìwá ìbimọ̀ àti gbígbà agbára náà.",
-          "Ní ètòkú kẹta, ọmọ máa ń dàgbà púpọ̀, àti ìyá lè rí bí kíláásì àwọn ọmọ bíbí ń kù kàníkàní. Ìtìjú, yóga fún àwọn alárùkù àti òúnjẹ kékeré lè ṣe kàyéjọ tàbí dáké ẹni nínú àwọn èyí.",
-          "Ibi tún pín èdá ọkàn. Iṣiparun àwọn àyípadà ọkàn lè yọrí sí àwọn ayipada ìtìjú, ó sì yẹ kí à má bínú. Òfin pàdánù ati kí ẹnikẹ́ni kún, tọjú abẹ́ lọ.",
-          "Ìyá gíga kálọ yàtọ̀ sí yàtọ̀ láti lọ ṣáájú fípa-áràndá náà. Wíwọ́ àwọn kíṣẹ́ láti wá ìgbà fun ẹni tí ó máa ran ẹ lọ́sìn."
+          "Ìkànsí àwọn Ìbímọ̀ àti Ìmúra àwọn Ìṣòro (BP/CR) jẹ́ ètò láti gbé lílò àwọn ìtọ́jú olùkóni jùlọ nígbà oyún àti pàtàkì jùlọ nígbà ìbímọ̀.",
+          "Ó dá lórí ẹ̀kọ́ pé gbígbé ètò fún ìbímọ̀ àti jije pípé fún àwọn ìṣòro lè dẹ́kun àwọn ìyará nígbà tí a bá ń rí ìtọ́jú olùkóni ní ìbímọ̀ àìdá tàbí nígbà ìṣèjẹ́ nínú ẹ̀tọ́jú àìléwu àti yè ikú.",
+          "Àwọn ìyará nígbà oyún tàbí ìbímọ̀ lè jẹ́ abajade láti àìsí ìmúran fún olùkóni, àìsí ìdámọ̀ ibi tí ìtọ́jú wà, àìní àwọn ọ̀nà ìrìnàjò lọ sí ibi tí ìtọ́jú wà, àìsí àwọn ohun èlò tí ó ṣe pàtàkì fún ìbímọ̀ àìléwu àti ìtọ́jú ọmọ tuntun, àìní ìpinnu lórí ẹni tí yóó bójú tó ìdílé obìnrin nígbà tí kò wà nílé, àti ẹlẹ́gbẹ́ nígbà ìrànwọ́ ìṣèjẹ́, àìní owó fún ìbímọ̀ àìdá tàbí nígbà ìṣèjẹ́, àìní ìpinnu lórí ẹni tí yóó ṣètò fún ìrànwọ́ nígbà ìṣèjẹ́ àti ètò fún ẹlẹ́jẹ́.",
+          "BP/CR ń gbígbé àwọn ètò kalẹ̀ láti dẹ́kun àwọn ìyará ní gbígbé àwọn ìtọ́jú olùkóni ní ìbímọ̀, bí ó tilẹ̀ jẹ́ ní ìbímọ̀ àìdá tàbí nígbà ìṣèjẹ́.",
+          "Àwọn ìṣòro pàtàkì nígbà oyún àti ìbímọ̀ ni ìdámọ̀ olùkóni, ìdámọ̀ ibi tí ìtọ́jú wà, ètò fún ìrìnàjò, ìkọ̀ra àwọn ohun èlò tí ó ṣe pàtàkì fún ìbímọ̀, àti ìpinnu owó tó tó.",
+          "BP/CR ń ran àwọn ìdílé lọ́wọ́ láti gbígbé àwọn ètò fún àwọn ìṣòro wọ̀nyí, ní ṣíṣe ìbímọ̀ pípé àti àìléwu."
         ],
         "subtopics": [
           {
-            "id": 1,
-            "title": "Òunjẹ Màgba Nínú Ibi",
-            "topic_img": "https://img.freepik.com/free-photo/healthy-pregnancy-food_53876-74335.jpg",
-            "description": "Jẹun gẹ́gẹ́ bí òunje a dára fún èmi àti ọmọ.",
-            "content": "Òunjẹ tó péye jẹ́ pataki lásán láti rí ìdàgbàsókè ọmọ ati ìtójú ilé iyá. Fojú ṣáná nínú ohun ọgbin, ìwúra, àwọn oníjè, ìgbá ni àdúgbò. Ìkùn àti àwọn oró olómodé àti àwọn epo óge-3 jẹ dandan. Jẹ kó yẹ kó ni òunjẹ. Rí bòńgó sísá àti ní àkún. Òunjẹ ìyí ló lè fi ọkọ́."
-          },
-          {
-            "id": 2,
-            "title": "Ètò Ilé Èrò àti Ìlérí",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-doing-yoga-exercise_53876-138232.jpg",
-            "description": "Múra ká ń lo sí àkókò ibi.",
-            "content": "Ìlérí láàárin ibi máa ń ran án, kódà kó sìn sí ìwọ̀n. Ó tún lè dín àárò, dárí sí ìmọ̀ rírígbí kí ẹkúnré. Ìṣe àwọn gbáyé gba ni nínú àwọn àwọn òdó, kí o lọ sí oríké àwọn onílé yóga. Ó dárà láti kún sí àwọn onílé, kọ́ṣe àwọn àrùn, rárá o ṣe aláìní. Òjòyò tún le ní àwọn obìnrin àwọn ibi kékeré, ó dà kí ló lè dín àwọn òunjẹ."
-          },
-          {
-            "id": 3,
-            "title": "Àyípadà Ìtìjú",
-            "topic_img": "https://img.freepik.com/free-photo/happy-pregnant-woman-touching-belly-home_53876-129584.jpg",
-            "description": "Ṣíṣe ìtòjú àwọn ìrònú àti ìlera ọkàn nínú ibi.",
-            "content": "Ibi le da àwọn ìrònú ìyípadà tóbi nítorí ìyípadà àwọn àwọn orí. Ó wọ́pò láti rí pẹ̀lẹ́dun àti ìrírí àwọn ìfẹ́. Ìfọ̀rọ̀ wíwọ́ tó ṣe é yé ìmọ̀lé lówó láti òun tó dárà. Ìkọ̀ṣẹ́ àwọn yíyààpè, ifọ̀rọ̀rẹ̀sìn, àti yóga fún àwọn ibi le pèsè àwọn ìmọ̀lẹ̀ láìkì. Mà sì fi sí àwọn ìtìjú tó bá yọrísí tàbí láti wá ní èrò ní àwọn ìròka."
+            "id": 15,
+            "title": "Ètò BPCR",
+            "topic_img": "https://img.freepik.com/free-photo/box_53876-65526.jpg?t=st=1717524141~exp=1717527741~hmac=4c0c67298aae43035b4119ff005d4a32795c71efac49fac865a000eea4638af5&w=740",
+            "description": "Ètò ìkànsí ìbímọ̀ àti ìmúra àwọn ìṣòro ń fòpin sí",
+            "content": "• Ìgbé ètò ìbímọ̀ fún ìbímọ̀ àìdá àti àwọn ìṣòro tó lè ṣẹlẹ̀: \n – Ó jẹ́ ètò tí obìnrin àti ìdílé rẹ̀ gbé kalẹ̀ nínú ìrànwọ́ olùkóni– Nígbà gbogbo, kò kà bíìwé (bó tilẹ̀ jẹ́ kí ó dára bẹ́ẹ̀)– Ó yẹ kí ó ríṣàáyẹ̀ àti tí ó yẹ ní gbogbo àbẹ̀wò\n • Ìdíyelé àìṣètò nígbà ìbímọ̀ tàbí nígbà ìṣèjẹ́\n • Ìdánilójú ìtọ́jú tí ó tó àti tí ó yẹ\n "
           },
           {
             "id": 4,
-            "title": "Ìtọ́jú Màgba",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-checking-her-belly_53876-14438.jpg",
-            "description": "Pataki àwọn ìsọfòkàsí àti àwọn àyẹ̀wò àìsàn.",
-            "content": "Ìtọ́jú máa gba ní pataki láti gbé ẹ̀mí àwọn ìyá àti ọmọ. Eyi yọrí sí wíwọ̀ àwọn ìbẹwò tó sọfọ̀kàsí, àwọn àyẹ̀wò ohun tó yẹ, àti àwọn àkànṣe. Ìtọ́jú máa pèsè ìfihàn àti ṣíṣe àwọn iṣòro kò ṣòro. Ẹ̀mí ní ó sọ àwọn èyí jẹ àkọ̀sílẹ̀ ní àwọn ìtògbọ́n àwọn àìsàn àti àwọn ilé àwọn èrò. Ó yẹ kí èmi má dá àwọn àpẹrẹ gbogbo."
+            "title": "Ìdámọ̀ Olùkóni Ìbímọ̀",
+            "topic_img": "https://img.freepik.com/free-photo/nurse-portrait-hospital_23-2150780276.jpg?t=st=1717523246~exp=1717526846~hmac=ea82f138fbd375bc345529fb8b0d2d8f0f1e494d66e2266cdad57c3b64dfd0dd&w=826",
+            "description": "Olùkóni Ìbímọ̀ (SBAs) jẹ́ pàtàkì fún ìbímọ̀ àìléwu. Ṣíṣe ìdánilójú pé olùkóni rẹ̀ ti parí ẹ̀kọ́ tí a fọwọ́sí nínú ìtọ́jú oyún àti ọmọ tuntun, ó lè ṣètò àwọn ìṣòro, àti ó ń mú kí o lérò pẹ̀lú àti ọwọ́.",
+            "content": "Gẹ́gẹ́ bí ètò BPCR, Olùkóni Ìbímọ̀ (SBAs) ní ipa pàtàkì nínú pípa dájú pé ìbímọ̀ àìléwu àti kúrò ní ikú obìnrin àti ọmọ tuntun. Ṣíṣe ìdánilójú pé ẹni náà ti parí àwọn ètò ẹ̀kọ́ tí a fọwọ́sí pàtàkì fún ìtọ́jú oyún àti ọmọ tuntun. Ṣíṣe ìdánilójú pé ẹni náà ní ìmọ̀ nípa àwọn ìṣòro ìbímọ̀ àti agbára láti ṣètò àwọn ìṣòro dáadáa. Wá àwọn SBAs tí ń fìtara hàn, bọ́gbọ́, àti àdúróṣinṣin sí àwọn obìnrin tí ó ń retí ọmọ àti ìdílé wọn."
           },
           {
             "id": 5,
-            "title": "Múra Lóṣé Ìbí",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-holding-her-belly-while-sitting_53876-146510.jpg",
-            "description": "Múra sí ìrìnàjò ibi àti ìtìlẹ̀.",
-            "content": "Múra sí ìbí máa gba àwọn ìgbà tí a sì ṣáájú, ṣíṣe àwọn ẹ̀kó kọ́ṣe àwọn ilé máa kílo fún àwọn èrò. Ó yẹ kó sàwárí àwọn èyí bóyá àwọn ilé àti àwọn àwọn omi orí ní àwọn ibi. Èdá àwọn ayé tí yọrí sí àsíná àwọn ilé náà ó sì yẹ kí à má fẹsẹ̀. Yó ní gbé ìkọsílẹ̀ fún àwọn àwọn àwọn àwọn òwúrẹ àwọn èrò, àwọn àkọ́lé àwọn àkànṣe àti ìkọlá àwọn àdúró, àti ṣíṣe àwọn ẹ̀rò kí àwọn àkọlé àti àwọn ibi, dárí láti mọ èkó àti àwọn ètò."
+            "title": "Ìdámọ̀ Ibi Ìtọ́jú",
+            "topic_img": "https://img.freepik.com/free-photo/retinal-biometrics-technology-with-man-s-eye-digital-remix_53876-108518.jpg?t=st=1717522970~exp=1717526570~hmac=4ad4ffee0ad0daea82a1a66462cf3d5444fcaa8fa471308d0b1653964953cd71&w=826",
+            "description": "Yíyàn ibi ìtọ́jú tó dára jẹ́ pàtàkì. Wá fún ibi tí a fọwọ́sí tí ó ní olùkóni, ṣíṣe àwọn ìmọ̀ran ọ̀tọ̀ọ̀tọ̀ àti wíwo ìgbàwí. Gbà á kà ìpò àti ìrìnàjò tó rọ̀, pàtàkì jùlọ fún àwọn ìṣòro alẹ́.",
+            "content": "Gẹ́gẹ́ bí ètò BPCR, yíyàn ibi ìtọ́jú tí ó dára fún ìbímọ̀ jẹ́ pàtàkì fún ìdánilójú àìléwu àti ìlera obìnrin àti ọmọ. Wá fún ibi tí a fọwọ́sí lábẹ́ àwọn ètò ìtọ́jú tí a mọ̀ ní ọ̀dọ́ àwọn ẹ̀ka ìtọ́jú tàbí àwọn ìjọba. Ṣíṣe ìdánilójú pé ibi náà ní àwọn olùkóni (SBAs) àti pẹ̀lú àwọn ìṣẹ́ lórí ọjọ́ gbogbo. Wá àwọn ìdí láti àwọn iṣe àwọn ọwọ́, mímú àwọn ohun èlò ìtọ́jú mọ́ àti ṣíṣe ìbímọ̀ lórí ọ̀gbọ̀n. Gbà á kà ìpò àti ìrìnàjò tó rọ̀ sí ìwọ́, pàtàkì jùlọ tí o bá nílò láti wà níbẹ̀ ní alẹ́."
+          },
+          {
+            "id": 6,
+            "title": "Ìrìnàjò sí Ibi Ìtọ́jú",
+            "topic_img": "https://img.freepik.com/free-photo/african-american-female-paramedic-face-protective-medical-mask-standing-front-ambulance-car_627829-4899.jpg?t=st=1717523430~exp=1717527030~hmac=2c18d200f9baa56353f06c58176c42d1ba74696ca3bd1c0a93bd28fd8f93508a&w=826",
+            "description": "Gbígbé ètò fún ìrìnàjò tí ó tọ́ àti rọ̀ sí ibi ìtọ́jú, pàtàkì jùlọ fún àwọn ìṣòro àìléwù tàbí ní àsìkò alẹ́.",
+            "content": "Ṣíṣe ìdánilójú àwọn ọ̀nà ìrìnàjò tí ó rọ̀, tó gbígbé àti rọ́, pàtàkì jùlọ fún àwọn àsìkò alẹ́ láti gbé obìnrin tí ó wà nínú oyún sí ibi ìtọ́jú nígbà ìbímọ̀ tàbí ní ìṣẹ̀lẹ̀ àwọn ìṣòro."
           }
         ]
       }
     },
     {
       "id": 2,
-      "title": "Igba",
-      "topic_img": "https://img.freepik.com/free-photo/portrait-mother-with-newborn-baby_23-2151055033.jpg?t=st=1716893171~exp=1716896771~hmac=20352121ae714f785024ac29dfb85ff7b060ede9697444d58f191d92134ab5a6&w=826",
-      "description": "Igba, iranwo ati awọn aṣayan ipo, ati kini iwọ ni nira lori iranwo.",
+      "title": "Àwọn Ààmì Èwu Nígbà Oyún àti Ìgbà Ìbímọ",
+      "topic_img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-infertility-illustration_23-2149379493.jpg?t=st=1717344443~exp=1717348043~hmac=e32cdcd73c7cb7cae072e2078775740fff5046cb5b42e7732605d0299a830f3f&w=740",
+      "description": "Kọ nípa àwọn ààmì èwu nígbà oyún àti ìgbà ìbímọ tí gbogbo obìnrin tó lóyún gbọ́dọ̀ mọ̀ láti jẹ́rìí fífúnni ní ìtọju ìwòsàn nígbà tó tọ́.",
       "content": {
-        "intro": "Igba ni ifihan ti yanayin ƙyanwa, ti o ni ifihan ati idaraya omo. Yẹ ki ibere kan, ati aiyẹ ti o wa fun awo.",
-        "details": [
-          "A nilo mẹta ti yanayin ƙyanwa: iranwo ti o n sẹyin, iranwo ti o n sẹyin, ati iranwo idagbasoke. Iyẹn yẹ ki e mọ kini ti o inu iranwo.",
-          "Iranwo ti o n sẹyin ni idagbasoke ti a bẹrẹ, ati iwọna ti ọkan. Awọn igbe nikan yio tọjọ iya ti o le duro lọdọ idagbasoke kan ṣugbọn ki i tẹ si isin wa ni ara wa wa.",
-          "Iranwo ti o n sẹyin ni ti idagbasoke ti a gbaara ti awọn igbe yio kọja lọwọwọ. Awọn igbe nikan ni ifihan iko ti o le ṣeṣẹ wọn ti o le ran iranwo mu.",
-          "Iṣẹ ijo ti o sẹyin ni alabọ naa, ibi ti omo yio tẹ ju ibi ti o ti bọ lọ. Awọn iwọna to ṣe ajanṣẹ ni ṣaaju fun ijo ti o ṣe nkan iwo wa lọ.",
-          "Iṣẹ meta wa ni iranwo ni iranwo idagbasoke. Nigba ti omo yio tẹ ju ibi ti o ti bọ lọ, awọn iwọna ti aṣe daju yio ṣe ajanṣẹ ni iranwo idagbasoke. Ayanfẹ nikan yio beere iranwo mu lati ranti alabọ naa.",
-          "Alabọ ti o tẹle ni nipasẹ ilera ti o mọ lati ranti alabọ ti o pẹlu ara ibeere ti o wa fun ara ibeere ti o n saaju ki omo bi ẹru tabi ẹkọ oru. Omo alabọ yio tun ṣe ayanfẹ ki o mọ lati ranti alabọ ti o wa fun ara ibeere ti o n saaju."
-        ],
-        "subtopics": [
-          {
-            "id": 6,
-            "title": "Awọn Isejuto ti Iranwo",
-            "topic_img": "https://img.freepik.com/free-photo/doctor-explaining-pregnancy-check-up-report-while-consulting-young-expectant-woman_1262-16689.jpg",
-            "description": "Mọ ibere to wa ni awọn isejuto ti iranwo ati kini iwọ ni nira.",
-            "content": "Iranwo jẹ ifihan si mẹta ti a mọ: iranwo ti o n sẹyin, iranwo ti o n sẹyin, ati iranwo idagbasoke. Iranwo ti o n sẹyin ni idagbasoke ti a bẹrẹ, ati iwọna ti ọkan. Awọn igbe nikan yio tọjọ iya ti o le duro lọdọ idagbasoke kan ṣugbọn ki i tẹ si isin wa ni ara wa wa."
-          },
-          {
-            "id": 7,
-            "title": "Iṣẹjẹjẹ ti Igbagbogbo",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-having-regular-checkup-with-doctor_23-2148379329.jpg",
-            "description": "Awọn ọpọlọpọ ti le ṣe fun ifihan awọn igbagbogbo ni iranwo ati iranwo.",
-            "content": "Iṣẹjẹjẹ ti iranwo le mu ilana ni orisun. Awọn isejẹjẹ ti n tẹ nipasẹ oro inu, iwe ọmọ ati iwọn, ti o le mu ilana ni iranwo ati iranwo. Iwọna ti i tẹ si isin wa ni ara wa wa, ati ki iwọn yio tun tẹ si odo bi o yọ ki o mọ lati ranti awọn isejẹjẹ ti iranwo."
-          },
-          {
-            "id": 8,
-            "title": "Awọn Iyọkẹti Igbagbogbo",
-            "topic_img": "https://img.freepik.com/free-photo/midsection-pregnant-woman-having-regular-checkup-with-doctor_23-2148379332.jpg",
-            "description": "Awọn aṣayan ipo ti o le ran iranwo mu.",
-            "content": "Awọn iyọkẹti ipo ipo ni le ṣe iranwo ati iranwo, ati jẹ ki o tẹ si iranwo wa ni ibi kan. Awọn iyọkẹti to wa ni ayẹwo, bi o ti wa, ti a fi asọ, ti a gba aṣọ kọ, ti a ṣe igbaṣi bi kọọkan. Igba lori itakun ati tọkutọ ti iranwo le ran iranwo mu ki o wa ni alaye ifẹ ni ti o tẹ si iranwo."
-          },
-          {
-            "id": 9,
-            "title": "Ilana ni Igbagbogo",
-            "topic_img": "https://img.freepik.com/free-photo/mother-baby-playing-bed_1157-19360.jpg",
-            "description": "Alaafia fun ẹlẹya ati omo ni idagbasoke.",
-            "content": "Ilana ni iṣẹjẹ fun ẹlẹya ati omo. Nigba ti iranwo bẹrẹ, iya yio wa ni ilana fun eyikeyi oro ti o le fẹ ki o mọ lati ranti iranwo. Omo alabọ yio tun tẹ si odo lati tẹle fun lilo asiwaju fun ayẹyẹ ni rẹ, ati ki iwọn kere tẹ si lati ranti awọn ifẹ to wa. Ni iwaju ọjọ ti o ti bẹrẹ iranwo, yio le wa ni ọjọ ti o pẹlu awọn isẹjẹjẹ fun iranwo, joko, ati ki o si wa ni ilera lati awọn ami iranwo. Ilana fun ifihan idagbasoke, bi orilẹ-ede fun oru pẹlu awọn itan ati awọn itọsọna ti o le wa, ni orisun ni ohun to to."
-          },
-          {
-            "id": 10,
-            "title": "Sẹsan laaye",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-showing-ultrasound-scan-doctor_23-2148888593.jpg",
-            "description": "Mọ ilana ni idagbasoke ati iṣẹ rẹ ni iranwo.",
-            "content": "Sẹsan laaye (C-section) jẹ iṣẹjẹ ohun ti o ni eto fun lati ṣe iranwo omo nibẹ ati ti iranwo. O le jẹ orilẹ-ede ni aṣayan ti o pa omo nibẹ. Irẹlẹ fun sẹsan laaye ni lati jọ ti iranwo dara lori itakun ati rẹ si ẹnu. O le jẹ nise akọkọ ẹsẹ ati awọn iwọna ati jọ sọtun sọtun ni eto idagbasoke rẹ. O le tun wo eto ohun rẹ lati irẹlẹ iranwo ti o ni eto rẹ lati ranti iranwo ti o mọ lati ranti awọn iranse."
-          }
-        ]
+          "intro": "Ìmòye àwọn ààmì èwu látàrí àsìkò lè yí ìwà ipò padà. Mímọ ohun tó yẹ kí o fojú inú rẹ rí jẹ́ kí o gba ìrànwọ́ tí o nílò láì sí ìfojúsùn.",
+          "details": [
+              "Èébú oṣùpá",
+              "Ìgbẹ̀mì tó ń bá a lọ",
+              "Àáyá",
+              "Ìnítìjú nínú ìmí",
+              "Ibà",
+              "Ìrora tó pò ní agbègbè inú",
+              "Ìṣúra ọwọ́ àti ojú",
+              "Ìrora orí tó pọ̀ tàbí àyíká ojú tí kò dara",
+              "Ìmúlẹ̀ tàbí fàájì ara",
+              "Ìrora tó ń bá a lọ ní agbègbè inú ìkùn àdátá",
+              "Ìbájẹ́ omi ara agbègbè obìrìn ṣáájú ọjọ́ rẹ̀ tàbí àbájọ tí ń jáde",
+              "Ìdínkù tàbí ìsọnù ìsọ́ ìkùn"
+          ],
+          "subtopics": []
       }
-    }
+  }
+  
   ]
 }

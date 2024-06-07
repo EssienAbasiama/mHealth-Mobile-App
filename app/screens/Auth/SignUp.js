@@ -6,15 +6,21 @@ import {
   StyleSheet,
   TextInput,
   TouchableOpacity,
+  KeyboardAvoidingView,
 } from "react-native";
 import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
 import { SafeAreaView } from "react-native-safe-area-context";
+import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
+import { SafeAreaView } from "react-native-safe-area-context";
+import { FIREBASE_AUTH } from "../../config/firebase";
+import { createUserWithEmailAndPassword } from "firebase/auth";
 
 const SignUp = () => {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [email, setEmail] = useState("");
   const navigation = useNavigation();
+  const auth = FIREBASE_AUTH;
 
   const handleSignIn = () => {
     // Handle sign-in logic here
@@ -25,8 +31,20 @@ const SignUp = () => {
 
   const handlePress = () => {};
 
-  const signIn = () => {
-    navigation.navigate("SignIn");
+  const signUp = async () => {
+    try {
+      const response = await createUserWithEmailAndPassword(
+        auth,
+        email,
+        password
+      );
+      const json = await response.json();
+      navigation.navigate("SignIn");
+
+      console.log(json);
+    } catch (error) {
+      console.error(error);
+    }
   };
 
   return (
@@ -36,56 +54,58 @@ const SignUp = () => {
         <Text style={styles.pageSubTitle}>
           Create an account to continue to an awesome experience.
         </Text>
-        <View style={styles.formContainer}>
-          <View>
-            <Text style={styles.label}>Username</Text>
+        <KeyboardAvoidingView behavior="padding">
+          <View style={styles.formContainer}>
             <View>
-              <TextInput
-                style={styles.input}
-                value={username}
-                onChangeText={setUsername}
-                selectionColor="#2D2D5F"
-                placeholder="Enter your username"
-              />
-              <Text style={styles.errorMessage}>
-                This user isn’t registered
-              </Text>
+              <Text style={styles.label}>Username</Text>
+              <View>
+                <TextInput
+                  style={styles.input}
+                  value={username}
+                  onChangeText={setUsername}
+                  selectionColor="#2D2D5F"
+                  placeholder="Enter your username"
+                />
+                <Text style={styles.errorMessage}>
+                  This user isn’t registered
+                </Text>
+              </View>
+            </View>
+            <View>
+              <Text style={styles.label}>Email Address</Text>
+              <View>
+                <TextInput
+                  style={styles.input}
+                  value={email}
+                  onChangeText={setEmail}
+                  selectionColor="#2D2D5F"
+                  placeholder="johndoe@thehype.com"
+                />
+              </View>
+            </View>
+            <View style={styles.formGroup}>
+              <Text style={styles.label}>Password</Text>
+              <View>
+                <TextInput
+                  style={styles.input}
+                  value={password}
+                  onChangeText={setPassword}
+                  placeholder="Password"
+                  selectionColor="#2D2D5F"
+                  secureTextEntry={true}
+                />
+              </View>
+            </View>
+            <View style={styles.buttonContainer}>
+              <TouchableOpacity
+                onPress={handlePress}
+                style={styles.buttonClickMe}
+              >
+                <Text style={styles.buttonText}>Sign Up</Text>
+              </TouchableOpacity>
             </View>
           </View>
-          <View>
-            <Text style={styles.label}>Email Address</Text>
-            <View>
-              <TextInput
-                style={styles.input}
-                value={email}
-                onChangeText={setEmail}
-                selectionColor="#2D2D5F"
-                placeholder="johndoe@thehype.com"
-              />
-            </View>
-          </View>
-          <View style={styles.formGroup}>
-            <Text style={styles.label}>Password</Text>
-            <View>
-              <TextInput
-                style={styles.input}
-                value={password}
-                onChangeText={setPassword}
-                placeholder="Password"
-                selectionColor="#2D2D5F"
-                secureTextEntry={true}
-              />
-            </View>
-          </View>
-          <View style={styles.buttonContainer}>
-            <TouchableOpacity
-              onPress={handlePress}
-              style={styles.buttonClickMe}
-            >
-              <Text style={styles.buttonText}>Sign Up</Text>
-            </TouchableOpacity>
-          </View>
-        </View>
+        </KeyboardAvoidingView>
         <View style={styles.somethingWrongBTNContainer}>
           <TouchableOpacity onPress={signIn}>
             <Text style={styles.somethingWrongText}>

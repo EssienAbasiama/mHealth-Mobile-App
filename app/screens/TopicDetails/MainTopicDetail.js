@@ -14,13 +14,16 @@ import {
   Dimensions,
   Button,
 } from "react-native";
-import mainTopics from "../../storage/MainTopic";
+import { useTranslation } from "react-i18next";
+// import mainTopics from "../../storage/MainTopic";
 
 function MainTopicDetail() {
   const [topic, setTopic] = useState(null);
   const route = useRoute();
   const { id } = route.params;
   const navigation = useNavigation();
+  const { t } = useTranslation();
+  const mainTopics = t("mainTopics", { returnObjects: true });
   useEffect(() => {
     const selectedTopic = mainTopics.find((topic) => topic.id === id);
     setTopic(selectedTopic);

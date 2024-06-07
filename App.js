@@ -53,16 +53,47 @@ export default function App() {
                 />
               )}
             </Stack.Screen>
-            <Stack.Screen name="TopicDetailScreen" component={TopicDetails} />
-            <Stack.Screen name="SubTopicScreen" component={SubTopic} />
-            <Stack.Screen
-              name="SubMainTopicScreen"
-              component={MainTopicSubTopic}
-            />
-            <Stack.Screen
-              name="MainTopicDetailScreen"
-              component={MainTopicDetail}
-            />
+            <Stack.Screen name="TopicDetailScreen">
+              {(props) => (
+                <TopicDetails
+                  {...props}
+                  languageResources={languageResources}
+                  languagesList={languagesList}
+                  changeLng={changeLng}
+                />
+              )}
+            </Stack.Screen>
+            <Stack.Screen name="SubTopicScreen">
+              {(props) => (
+                <SubTopic
+                  {...props}
+                  languageResources={languageResources}
+                  languagesList={languagesList}
+                  changeLng={changeLng}
+                />
+              )}
+            </Stack.Screen>
+
+            <Stack.Screen name="SubMainTopicScreen">
+              {(props) => (
+                <MainTopicSubTopic
+                  {...props}
+                  languageResources={languageResources}
+                  languagesList={languagesList}
+                  changeLng={changeLng}
+                />
+              )}
+            </Stack.Screen>
+            <Stack.Screen name="MainTopicDetailScreen">
+              {(props) => (
+                <MainTopicDetail
+                  {...props}
+                  languageResources={languageResources}
+                  languagesList={languagesList}
+                  changeLng={changeLng}
+                />
+              )}
+            </Stack.Screen>
           </>
         )}
       </Stack.Navigator>

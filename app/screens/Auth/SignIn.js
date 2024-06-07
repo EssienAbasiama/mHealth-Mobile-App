@@ -6,20 +6,25 @@ import {
   StyleSheet,
   TextInput,
   TouchableOpacity,
+  KeyboardAvoidingView,
 } from "react-native";
 import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
 import { SafeAreaView } from "react-native-safe-area-context";
+import { FIREBASE_AUTH } from "../../config/firebase";
 
 const SignIn = () => {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const navigation = useNavigation();
+  const auth = FIREBASE_AUTH;
 
-  const handlePress = () => {
-    // Handle sign-in logic here
-    console.log("Username:", username);
-    console.log("Password:", password);
-    navigation.navigate("Home");
+  const handlePress = async () => {
+    try {
+      await auth.signInWithEmailAndPassword(auth, username, password);
+      navigation.navigate("Home");
+    } catch (error) {
+      console.log(error);
+    }
   };
 
   const handleSignUp = () => {
@@ -33,44 +38,46 @@ const SignIn = () => {
         <Text style={styles.pageSubTitle}>
           Sign in to continue to an awesome experience.
         </Text>
-        <View style={styles.formContainer}>
-          <View>
-            <Text style={styles.label}>Username</Text>
+        <KeyboardAvoidingView behavior="padding">
+          <View style={styles.formContainer}>
             <View>
-              <TextInput
-                style={styles.input}
-                value={username}
-                onChangeText={setUsername}
-                selectionColor="#2D2D5F"
-                placeholder="Enter your username"
-              />
-              <Text style={styles.errorMessage}>
-                This user isn’t registered
-              </Text>
+              <Text style={styles.label}>Username</Text>
+              <View>
+                <TextInput
+                  style={styles.input}
+                  value={username}
+                  onChangeText={setUsername}
+                  selectionColor="#2D2D5F"
+                  placeholder="Enter your username"
+                />
+                <Text style={styles.errorMessage}>
+                  This user isn’t registered
+                </Text>
+              </View>
+            </View>
+            <View style={styles.formGroup}>
+              <Text style={styles.label}>Password</Text>
+              <View>
+                <TextInput
+                  style={styles.input}
+                  value={password}
+                  onChangeText={setPassword}
+                  placeholder="Password"
+                  selectionColor="#2D2D5F"
+                  secureTextEntry={true}
+                />
+              </View>
+            </View>
+            <View style={styles.buttonContainer}>
+              <TouchableOpacity
+                onPress={handlePress}
+                style={styles.buttonClickMe}
+              >
+                <Text style={styles.buttonText}>Sign In</Text>
+              </TouchableOpacity>
             </View>
           </View>
-          <View style={styles.formGroup}>
-            <Text style={styles.label}>Password</Text>
-            <View>
-              <TextInput
-                style={styles.input}
-                value={password}
-                onChangeText={setPassword}
-                placeholder="Password"
-                selectionColor="#2D2D5F"
-                secureTextEntry={true}
-              />
-            </View>
-          </View>
-          <View style={styles.buttonContainer}>
-            <TouchableOpacity
-              onPress={handlePress}
-              style={styles.buttonClickMe}
-            >
-              <Text style={styles.buttonText}>Sign In</Text>
-            </TouchableOpacity>
-          </View>
-        </View>
+        </KeyboardAvoidingView>
         <View style={styles.somethingWrongBTNContainer}>
           <TouchableOpacity onPress={handleSignUp}>
             <Text style={styles.somethingWrongText}>
