@@ -49,6 +49,7 @@ const Main = ({
   const [email, setEmail] = useState("");
   const [selectedLanguage, setSelectedLanguage] = useState("en");
   const [seacrching, setSearching] = useState(false);
+  const [searchText, setSearchText] = useState("");
 
   const navigation = useNavigation();
   const snapPoints = useMemo(() => ["25%", "45%"], []);
@@ -58,9 +59,66 @@ const Main = ({
   const { t } = useTranslation();
   const mainTopics = t("mainTopics", { returnObjects: true });
   const topics = t("topics", { returnObjects: true });
+  const [searchSuggestions, setSearchSuggestions] = useState([]);
+  const [filteredMainTopics, setFilteredMainTopics] = useState([]);
+  const [filteredMainSubtopics, setFilteredMainSubtopics] = useState([]);
+  const [filteredTopics, setFilteredTopics] = useState([]);
+  const [filteredSubtopics, setFilteredSubtopics] = useState([]);
   useEffect(() => {
     // console.log("NewTopicsArray", t("mainTopics", { returnObjects: true }));
   }, []);
+
+  const handleMainTopicPress = (topicId) => {
+    console.log("Main Topic Pressed:", topicId);
+  };
+
+  const handleSubTopicPress = (subTopicId) => {
+    console.log("Subtopic Pressed:", subTopicId);
+  };
+
+  const handleSearch = (text) => {
+    setSearching(true);
+    setSearchText(text);
+
+    if (!text.trim()) {
+      setFilteredMainTopics([]);
+      setFilteredMainSubtopics([]);
+      setFilteredTopics([]);
+      setFilteredSubtopics([]);
+    }
+    // Filter main topics and their subtopics
+    const filteredMainTopics = (mainTopics || []).filter((topic) =>
+      topic.title.toLowerCase().includes(text.toLowerCase())
+    );
+
+    const filteredMainSubtopics = (mainTopics || []).flatMap((topic) =>
+      (topic.content.subtopics || [])
+        .filter((subtopic) =>
+          subtopic.title.toLowerCase().includes(text.toLowerCase())
+        )
+        .map((subtopic) => ({ ...subtopic, parentTopic: topic.title }))
+    );
+
+    // Filter other topics and their subtopics
+    const filteredTopics = (topics || []).filter((topic) =>
+      topic.title.toLowerCase().includes(text.toLowerCase())
+    );
+
+    const filteredSubtopics = (topics || []).flatMap((topic) =>
+      (topic.subtopics || [])
+        .filter((subtopic) =>
+          subtopic.title.toLowerCase().includes(text.toLowerCase())
+        )
+        .map((subtopic) => ({ ...subtopic, parentTopic: topic.title }))
+    );
+
+    // Set state for each category
+    setFilteredMainTopics(filteredMainTopics);
+    setFilteredMainSubtopics(filteredMainSubtopics);
+    setFilteredTopics(filteredTopics);
+    setFilteredSubtopics(filteredSubtopics);
+  };
+
   const handleFocus = () => {
     setSearching(true);
   };
@@ -101,6 +159,10 @@ const Main = ({
 
   const handleMainPress = (id) => {
     navigation.navigate("MainTopicDetailScreen", { id });
+  };
+  const handleMainSubTopicPress = (id) => {
+    // navigation.navigate("SubTopicScreen", { id });
+    navigation.navigate("SubMainTopicScreen", { id });
   };
   const handleTopicPress = (id) => {
     navigation.navigate("TopicDetailScreen", { id });
@@ -150,13 +212,14 @@ const Main = ({
                 <TextInput
                   placeholder={t("searchPlaceholder")}
                   selectionColor="#2D2D5F"
-                  onChangeText={(text) => setUsername(text)}
                   style={styles.textSearchInput}
                   onFocus={handleFocus}
-                  onBlur={handleBlur}
+                  value={searchText}
+                  onChangeText={handleSearch}
+                  // onBlur={handleBlur}
                 />
               </View>
-              <TouchableOpacity onPress={handlePress}>
+              <TouchableOpacity onPress={handleBlur}>
                 <View style={styles.filterContainer}>
                   <Image
                     source={require("../../assets/filter.png")}
@@ -168,13 +231,64 @@ const Main = ({
             </View>
             {seacrching ? (
               <View style={styles.seacrchOptionContainer}>
-                {topics.map((topic) => (
+                {filteredMainTopics.map((suggestion) => (
                   <TouchableOpacity
-                    key={topic.id}
-                    onPress={() => handleTopicPress(topic.id)}
+                    key={suggestion.id}
+                    onPress={() => handleMainPress(suggestion.id)}
                   >
                     <View style={styles.topicContainer}>
-                      <Text style={styles.topicTitle}>{topic.title}</Text>
+                      <Text style={styles.topicTitle}>{suggestion.title}</Text>
+                      <Image
+                        source={require("../../assets/next.png")}
+                        style={{ height: 17, width: 17 }}
+                        resizeMode="cover"
+                      />
+                    </View>
+                  </TouchableOpacity>
+                ))}
+                {filteredMainSubtopics.map((suggestion) => (
+                  <TouchableOpacity
+                    key={suggestion.id}
+                    onPress={() => handleMainSubTopicPress(suggestion.id)}
+                  >
+                    <View style={styles.topicContainer}>
+                      <Text style={styles.topicTitle}>{suggestion.title}</Text>
+
+                      <Image
+                        source={require("../../assets/next.png")}
+                        style={{ height: 17, width: 17 }}
+                        resizeMode="cover"
+                      />
+                    </View>
+                  </TouchableOpacity>
+                ))}
+                {/* Fixed */}
+                {filteredTopics.map((suggestion) => (
+                  <TouchableOpacity
+                    key={suggestion.id}
+                    onPress={() => handleTopicPress(suggestion.id)}
+                  >
+                    <View style={styles.topicContainer}>
+                      <Text style={styles.topicTitle}>{suggestion.title}</Text>
+                      <Image
+                        source={require("../../assets/next.png")}
+                        style={{ height: 17, width: 17 }}
+                        resizeMode="cover"
+                      />
+                    </View>
+                  </TouchableOpacity>
+                ))}
+                {/* Fixed */}
+                {filteredSubtopics.map((suggestion) => (
+                  <TouchableOpacity
+                    key={suggestion.id}
+                    onPress={() => handleSubTopicPress(suggestion.id)}
+                  >
+                    <View style={styles.topicContainer}>
+                      <Text style={styles.topicTitle}>{suggestion.title}</Text>
+                      {/* <Text style={styles.parentTopicTitle}>
+                        ({suggestion.parentTopic})
+                      </Text> */}
                       <Image
                         source={require("../../assets/next.png")}
                         style={{ height: 17, width: 17 }}
@@ -207,47 +321,6 @@ const Main = ({
               </View>
             )}
           </View>
-          <BottomSheet
-            index={-1}
-            ref={bottomSheetRef}
-            snapPoints={snapPoints}
-            enablePanDownToClose={true}
-            backdropComponent={renderBackdrop}
-          >
-            <ScrollView
-              contentContainerStyle={styles.bottomSheetScrollContainer}
-            >
-              <View style={styles.bottomSheetContainer}>
-                <Text style={styles.bottonSheetTitle}>
-                  {t("exploreTopics")}
-                </Text>
-                <View style={styles.bottomSheetContentContainer}>
-                  {topics.map((topic) => (
-                    <TouchableOpacity
-                      key={topic.id}
-                      onPress={() => handleTopicPress(topic.id)}
-                    >
-                      <View style={styles.topicContainer}>
-                        <Text style={styles.topicTitle}>{topic.title}</Text>
-                        <Image
-                          source={require("../../assets/next.png")}
-                          style={{ height: 17, width: 17 }}
-                          resizeMode="cover"
-                        />
-                      </View>
-                    </TouchableOpacity>
-                  ))}
-                  {/* Close BTN */}
-                  <TouchableOpacity
-                    style={styles.closeModalBtn}
-                    onPress={handleClosePress}
-                  >
-                    <Text style={styles.buttonText}>{t("closeButton")}</Text>
-                  </TouchableOpacity>
-                </View>
-              </View>
-            </ScrollView>
-          </BottomSheet>
         </SafeAreaView>
       </ScrollView>
       <BottomSheet
@@ -288,6 +361,43 @@ const Main = ({
           </View>
         </View>
         {/* </ScrollView> */}
+      </BottomSheet>
+      <BottomSheet
+        index={-1}
+        ref={bottomSheetRef}
+        snapPoints={snapPoints}
+        enablePanDownToClose={true}
+        backdropComponent={renderBackdrop}
+      >
+        <ScrollView contentContainerStyle={styles.bottomSheetScrollContainer}>
+          <View style={styles.bottomSheetContainer}>
+            <Text style={styles.bottonSheetTitle}>{t("exploreTopics")}</Text>
+            <View style={styles.bottomSheetContentContainer}>
+              {topics.map((topic) => (
+                <TouchableOpacity
+                  key={topic.id}
+                  onPress={() => handleTopicPress(topic.id)}
+                >
+                  <View style={styles.topicContainer}>
+                    <Text style={styles.topicTitle}>{topic.title}</Text>
+                    <Image
+                      source={require("../../assets/next.png")}
+                      style={{ height: 17, width: 17 }}
+                      resizeMode="cover"
+                    />
+                  </View>
+                </TouchableOpacity>
+              ))}
+              {/* Close BTN */}
+              <TouchableOpacity
+                style={styles.closeModalBtn}
+                onPress={handleClosePress}
+              >
+                <Text style={styles.buttonText}>{t("closeButton")}</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+        </ScrollView>
       </BottomSheet>
     </>
   );
