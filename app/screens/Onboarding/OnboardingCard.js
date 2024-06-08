@@ -14,6 +14,9 @@ const OnboardingCard = () => {
   const navigation = useNavigation();
 
   const handlePress = () => {
+    navigation.navigate("SignUp"); // Navigate to the next screen
+  };
+  const handlePressSignIn = () => {
     navigation.navigate("SignIn"); // Navigate to the next screen
   };
 
@@ -37,8 +40,11 @@ const OnboardingCard = () => {
           <TouchableOpacity onPress={handlePress} style={styles.buttonClickMe}>
             <Text style={styles.buttonText}>Get Started</Text>
           </TouchableOpacity>
-          <TouchableOpacity onPress={handlePress} style={styles.buttonSignIn}>
-            <Text style={styles.buttonTextSignIn}>Click Me</Text>
+          <TouchableOpacity
+            onPress={handlePressSignIn}
+            style={styles.buttonSignIn}
+          >
+            <Text style={styles.buttonTextSignIn}>Sign In</Text>
           </TouchableOpacity>
         </View>
       )}

@@ -11,19 +11,43 @@ import {
 import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { FIREBASE_AUTH } from "../../config/firebase";
+import { categorizeFirebaseError } from "../../config/firebase";
+import { signInWithEmailAndPassword } from "firebase/auth";
 
 const SignIn = () => {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const navigation = useNavigation();
+  const [emailrror, setEmailError] = useState("");
+  const [passwordError, setPasswordError] = useState("");
+  const [loading, isLoading] = useState(false);
   const auth = FIREBASE_AUTH;
 
   const handlePress = async () => {
     try {
-      await auth.signInWithEmailAndPassword(auth, username, password);
+      isLoading(true);
+      setEmailError("");
+      setPasswordError("");
+      const response = await signInWithEmailAndPassword(
+        auth,
+        username,
+        password
+      );
+      console.log("Sign In", response);
+      isLoading(false);
       navigation.navigate("Home");
     } catch (error) {
-      console.log(error);
+      const { emailError, passwordError } = categorizeFirebaseError(error);
+      console.log("Error", error);
+      if (emailError) {
+        console.error("Email Error:", emailError);
+        setEmailError(emailError);
+      }
+      if (passwordError) {
+        console.error("Password Error:", passwordError);
+        setPasswordError(passwordError);
+      }
+      isLoading(false);
     }
   };
 
@@ -41,18 +65,20 @@ const SignIn = () => {
         <KeyboardAvoidingView behavior="padding">
           <View style={styles.formContainer}>
             <View>
-              <Text style={styles.label}>Username</Text>
+              <Text style={styles.label}>Email</Text>
               <View>
                 <TextInput
                   style={styles.input}
                   value={username}
                   onChangeText={setUsername}
                   selectionColor="#2D2D5F"
-                  placeholder="Enter your username"
+                  placeholder="Email"
                 />
-                <Text style={styles.errorMessage}>
-                  This user isn’t registered
-                </Text>
+                {emailrror ? (
+                  <Text style={styles.errorMessage}>{emailrror}</Text>
+                ) : (
+                  <></>
+                )}
               </View>
             </View>
             <View style={styles.formGroup}>
@@ -66,6 +92,11 @@ const SignIn = () => {
                   selectionColor="#2D2D5F"
                   secureTextEntry={true}
                 />
+                {passwordError ? (
+                  <Text style={styles.errorMessage}>{passwordError}</Text>
+                ) : (
+                  <></>
+                )}
               </View>
             </View>
             <View style={styles.buttonContainer}>
@@ -73,7 +104,9 @@ const SignIn = () => {
                 onPress={handlePress}
                 style={styles.buttonClickMe}
               >
-                <Text style={styles.buttonText}>Sign In</Text>
+                <Text style={styles.buttonText}>
+                  {loading ? "Loading..." : "Sign In"}
+                </Text>
               </TouchableOpacity>
             </View>
           </View>
@@ -131,7 +164,6 @@ const styles = StyleSheet.create({
     marginBottom: 8,
     lineHeight: 16.42,
     fontWeight: "500",
-    display: "none",
   },
   container: {
     backgroundColor: "white",

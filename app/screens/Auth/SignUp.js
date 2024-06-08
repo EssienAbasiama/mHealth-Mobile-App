@@ -10,40 +10,50 @@ import {
 } from "react-native";
 import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
-import { SafeAreaView } from "react-native-safe-area-context";
 import { FIREBASE_AUTH } from "../../config/firebase";
+import { categorizeFirebaseError } from "../../config/firebase";
 import { createUserWithEmailAndPassword } from "firebase/auth";
 
 const SignUp = () => {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [email, setEmail] = useState("");
+  const [emailrror, setEmailError] = useState("");
+  const [passwordError, setPasswordError] = useState("");
+
   const navigation = useNavigation();
   const auth = FIREBASE_AUTH;
-
-  const handleSignIn = () => {
-    // Handle sign-in logic here
-    console.log("Username:", username);
-    console.log("Password:", password);
-    console.log("Email:", email);
+  const signIn = () => {
+    navigation.navigate("SignIn");
   };
 
   const handlePress = () => {};
 
   const signUp = async () => {
+    setEmailError("");
+    setPasswordError("");
     try {
       const response = await createUserWithEmailAndPassword(
         auth,
         email,
         password
       );
-      const json = await response.json();
+
       navigation.navigate("SignIn");
 
-      console.log(json);
+      console.log("Success", response);
+      alert("Registration Successful");
     } catch (error) {
-      console.error(error);
+      const { emailError, passwordError } = categorizeFirebaseError(error);
+      console.log("Error", error);
+      if (emailError) {
+        console.error("Email Error:", emailError);
+        setEmailError(emailError);
+      }
+      if (passwordError) {
+        console.error("Password Error:", passwordError);
+        setPasswordError(passwordError);
+      }
     }
   };
 
@@ -66,9 +76,6 @@ const SignUp = () => {
                   selectionColor="#2D2D5F"
                   placeholder="Enter your username"
                 />
-                <Text style={styles.errorMessage}>
-                  This user isn’t registered
-                </Text>
               </View>
             </View>
             <View>
@@ -81,6 +88,12 @@ const SignUp = () => {
                   selectionColor="#2D2D5F"
                   placeholder="johndoe@thehype.com"
                 />
+
+                {emailrror ? (
+                  <Text style={styles.errorMessage}>{emailrror}</Text>
+                ) : (
+                  <></>
+                )}
               </View>
             </View>
             <View style={styles.formGroup}>
@@ -94,13 +107,15 @@ const SignUp = () => {
                   selectionColor="#2D2D5F"
                   secureTextEntry={true}
                 />
+                {passwordError ? (
+                  <Text style={styles.errorMessage}>{passwordError}</Text>
+                ) : (
+                  <></>
+                )}
               </View>
             </View>
             <View style={styles.buttonContainer}>
-              <TouchableOpacity
-                onPress={handlePress}
-                style={styles.buttonClickMe}
-              >
+              <TouchableOpacity onPress={signUp} style={styles.buttonClickMe}>
                 <Text style={styles.buttonText}>Sign Up</Text>
               </TouchableOpacity>
             </View>
@@ -151,7 +166,6 @@ const styles = StyleSheet.create({
     marginTop: 10,
   },
   errorMessage: {
-    display: "none",
     color: "#FF0000",
     fontSize: 14,
     marginBottom: 8,

@@ -1,5 +1,5 @@
 {
-  "welcome": "Kaabo Ayo 👋",
+  "welcome": "Kaabo👋",
   "subText": "Kini o nkà lori loni?",
   "searchPlaceholder": "Ṣàwárí",
   "exploreTopics": "Ṣàwárí Ẹ̀kọ́",
@@ -376,24 +376,97 @@
       "topic_img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-infertility-illustration_23-2149379493.jpg?t=st=1717344443~exp=1717348043~hmac=e32cdcd73c7cb7cae072e2078775740fff5046cb5b42e7732605d0299a830f3f&w=740",
       "description": "Kọ nípa àwọn ààmì èwu nígbà oyún àti ìgbà ìbímọ tí gbogbo obìnrin tó lóyún gbọ́dọ̀ mọ̀ láti jẹ́rìí fífúnni ní ìtọju ìwòsàn nígbà tó tọ́.",
       "content": {
-          "intro": "Ìmòye àwọn ààmì èwu látàrí àsìkò lè yí ìwà ipò padà. Mímọ ohun tó yẹ kí o fojú inú rẹ rí jẹ́ kí o gba ìrànwọ́ tí o nílò láì sí ìfojúsùn.",
-          "details": [
-              "Èébú oṣùpá",
-              "Ìgbẹ̀mì tó ń bá a lọ",
-              "Àáyá",
-              "Ìnítìjú nínú ìmí",
-              "Ibà",
-              "Ìrora tó pò ní agbègbè inú",
-              "Ìṣúra ọwọ́ àti ojú",
-              "Ìrora orí tó pọ̀ tàbí àyíká ojú tí kò dara",
-              "Ìmúlẹ̀ tàbí fàájì ara",
-              "Ìrora tó ń bá a lọ ní agbègbè inú ìkùn àdátá",
-              "Ìbájẹ́ omi ara agbègbè obìrìn ṣáájú ọjọ́ rẹ̀ tàbí àbájọ tí ń jáde",
-              "Ìdínkù tàbí ìsọnù ìsọ́ ìkùn"
-          ],
-          "subtopics": []
+        "intro": "Ìmòye àwọn ààmì èwu látàrí àsìkò lè yí ìwà ipò padà. Mímọ ohun tó yẹ kí o fojú inú rẹ rí jẹ́ kí o gba ìrànwọ́ tí o nílò láì sí ìfojúsùn.",
+        "details": [
+          "Èébú oṣùpá",
+          "Ìgbẹ̀mì tó ń bá a lọ",
+          "Àáyá",
+          "Ìnítìjú nínú ìmí",
+          "Ibà",
+          "Ìrora tó pò ní agbègbè inú",
+          "Ìṣúra ọwọ́ àti ojú",
+          "Ìrora orí tó pọ̀ tàbí àyíká ojú tí kò dara",
+          "Ìmúlẹ̀ tàbí fàájì ara",
+          "Ìrora tó ń bá a lọ ní agbègbè inú ìkùn àdátá",
+          "Ìbájẹ́ omi ara agbègbè obìrìn ṣáájú ọjọ́ rẹ̀ tàbí àbájọ tí ń jáde",
+          "Ìdínkù tàbí ìsọnù ìsọ́ ìkùn"
+        ],
+        "subtopics": []
       }
-  }
-  
+    },
+    {
+      "id": 3,
+      "title": "Àtúnṣe Ìgbésí Ayé",
+      "topic_img": "https://img.freepik.com/free-vector/flat-about-me-concept-with-hobbies-interests_23-2148886062.jpg?t=st=1717344540~exp=1717348140~hmac=8c9bf91a1829c56b1f1674beda99f3c315c58dc279b56776d66aa97eefc8ea18&w=740",
+      "description": "Ṣàwárí àwọn ọ̀nà ìyípadà ìgbésí ayé tó munádoko, pẹ̀lú títọ́jú ara ẹni, ṣíṣètò ìlànà, àti ìtìlẹ́yìn àwùjọ, láti jẹ́ kí oyún rẹ̀ wà ní ilera àti kí ìbí rẹ̀ lè yé e.",
+      "content": {
+        "intro": "Ṣíṣe àtúnṣe ìgbésí ayé rere lè mú kí irírí oyún rẹ̀ dára gan-an àti kí ó tún pèsè ọ́ fún ìbí. Ẹ jẹ́ kí á wo àwọn ìgbésẹ̀ amúlò kan.",
+        "details": [
+          "Títọ́jú ara ẹni àti ìmúṣẹ iṣẹ́ lè ràn ẹ́ lọ́wọ́ láti bá a tẹ̀ lé ilera rẹ.",
+          "Ìkóra jìnlẹ̀ pẹ̀lú ní àyíká tó ń gbé ìdíje ilera kalẹ̀.",
+          "Ṣíṣètò ìlànà mú kí o fojú inú wo àwọn àfojúsùn pàtó, tó jẹ́ kó ṣeéṣe fún oyún tó wà ní ilera.",
+          "Ìtìlẹ́yìn láti ara ẹbí, ọ̀rẹ́, àti àwọn olùtọ́jú ilera lè gbé ìfẹ́ àti ìgboyà rẹ̀ ró.",
+          "Ìfọ̀rọ̀wà pẹ̀lú àwọn àtúnṣe rere àti àwọn ètò ìṣàwárí àwọn ìṣòro ni bójú muṣé."
+        ],
+        "subtopics": [
+          {
+            "id": 7,
+            "title": "Ṣíṣe Ètò Ìbí",
+            "topic_img": "https://img.freepik.com/free-photo/top-view-busy-dark-skinned-woman-writes-down-records-notebook-from-book_273609-44310.jpg?t=st=1717523629~exp=1717527229~hmac=a186798a965888061d41dbcbaff609111343c03c9a8eb5a7f32db46d988d9ffa&w=826",
+            "description": "Ètò ìbí yóò ràn ọ́ lọ́wọ́ láti pèsè fún ìbí tó wọpọ̀ àti àwọn iṣe tó lè wáyé. Bá àwọn olùtọ́jú ilera rẹ jọ láti ṣe àti yí ètò rẹ pada ni gbogbo ìrìnàjò rẹ.",
+            "content": "Ètò ìbí yóò ràn ọ́ lọ́wọ́ láti pèsè fún ìbí tó wọpọ̀ àti àwọn iṣe tó lè wáyé. Bá àwọn olùtọ́jú ilera rẹ jọ láti ṣe àti yí ètò rẹ pada ni gbogbo ìrìnàjò rẹ. Òun ni àtúnṣe tí obìnrin àti ẹbí rẹ̀ ṣe pẹ̀lú ìrànwọ́ ẹni tó mọ̀ọ́ nípa rẹ̀. Ètò náà gbọ́dọ̀ jẹ́ ohun tí a ń tọ́jú pẹ̀lú nígbà gbogbo àbẹ̀wò."
+          },
+          {
+            "id": 8,
+            "title": "Ìmú òpòòlórí Nínú Oyún àti Nígbà Ìbí",
+            "topic_img": "https://img.freepik.com/free-photo/black-pregnant-women-posing_23-2151446148.jpg?t=st=1717523768~exp=1717527368~hmac=4962ef018e835fd114595285a8a98164a56a1abe648c451d7bcc1624548e8fbc&w=996",
+            "description": "Mímọ̀ àwọn àmì ìkìlọ̀ ní oyún àti nígbà ìbí, gẹ́gẹ́ bí irora kíkán nínú ikùn tàbí ẹ̀jẹ̀ nínú òbò, jẹ́ pàtàkì. Ìṣíwájú gbígbé òògùn yíò sì yé.",
+            "content": "Ìyá tí ó lóyún gbọ́dọ̀ mọ̀ bí ó ṣe lè mọ àwọn àmì ìkìlọ̀ ní oyún àti nígbà ìbí. Wọ́n ní ọ̀rọ̀ irora kíkán nínú ikùn, ẹ̀jẹ̀ tó ń jáde nínú òbò, fúnmọ́ aláìlera, èémí títíkẹ́, àìsàn, irora kíkán nínú ikùn, àárò ọwọ́ àti ojú, irora kíkán nínú orí tàbí fífọ̀ àwọn ojú, ìfọ̀rọ̀sílẹ̀ tàbí àìmọ̀ ọ̀nà ríran, irora kíkán ní abẹ́ ikùn, tútù owó àti ẹ̀dọ̀fú ododo nínú òbò, àti àìlé àwọn ìbánijẹ́ ọ̀mọ̀."
+          },
+          {
+            "id": 9,
+            "title": "Ìrìnàjò sí Ilé Ẹ̀kọ́ Ilera",
+            "topic_img": "https://img.freepik.com/free-vector/delivery-point-abstract-concept-illustration_335657-3937.jpg?t=st=1717523856~exp=1717527456~hmac=5796d300d8e495d2c2efed4c36510033aba79ad3378916aec814f19ca026fe64&w=740",
+            "description": "Ránpẹ́ láti ṣe ètò ìrìnàjò tó mọ́tò àti tó dé sí ilé ẹ̀kọ́ ilera, pàápàá fún àwọn ayéjọ́ àìpéé bí ìṣe ojú ọjọ́ tàbí ọjọ́ alẹ́.",
+            "content": "Ránpẹ́ láti ṣe ètò ìrìnàjò tó mọ́tò àti tó dé sí ilé ẹ̀kọ́ ilera, pàápàá fún àwọn ayéjọ́ àìpéé bí ìṣe ojú ọjọ́ tàbí ọjọ́ alẹ́."
+          },
+          {
+            "id": 10,
+            "title": "Owó",
+            "topic_img": "https://img.freepik.com/free-photo/hand-putting-mix-coins-seed-clear-bottle-copyspace-business-investment-growth-concept_1423-104.jpg?t=st=1717523896~exp=1717527496~hmac=780acbba6327a17b9b1545ee2ed17faeb2e6c376777ae1073862440a5c1d3058&w=826",
+            "description": "Ní ṣíṣe owó ní mímọ́ fún ináwó ìbí tó wọpọ̀ àti àwọn àjálù. Ṣàkíyèsí àwọn ohun amúṣègbẹ̀yìn, àkíyèsí àjálù, àti àwọn ètò ìbáwò àwùjọ.",
+            "content": "Ní ṣíṣe owó ní mímọ́ fún ináwó ìbí tó wọpọ̀ àti àwọn àjálù. Ṣàkíyèsí àwọn ohun amúṣègbẹ̀yìn, àkíyèsí àjálù, àti àwọn ètò ìbáwò àwùjọ."
+          },
+          {
+            "id": 11,
+            "title": "Ìgbàṣẹ̀ṣẹ̀ Ìpinnu",
+            "topic_img": "https://img.freepik.com/premium-photo/composite-image-business-people-playing-chess-against-white-background-with-vignette_1134-81973.jpg?w=826",
+            "description": "Yàn ẹni tí yóò ṣe ìpinnu pàtàkì nígbà ìbí àti nínú àjálù. Ìgbàṣẹ̀ṣẹ̀ ìpinnu dájú ní pé a kò ní pẹ́ àti ìtọ́jú tó tójú.",
+            "content": "Yàn ẹni tí yóò ṣe ìpinnu pàtàkì nígbà ìbí àti nínú àjálù. Ìgbàṣẹ̀ṣẹ̀ ìpinnu dájú ní pé a kò ní pẹ́ àti ìtọ́jú tó tójú."
+          },
+          {
+            "id": 12,
+            "title": "Ìtìlẹ́yìn Ẹbí àti Àwùjọ",
+            "topic_img": "https://img.freepik.com/premium-vector/family-reunion-isolated-cartoon-vector-illustration_107173-19436.jpg?w=740",
+            "description": "Yàn ẹni tí yóò tọ́jú ẹbí rẹ nígbà ìbí àti ẹni tí yóò jẹ́ alábààṣepọ̀ rẹ nígbà ìbí. Ìtìlẹ́yìn yìí ṣe pàtàkì fún àlàáfíà ọkàn rẹ.",
+            "content": "Yàn ẹni tí yóò tọ́jú ẹbí rẹ nígbà ìbí àti ẹni tí yóò jẹ́ alábààṣepọ̀ rẹ nígbà ìbí. Ìtìlẹ́yìn yìí ṣe pàtàkì fún àlàáfíà ọkàn rẹ àti ìrànwọ́ pẹ̀lú."
+          },
+          {
+            "id": 13,
+            "title": "Olùfún Ẹ̀jẹ̀",
+            "topic_img": "https://img.freepik.com/free-vector/human-blood-donate-white-background_1308-111266.jpg?t=st=1717524097~exp=1717527697~hmac=831c4ed2235af231eee9c5956769e375c53867d6b9831d739aa33a032f4c2d86&w=740",
+            "description": "Yàn olùfún ẹ̀jẹ̀ ní ìtólewájú. Nínú àjálù, nípè olùfún ẹ̀jẹ̀ tó ṣetán lè yé.",
+            "content": "Yàn olùfún ẹ̀jẹ̀ ní ìtólewájú. Nínú àjálù, nípè olùfún ẹ̀jẹ̀ tó ṣetán lè yé."
+          },
+          {
+            "id": 14,
+            "title": "Àwọn Nkan Tó Ní Làá",
+            "topic_img": "https://img.freepik.com/free-photo/box_53876-65526.jpg?t=st=1717524141~exp=1717527741~hmac=4c0c67298aae43035b4119ff005d4a32795c71efac49fac865a000eea4638af5&w=740",
+            "description": "Pèsè 'kìtì mámá' pẹ̀lú àwọn nkan tó ní làá fún ìbí tó mọ́tò àti tó dára. Èyí ní àwọn nkan fún ìwọ àti ọmọ rẹ.",
+            "content": "Pèsè 'kìtì mámá' pẹ̀lú àwọn nkan tó ní làá fún ìbí tó mọ́tò àti tó dára. Èyí ní àwọn nkan fún ìwọ àti ọmọ rẹ."
+          }
+        ]
+      }
+    }
   ]
 }

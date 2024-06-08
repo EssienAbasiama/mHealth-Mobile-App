@@ -1,5 +1,5 @@
 {
-  "welcome": "Sannu Ayo 👋",
+  "welcome": "Sannu 👋",
   "subText": "Me kake karantawa a yau?",
   "searchPlaceholder": "Nema",
   "exploreTopics": "Bincika Batutuwa",
@@ -327,72 +327,144 @@
       "topic_img": "https://img.freepik.com/free-photo/unwanted-child-shocked-dark-skinned-young-woman-looks-with-puzzlement_273609-44884.jpg?t=st=1717344285~exp=1717347885~hmac=91a442fda611a67b7ba72370e11b576adda34a03efe65e15645e66fc26be091c&w=826",
       "description": "Gano mahimmancin Shirye-shiryen Haihuwa da Shirin Tunkarar Matsaloli (BP/CR), wani tsari na ceton rai wanda aka tsara don tabbatar da lafiyayyen haihuwa da rage yawan mace-macen mata da jarirai.",
       "content": {
-          "intro": "Shirye-shiryen Haihuwa da Shirin Tunkarar Matsaloli (BP/CR) yana nufin tabbatar da cewa kowace mace mai juna biyu tana da damar samun mafi kyawun kulawa a lokacin da ya fi dacewa. Ta hanyar tsara shirye-shirye tun da wuri, za mu iya guje wa jinkiri masu haɗari da ceton rayuka.",
-          "details": [
-              "Shirye-shiryen Haihuwa da Shirin Tunkarar Matsaloli (BP/CR) wani tsari ne don tallafa wa amfani da masu kula da haihuwa masu kwarewa a lokacin juna biyu musamman a lokacin haihuwa.",
-              "An tsara shi ne bisa ra'ayin cewa shirye-shirye don haihuwa da kuma tunkarar matsaloli yana rage jinkiri wajen samun kulawar kwararru a lokacin haihuwa mai kyau ko lokacin gaggawa ta yadda za a hana matsaloli da mutuwa.",
-              "Jinkiri a lokacin juna biyu ko haihuwa na iya zuwa daga rashin iya gano mai kula da haihuwa mai kwarewa, rashin gano cibiyar kiwon lafiya, rashin hanyoyin sufuri zuwa cibiyar kiwon lafiya, rashin abubuwan da ake bukata don haihuwa mai tsabta da kuma kula da jariri, rashin yanke shawara akan wanda zai kula da iyalin matar a lokacin da ba ta nan, da abokin haihuwa a lokacin nakuda, rashin kudade don haihuwa mai kyau ko a lokacin gaggawa, rashin yanke shawara akan wanda zai yanke shawara a lokacin gaggawa da shiri don mai bayar da jini.",
-              "BP/CR yana nufin rage jinkiri wajen samun kulawar kwararru a lokacin haihuwa, ko dai haihuwa mai kyau ko na gaggawa.",
-              "Kalubale masu mahimmanci a lokacin juna biyu da haihuwa sun hada da gano mai kula da haihuwa mai kwarewa, gano cibiyar kiwon lafiya da ta dace, shirya sufuri, tara abubuwan haihuwa da kuma tabbatar da kudade masu kyau.",
-              "BP/CR yana taimaka wa iyalai su tsara wadannan kalubalen, yana tabbatar da haihuwa mai lafiya da kwanciyar hankali."
-          ],
-          "subtopics": [
-              {
-                  "id": 15,
-                  "title": "Manufar BPCR",
-                  "topic_img": "https://img.freepik.com/free-photo/box_53876-65526.jpg?t=st=1717524141~exp=1717527741~hmac=4c0c67298aae43035b4119ff005d4a32795c71efac49fac865a000eea4638af5&w=740",
-                  "description": "Tsarin shirye-shiryen haihuwa da shirin tunkarar matsaloli yana nufin",
-                  "content": "• Samar da shirin haihuwa don haihuwa mai kyau da yiwuwar matsaloli:\n – Shi ne shirin da aka yi a gaba ta mace da iyali (tare da taimakon kwararre)\n– Yawanci ba rubutaccen takarda ba ne (kodayake yana da kyau)\n– Ya kamata a duba ko sake duba a kowane ziyarar duba juna biyu\n• Rage rashin tsari a lokacin haihuwa ko a lokacin gaggawa\n• Tabbatar da samun kulawa ta dace da ta dace akan lokaci\n"
-              },
-              {
-                  "id": 4,
-                  "title": "Gano Mai Kula da Haihuwa Mai Kwarewa",
-                  "topic_img": "https://img.freepik.com/free-photo/nurse-portrait-hospital_23-2150780276.jpg?t=st=1717523246~exp=1717526846~hmac=ea82f138fbd375bc345529fb8b0d2d8f0f1e494d66e2266cdad57c3b64dfd0dd&w=826",
-                  "description": "Masu kula da haihuwa masu kwarewa (SBAs) suna da matukar muhimmanci ga haihuwa mai lafiya. Tabbatar da cewa mai kula da haihuwar ku ya kammala horo mai inganci a fannin kula da mata masu juna biyu da jarirai, zai iya tunkarar matsaloli, kuma yana kula da ku da tausayi da girmamawa.",
-                  "content": "A matsayin wani bangare na BPCR, masu kula da haihuwa masu kwarewa (SBAs) suna da muhimmiyar rawa wajen tabbatar da haihuwa mai lafiya da rage yawan mace-macen mata da jarirai. Tabbatar da cewa mutum ya kammala shirye-shiryen horo da aka amince da su na musamman a fannin kula da mata masu juna biyu da jarirai. Tabbatar da cewa mutum yana da ilimin gaggawa na obstetrics da kuma ikon magance matsaloli cikin nasara. Nemi SBAs da ke nuna tausayi, girmamawa, da jin kai ga mata masu juna biyu da iyalansu."
-              },
-              {
-                  "id": 5,
-                  "title": "Gano Cibiyar Kiwon Lafiya",
-                  "topic_img": "https://img.freepik.com/free-photo/retinal-biometrics-technology-with-man-s-eye-digital-remix_53876-108518.jpg?t=st=1717522970~exp=1717526570~hmac=4ad4ffee0ad0daea82a1a66462cf3d5444fcaa8fa471308d0b1653964953cd71&w=826",
-                  "description": "Zabar cibiyar kiwon lafiya mai kyau yana da matukar muhimmanci. Nemi wuraren da aka amince dasu da ke da masu kula da haihuwa masu kwarewa, aikace-aikacen tsafta mai kyau, da kuma kasancewar su a kowane lokaci. Yi la'akari da wuri da saukin shiga, musamman don gaggawa da daddare.",
-                  "content": "A matsayin wani bangare na BPCR, zabar cibiyar kiwon lafiya mai kyau don haihuwa yana da matukar muhimmanci wajen tabbatar da lafiyar uwa da jariri. Nemi cibiyoyin da hukumomin lafiya da aka yarda suka amince da su ko hukumomin gwamnati suka amince da su. Tabbatar da cewa wurin yana dauke da masu kula da haihuwa (SBAs) kuma suna samuwa awa 24 a kowace rana. Nemi shaidar tsaftar hannu mai kyau, tsaftace kayan aikin likita, da kuma kiyaye muhalli mai tsabta da tsaftacewa. Yi la'akari da wurin cibiyar da saukin shiga gare ku, musamman idan kuna bukatar kasancewa a can da dare."
-              },
-              {
-                  "id": 6,
-                  "title": "Sufuri zuwa Cibiyar Kiwon Lafiya",
-                  "topic_img": "https://img.freepik.com/free-photo/african-american-female-paramedic-face-protective-medical-mask-standing-front-ambulance-car_627829-4899.jpg?t=st=1717523430~exp=1717527030~hmac=2c18d200f9baa56353f06c58176c42d1ba74696ca3bd1c0a93bd28fd8f93508a&w=826",
-                  "description": "Shirya don samun ingantaccen sufuri zuwa cibiyar kiwon lafiya, musamman don yanayi marasa tabbas ko lokutan rashin annuri.",
-                  "content": "Tabbatar da samun ingantaccen, mai dogaro da kuma saukin sufuri, musamman don lokutan rashin annuri don kai mata masu juna biyu zuwa cibiyar kiwon lafiya a lokacin haihuwa ko a lokacin da akwai matsala."
-              }
-          ]
+        "intro": "Shirye-shiryen Haihuwa da Shirin Tunkarar Matsaloli (BP/CR) yana nufin tabbatar da cewa kowace mace mai juna biyu tana da damar samun mafi kyawun kulawa a lokacin da ya fi dacewa. Ta hanyar tsara shirye-shirye tun da wuri, za mu iya guje wa jinkiri masu haɗari da ceton rayuka.",
+        "details": [
+          "Shirye-shiryen Haihuwa da Shirin Tunkarar Matsaloli (BP/CR) wani tsari ne don tallafa wa amfani da masu kula da haihuwa masu kwarewa a lokacin juna biyu musamman a lokacin haihuwa.",
+          "An tsara shi ne bisa ra'ayin cewa shirye-shirye don haihuwa da kuma tunkarar matsaloli yana rage jinkiri wajen samun kulawar kwararru a lokacin haihuwa mai kyau ko lokacin gaggawa ta yadda za a hana matsaloli da mutuwa.",
+          "Jinkiri a lokacin juna biyu ko haihuwa na iya zuwa daga rashin iya gano mai kula da haihuwa mai kwarewa, rashin gano cibiyar kiwon lafiya, rashin hanyoyin sufuri zuwa cibiyar kiwon lafiya, rashin abubuwan da ake bukata don haihuwa mai tsabta da kuma kula da jariri, rashin yanke shawara akan wanda zai kula da iyalin matar a lokacin da ba ta nan, da abokin haihuwa a lokacin nakuda, rashin kudade don haihuwa mai kyau ko a lokacin gaggawa, rashin yanke shawara akan wanda zai yanke shawara a lokacin gaggawa da shiri don mai bayar da jini.",
+          "BP/CR yana nufin rage jinkiri wajen samun kulawar kwararru a lokacin haihuwa, ko dai haihuwa mai kyau ko na gaggawa.",
+          "Kalubale masu mahimmanci a lokacin juna biyu da haihuwa sun hada da gano mai kula da haihuwa mai kwarewa, gano cibiyar kiwon lafiya da ta dace, shirya sufuri, tara abubuwan haihuwa da kuma tabbatar da kudade masu kyau.",
+          "BP/CR yana taimaka wa iyalai su tsara wadannan kalubalen, yana tabbatar da haihuwa mai lafiya da kwanciyar hankali."
+        ],
+        "subtopics": [
+          {
+            "id": 15,
+            "title": "Manufar BPCR",
+            "topic_img": "https://img.freepik.com/free-photo/box_53876-65526.jpg?t=st=1717524141~exp=1717527741~hmac=4c0c67298aae43035b4119ff005d4a32795c71efac49fac865a000eea4638af5&w=740",
+            "description": "Tsarin shirye-shiryen haihuwa da shirin tunkarar matsaloli yana nufin",
+            "content": "• Samar da shirin haihuwa don haihuwa mai kyau da yiwuwar matsaloli:\n – Shi ne shirin da aka yi a gaba ta mace da iyali (tare da taimakon kwararre)\n– Yawanci ba rubutaccen takarda ba ne (kodayake yana da kyau)\n– Ya kamata a duba ko sake duba a kowane ziyarar duba juna biyu\n• Rage rashin tsari a lokacin haihuwa ko a lokacin gaggawa\n• Tabbatar da samun kulawa ta dace da ta dace akan lokaci\n"
+          },
+          {
+            "id": 4,
+            "title": "Gano Mai Kula da Haihuwa Mai Kwarewa",
+            "topic_img": "https://img.freepik.com/free-photo/nurse-portrait-hospital_23-2150780276.jpg?t=st=1717523246~exp=1717526846~hmac=ea82f138fbd375bc345529fb8b0d2d8f0f1e494d66e2266cdad57c3b64dfd0dd&w=826",
+            "description": "Masu kula da haihuwa masu kwarewa (SBAs) suna da matukar muhimmanci ga haihuwa mai lafiya. Tabbatar da cewa mai kula da haihuwar ku ya kammala horo mai inganci a fannin kula da mata masu juna biyu da jarirai, zai iya tunkarar matsaloli, kuma yana kula da ku da tausayi da girmamawa.",
+            "content": "A matsayin wani bangare na BPCR, masu kula da haihuwa masu kwarewa (SBAs) suna da muhimmiyar rawa wajen tabbatar da haihuwa mai lafiya da rage yawan mace-macen mata da jarirai. Tabbatar da cewa mutum ya kammala shirye-shiryen horo da aka amince da su na musamman a fannin kula da mata masu juna biyu da jarirai. Tabbatar da cewa mutum yana da ilimin gaggawa na obstetrics da kuma ikon magance matsaloli cikin nasara. Nemi SBAs da ke nuna tausayi, girmamawa, da jin kai ga mata masu juna biyu da iyalansu."
+          },
+          {
+            "id": 5,
+            "title": "Gano Cibiyar Kiwon Lafiya",
+            "topic_img": "https://img.freepik.com/free-photo/retinal-biometrics-technology-with-man-s-eye-digital-remix_53876-108518.jpg?t=st=1717522970~exp=1717526570~hmac=4ad4ffee0ad0daea82a1a66462cf3d5444fcaa8fa471308d0b1653964953cd71&w=826",
+            "description": "Zabar cibiyar kiwon lafiya mai kyau yana da matukar muhimmanci. Nemi wuraren da aka amince dasu da ke da masu kula da haihuwa masu kwarewa, aikace-aikacen tsafta mai kyau, da kuma kasancewar su a kowane lokaci. Yi la'akari da wuri da saukin shiga, musamman don gaggawa da daddare.",
+            "content": "A matsayin wani bangare na BPCR, zabar cibiyar kiwon lafiya mai kyau don haihuwa yana da matukar muhimmanci wajen tabbatar da lafiyar uwa da jariri. Nemi cibiyoyin da hukumomin lafiya da aka yarda suka amince da su ko hukumomin gwamnati suka amince da su. Tabbatar da cewa wurin yana dauke da masu kula da haihuwa (SBAs) kuma suna samuwa awa 24 a kowace rana. Nemi shaidar tsaftar hannu mai kyau, tsaftace kayan aikin likita, da kuma kiyaye muhalli mai tsabta da tsaftacewa. Yi la'akari da wurin cibiyar da saukin shiga gare ku, musamman idan kuna bukatar kasancewa a can da dare."
+          },
+          {
+            "id": 6,
+            "title": "Sufuri zuwa Cibiyar Kiwon Lafiya",
+            "topic_img": "https://img.freepik.com/free-photo/african-american-female-paramedic-face-protective-medical-mask-standing-front-ambulance-car_627829-4899.jpg?t=st=1717523430~exp=1717527030~hmac=2c18d200f9baa56353f06c58176c42d1ba74696ca3bd1c0a93bd28fd8f93508a&w=826",
+            "description": "Shirya don samun ingantaccen sufuri zuwa cibiyar kiwon lafiya, musamman don yanayi marasa tabbas ko lokutan rashin annuri.",
+            "content": "Tabbatar da samun ingantaccen, mai dogaro da kuma saukin sufuri, musamman don lokutan rashin annuri don kai mata masu juna biyu zuwa cibiyar kiwon lafiya a lokacin haihuwa ko a lokacin da akwai matsala."
+          }
+        ]
       }
-  }
-  ,
-  {
-    "id": 2,
-    "title": "Alamomin Hadari a Lokacin Juna Biyu da Lokacin Haihuwa",
-    "topic_img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-infertility-illustration_23-2149379493.jpg?t=st=1717344443~exp=1717348043~hmac=e32cdcd73c7cb7cae072e2078775740fff5046cb5b42e7732605d0299a830f3f&w=740",
-    "description": "Koyi game da mahimman alamomin hadari a lokacin juna biyu da lokacin nakuda da kowace uwa mai juna biyu ya kamata ta gane don tabbatar da samun kulawar likita akan lokaci.",
-    "content": {
+    },
+    {
+      "id": 2,
+      "title": "Alamomin Hadari a Lokacin Juna Biyu da Lokacin Haihuwa",
+      "topic_img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-infertility-illustration_23-2149379493.jpg?t=st=1717344443~exp=1717348043~hmac=e32cdcd73c7cb7cae072e2078775740fff5046cb5b42e7732605d0299a830f3f&w=740",
+      "description": "Koyi game da mahimman alamomin hadari a lokacin juna biyu da lokacin nakuda da kowace uwa mai juna biyu ya kamata ta gane don tabbatar da samun kulawar likita akan lokaci.",
+      "content": {
         "intro": "Gano alamomin hadari tun da wuri na iya canza komai. Sanin abin da za a kula da shi yana tabbatar da samun taimakon da kuke bukata ba tare da jinkiri ba.",
         "details": [
-            "Jini daga farji",
-            "Maimaituwar amai",
-            "Ciwon hanta (Jaundice)",
-            "Wahalar numfashi",
-            "Zazzaɓi",
-            "Matsanancin ciwon ciki",
-            "Kumburin hannu da fuska",
-            "Matsanancin ciwon kai ko ganin nesa da kyau",
-            "Rawar jiki ko suma",
-            "Maimaituwar ciwon ƙananan ciki",
-            "Fashewar membran kafin lokaci ko wari mara dadi daga farji",
-            "Raguwar motsin ɗan ciki ko rashin motsi"
+          "Jini daga farji",
+          "Maimaituwar amai",
+          "Ciwon hanta (Jaundice)",
+          "Wahalar numfashi",
+          "Zazzaɓi",
+          "Matsanancin ciwon ciki",
+          "Kumburin hannu da fuska",
+          "Matsanancin ciwon kai ko ganin nesa da kyau",
+          "Rawar jiki ko suma",
+          "Maimaituwar ciwon ƙananan ciki",
+          "Fashewar membran kafin lokaci ko wari mara dadi daga farji",
+          "Raguwar motsin ɗan ciki ko rashin motsi"
         ],
         "subtopics": []
+      }
+    },
+    {
+      "id": 3,
+      "title": "Canje-canje na Rayuwa",
+      "topic_img": "https://img.freepik.com/free-vector/flat-about-me-concept-with-hobbies-interests_23-2148886062.jpg?t=st=1717344540~exp=1717348140~hmac=8c9bf91a1829c56b1f1674beda99f3c315c58dc279b56776d66aa97eefc8ea18&w=740",
+      "description": "Bincika ingantattun hanyoyin canjin rayuwa, ciki har da lura da kai, saita manufofi, da tallafi daga al'umma, domin tabbatar da lafiya cikin ciki da kuma haihuwa cikin nasara.",
+      "content": {
+        "intro": "Karɓar canjin rayuwa mai kyau na iya inganta kwarewar cikin ciki sosai kuma ya shirya ka don haihuwa. Bari mu nutsa cikin wasu matakan da za a iya aiwatarwa.",
+        "details": [
+          "Lura da kai da bibiyar ci gaba na iya taimaka maka wajen kula da lafiyarka.",
+          "Gudanar da yanayi yana nufin ƙirƙirar yanayin tallafi da ke haifar da zaɓuɓɓukan lafiya.",
+          "Saita manufofi yana taimaka maka mai da hankali kan takamaiman manufofi, masu iya cimmawa don lafiyayyen ciki.",
+          "Tallafi daga iyali, abokai, da masu ba da lafiya na iya ƙara ƙwazo da amincewa da kanka.",
+          "Sanya canje-canje masu kyau da dabarun magance matsaloli don shawo kan ƙalubale suna da mahimmanci ga nasara."
+        ],
+        "subtopics": [
+          {
+            "id": 7,
+            "title": "Ƙirƙirar Tsarin Haihuwa",
+            "topic_img": "https://img.freepik.com/free-photo/top-view-busy-dark-skinned-woman-writes-down-records-notebook-from-book_273609-44310.jpg?t=st=1717523629~exp=1717527229~hmac=a186798a965888061d41dbcbaff609111343c03c9a8eb5a7f32db46d988d9ffa&w=826",
+            "description": "Tsarin haihuwa yana taimaka maka ka shirya don haihuwa ta yau da kullum da kuma matsalolin da ka iya tasowa. Yi aiki tare da mai ba da lafiya don ƙirƙira da kuma sabunta tsarin.",
+            "content": "Tsarin haihuwa yana taimaka maka ka shirya don haihuwa ta yau da kullum da kuma matsalolin da ka iya tasowa. Yi aiki tare da mai ba da lafiya don ƙirƙira da kuma sabunta tsarin. Wannan tsari ne da mace da iyali suka yi tare da taimakon ƙwararrun likitoci. A duba tsarin a duk lokacin ziyarar don tabbatar da cewa yana sabunta da dacewa."
+          },
+          {
+            "id": 8,
+            "title": "Gano Alamu Masu haɗari Cikin ciki da Haihuwa",
+            "topic_img": "https://img.freepik.com/free-photo/black-pregnant-women-posing_23-2151446148.jpg?t=st=1717523768~exp=1717527368~hmac=4962ef018e835fd114595285a8a98164a56a1abe648c451d7bcc1624548e8fbc&w=996",
+            "description": "Sanin alamu masu haɗari cikin ciki da haihuwa, kamar ciwon mara mai tsanani ko zubar jini daga farji, yana da matuƙar muhimmanci. Neman taimakon likita cikin gaggawa na iya ceton rayuwa.",
+            "content": "Mata masu ciki ya kamata su san yadda za su gane alamu masu haɗari cikin ciki da haihuwa. Waɗannan sun haɗa da: zubar jini daga farji, amai mai tsanani, ciwon hanta, wahalar numfashi, zazzabi, ciwon mara mai tsanani, kumburin hannuwa da fuska, ciwon kai mai tsanani/kifewar gani, ƙanƙancewa ko rashin sani, ciwon mara na ƙasa mai tsanani, fashewar kwararo kafin lokaci ko wari mara kyau daga farji, da rashin motsin jariri."
+          },
+          {
+            "id": 9,
+            "title": "Sufuri",
+            "topic_img": "https://img.freepik.com/free-vector/delivery-point-abstract-concept-illustration_335657-3937.jpg?t=st=1717523856~exp=1717527456~hmac=5796d300d8e495d2c2efed4c36510033aba79ad3378916aec814f19ca026fe64&w=740",
+            "description": "Tabbatar da cewa kana da kwararan tsare-tsare na sufuri don lokacin da haihuwa ta taso ko kuma idan akwai gaggawa, musamman a lokutan da ba na aiki ba.",
+            "content": "Tabbatar da tsare-tsare na sufuri masu kyau, masu inganci, kuma masu sauƙin samu, musamman don lokutan da ba na aiki ba, don kai mata masu ciki zuwa asibiti lokacin da haihuwa ta taso ko idan akwai matsala."
+          },
+          {
+            "id": 10,
+            "title": "Kudi",
+            "topic_img": "https://img.freepik.com/free-photo/hand-putting-mix-coins-seed-clear-bottle-copyspace-business-investment-growth-concept_1423-104.jpg?t=st=1717523896~exp=1717527496~hmac=780acbba6327a17b9b1545ee2ed17faeb2e6c376777ae1073862440a5c1d3058&w=826",
+            "description": "Tabbatar da samun kudi a shirye don biyan kuɗaɗen haihuwa na yau da kullum da na gaggawa. Yi la'akari da ajiyar kuɗi, kuɗin gaggawa, da tsarin rance na al'umma.",
+            "content": "Tabbatar da samun kuɗi daga: ajiyar kuɗi, kuɗin gaggawa, da tsarin rance na al'umma don biyan kuɗaɗen haihuwa na yau da kullum da na gaggawa."
+          },
+          {
+            "id": 11,
+            "title": "Mai Yanke Shawara",
+            "topic_img": "https://img.freepik.com/premium-photo/composite-image-business-people-playing-chess-against-white-background-with-vignette_1134-81973.jpg?w=826",
+            "description": "Zaɓi mutumin da zai yanke mahimman shawarwari yayin haihuwa da lokacin gaggawa. Mai yanke shawara yana da muhimmanci don tabbatar da cewa za a yi yanke shawara cikin sauri da lafiya.",
+            "content": "Zaɓi mutumin da zai yanke mahimman shawarwari yayin haihuwa da lokacin gaggawa. Mai yanke shawara yana da muhimmanci don tabbatar da cewa za a yi yanke shawara cikin sauri da lafiya."
+          },
+          {
+            "id": 12,
+            "title": "Tallafin Iyali da Al'umma",
+            "topic_img": "https://img.freepik.com/premium-vector/family-reunion-isolated-cartoon-vector-illustration_107173-19436.jpg?w=740",
+            "description": "Zaɓi wanda zai kula da iyalanka yayin haihuwa da wanda zai zama abokin haihuwa. Wannan tallafi yana da mahimmanci don lafiyar hankali.",
+            "content": "Zaɓi wanda zai kula da iyalanka yayin haihuwa da wanda zai zama abokin haihuwa. Wannan tallafi yana da mahimmanci don lafiyar hankali da taimako."
+          },
+          {
+            "id": 13,
+            "title": "Mai Bayar da Jini",
+            "topic_img": "https://img.freepik.com/free-vector/human-blood-donate-white-background_1308-111266.jpg?t=st=1717524097~exp=1717527697~hmac=831c4ed2235af231eee9c5956769e375c53867d6b9831d739aa33a032f4c2d86&w=740",
+            "description": "Zaɓi mai bayar da jini a gaba. Idan matsala ta taso, samun mai bayar da jini cikin gaggawa zai ceci rai.",
+            "content": "Zaɓi mai bayar da jini a gaba. Idan matsala ta taso, samun mai bayar da jini cikin gaggawa zai ceci rai."
+          },
+          {
+            "id": 14,
+            "title": "Kayayyakin Bukatu",
+            "topic_img": "https://img.freepik.com/free-photo/box_53876-65526.jpg?t=st=1717524141~exp=1717527741~hmac=4c0c67298aae43035b4119ff005d4a32795c71efac49fac865a000eea4638af5&w=740",
+            "description": "Shirya 'ƙit na uwa' da abubuwan da ake bukata don haihuwa mai lafiya da jin daɗi. Wannan ya haɗa da abubuwan da kake bukata kai da jaririnka.",
+            "content": "Shirya 'ƙit na uwa' da abubuwan da ake bukata don haihuwa mai lafiya da jin daɗi. Wannan ya haɗa da abubuwan da kake bukata kai da jaririnka."
+          }
+        ]
+      }
     }
-}
-
   ]
 }

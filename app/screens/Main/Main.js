@@ -48,6 +48,7 @@ const Main = ({
   const [bottomSheetOpen, isOpen] = useState(false);
   const [email, setEmail] = useState("");
   const [selectedLanguage, setSelectedLanguage] = useState("en");
+  const [seacrching, setSearching] = useState(false);
 
   const navigation = useNavigation();
   const snapPoints = useMemo(() => ["25%", "45%"], []);
@@ -60,7 +61,12 @@ const Main = ({
   useEffect(() => {
     // console.log("NewTopicsArray", t("mainTopics", { returnObjects: true }));
   }, []);
-
+  const handleFocus = () => {
+    setSearching(true);
+  };
+  const handleBlur = () => {
+    setSearching(false);
+  };
   const handleLanguageSelect = (item) => {
     setSelectedLanguage(item);
     changeLng(item);
@@ -146,6 +152,8 @@ const Main = ({
                   selectionColor="#2D2D5F"
                   onChangeText={(text) => setUsername(text)}
                   style={styles.textSearchInput}
+                  onFocus={handleFocus}
+                  onBlur={handleBlur}
                 />
               </View>
               <TouchableOpacity onPress={handlePress}>
@@ -158,26 +166,46 @@ const Main = ({
                 </View>
               </TouchableOpacity>
             </View>
-            <View style={styles.topics}>
-              {mainTopics.map((topic) => (
-                <TouchableOpacity
-                  key={topic.id}
-                  onPress={() => handleMainPress(topic.id)}
-                >
-                  <View style={styles.topicContent}>
-                    <View style={styles.imageContentContainer}>
+            {seacrching ? (
+              <View style={styles.seacrchOptionContainer}>
+                {topics.map((topic) => (
+                  <TouchableOpacity
+                    key={topic.id}
+                    onPress={() => handleTopicPress(topic.id)}
+                  >
+                    <View style={styles.topicContainer}>
+                      <Text style={styles.topicTitle}>{topic.title}</Text>
                       <Image
-                        style={styles.imageContent}
-                        source={{ uri: topic.topic_img }}
+                        source={require("../../assets/next.png")}
+                        style={{ height: 17, width: 17 }}
+                        resizeMode="cover"
                       />
                     </View>
-                    <View style={styles.contentTextContainer}>
-                      <Text style={styles.contentText}>{topic.title}</Text>
+                  </TouchableOpacity>
+                ))}
+              </View>
+            ) : (
+              <View style={styles.topics}>
+                {mainTopics.map((topic) => (
+                  <TouchableOpacity
+                    key={topic.id}
+                    onPress={() => handleMainPress(topic.id)}
+                  >
+                    <View style={styles.topicContent}>
+                      <View style={styles.imageContentContainer}>
+                        <Image
+                          style={styles.imageContent}
+                          source={{ uri: topic.topic_img }}
+                        />
+                      </View>
+                      <View style={styles.contentTextContainer}>
+                        <Text style={styles.contentText}>{topic.title}</Text>
+                      </View>
                     </View>
-                  </View>
-                </TouchableOpacity>
-              ))}
-            </View>
+                  </TouchableOpacity>
+                ))}
+              </View>
+            )}
           </View>
           <BottomSheet
             index={-1}
@@ -266,6 +294,10 @@ const Main = ({
 };
 
 const styles = StyleSheet.create({
+  seacrchOptionContainer: {
+    // padding: 20,
+    // backgroundColor: "red",
+  },
   bottomSheetScrollContainer: {
     flexGrow: 1,
     paddingBottom: 20,
@@ -292,10 +324,9 @@ const styles = StyleSheet.create({
     paddingBottom: 20,
     marginBottom: 5,
     backgroundColor: "#efefef",
-    borderBottomWidth: 1,
-    borderBottomColor: "white",
-    borderTopWidth: 1,
-    borderTopColor: "white",
+    borderWidth: 1,
+    borderColor: "GREY",
+
     borderRadius: 10,
   },
   bottonSheetTitle: {
