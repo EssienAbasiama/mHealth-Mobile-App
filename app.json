@@ -13,7 +13,8 @@
       "adaptiveIcon": {
         "foregroundImage": "",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.abasiama.mhealthapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"

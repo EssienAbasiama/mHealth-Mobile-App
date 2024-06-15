@@ -3,19 +3,23 @@
     "development": {
       "distribution": "internal",
       "android": {
-        "buildType": "apk"
+        "buildType": "apk",
+        "image": "default"
       },
       "ios": {
-        "simulator": true
+        "simulator": true,
+        "image": "default"
       }
     },
     "production": {
       "distribution": "store",
       "android": {
-        "buildType": "app-bundle"
+        "buildType": "app-bundle",
+        "image": "default"
       },
       "ios": {
-        "simulator": false
+        "simulator": false,
+        "image": "default"
       }
     }
   },
