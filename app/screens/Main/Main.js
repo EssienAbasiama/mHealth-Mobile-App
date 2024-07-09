@@ -52,7 +52,7 @@ const Main = ({
   const [searchText, setSearchText] = useState("");
 
   const navigation = useNavigation();
-  const snapPoints = useMemo(() => ["25%", "45%"], []);
+  const snapPoints = useMemo(() => ["25%", "50%"], []);
   const languageSnapPoints = useMemo(() => ["25%", "50%"], []);
   const bottomSheetRef = useRef(null);
   const bottomSheetSettingRef = useRef(null);
@@ -67,6 +67,19 @@ const Main = ({
   useEffect(() => {
     // console.log("NewTopicsArray", t("mainTopics", { returnObjects: true }));
   }, []);
+
+  const renderTopics = ({ item }) => (
+    <TouchableOpacity key={item.id} onPress={() => handleTopicPress(item.id)}>
+      <View style={styles.topicContainer}>
+        <Text style={styles.topicTitle}>{item.title}</Text>
+        <Image
+          source={require("../../assets/next.png")}
+          style={{ height: 17, width: 17 }}
+          resizeMode="cover"
+        />
+      </View>
+    </TouchableOpacity>
+  );
 
   const handleMainTopicPress = (topicId) => {
     console.log("Main Topic Pressed:", topicId);
@@ -159,6 +172,10 @@ const Main = ({
 
   const handleMainPress = (id) => {
     navigation.navigate("MainTopicDetailScreen", { id });
+  };
+
+  const handlePregNav = (id) => {
+    navigation.navigate("pregnancyCalculator");
   };
   const handleMainSubTopicPress = (id) => {
     // navigation.navigate("SubTopicScreen", { id });
@@ -369,35 +386,39 @@ const Main = ({
         enablePanDownToClose={true}
         backdropComponent={renderBackdrop}
       >
-        <ScrollView contentContainerStyle={styles.bottomSheetScrollContainer}>
-          <View style={styles.bottomSheetContainer}>
-            <Text style={styles.bottonSheetTitle}>{t("exploreTopics")}</Text>
-            <View style={styles.bottomSheetContentContainer}>
-              {topics.map((topic) => (
-                <TouchableOpacity
-                  key={topic.id}
-                  onPress={() => handleTopicPress(topic.id)}
-                >
-                  <View style={styles.topicContainer}>
-                    <Text style={styles.topicTitle}>{topic.title}</Text>
-                    <Image
-                      source={require("../../assets/next.png")}
-                      style={{ height: 17, width: 17 }}
-                      resizeMode="cover"
-                    />
-                  </View>
-                </TouchableOpacity>
-              ))}
-              {/* Close BTN */}
-              <TouchableOpacity
-                style={styles.closeModalBtn}
-                onPress={handleClosePress}
-              >
-                <Text style={styles.buttonText}>{t("closeButton")}</Text>
-              </TouchableOpacity>
-            </View>
+        <View style={styles.bottomSheetContainer}>
+          <Text style={styles.bottonSheetTitle}>{t("exploreTopics")}</Text>
+          <View style={styles.bottomSheetContentContainer}>
+            <FlatList
+              data={topics}
+              keyExtractor={(item) => item.id.toString()}
+              renderItem={renderTopics}
+              contentContainerStyle={styles.bottomSheetContentContainer}
+              ListFooterComponent={
+                <>
+                  <TouchableOpacity onPress={handlePregNav}>
+                    <View style={styles.topicContainer}>
+                      <Text style={styles.topicTitle}>
+                        Pregnancy Calculator
+                      </Text>
+                      <Image
+                        source={require("../../assets/next.png")}
+                        style={{ height: 17, width: 17 }}
+                        resizeMode="cover"
+                      />
+                    </View>
+                  </TouchableOpacity>
+                  <TouchableOpacity
+                    style={styles.closeModalBtn}
+                    onPress={handleClosePress}
+                  >
+                    <Text style={styles.buttonText}>{t("closeButton")}</Text>
+                  </TouchableOpacity>
+                </>
+              }
+            />
           </View>
-        </ScrollView>
+        </View>
       </BottomSheet>
     </>
   );

@@ -13,22 +13,35 @@ import MainTopicSubTopic from "./app/screens/SubTopic/MainTopicSubTopic";
 import i18next, { languageResources } from "./services/i18next";
 import { useTranslation } from "react-i18next";
 import languagesList from "./services/languagesList.json";
+import { onAuthStateChanged } from "firebase/auth";
+import { FIREBASE_AUTH } from "./app/config/firebase";
+import PregHome from "./app/screens/PregnancyCalculator/Home";
 
 const Stack = createStackNavigator();
 
 export default function App() {
   const [isShowSplash, setIsShowSplash] = useState(true);
-
-  const [visible, setVisible] = useState(false);
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
   const { t } = useTranslation();
 
   const changeLng = (lng) => {
     i18next.changeLanguage(lng);
-    setVisible(false);
+  };
+
+  const checkAuthStatus = () => {
+    const auth = FIREBASE_AUTH;
+    onAuthStateChanged(auth, (user) => {
+      if (user) {
+        setIsAuthenticated(true);
+      } else {
+        setIsAuthenticated(false);
+      }
+    });
   };
 
   useEffect(() => {
     setTimeout(() => {
+      checkAuthStatus();
       setIsShowSplash(false);
     }, 3000);
   }, []);
@@ -40,19 +53,24 @@ export default function App() {
           <Stack.Screen name="Splash" component={SplashScreen} />
         ) : (
           <>
-            <Stack.Screen name="Onboarding" component={Onboarding} />
-            <Stack.Screen name="SignIn" component={SignIn} />
+            {isAuthenticated ? (
+              <Stack.Screen name="Home">
+                {(props) => (
+                  <Main
+                    {...props}
+                    languageResources={languageResources}
+                    languagesList={languagesList}
+                    changeLng={changeLng}
+                  />
+                )}
+              </Stack.Screen>
+            ) : (
+              <>
+                <Stack.Screen name="Onboarding" component={Onboarding} />
+                <Stack.Screen name="SignIn" component={SignIn} />
+              </>
+            )}
             <Stack.Screen name="SignUp" component={SignUp} />
-            <Stack.Screen name="Home">
-              {(props) => (
-                <Main
-                  {...props}
-                  languageResources={languageResources}
-                  languagesList={languagesList}
-                  changeLng={changeLng}
-                />
-              )}
-            </Stack.Screen>
             <Stack.Screen name="TopicDetailScreen">
               {(props) => (
                 <TopicDetails
@@ -73,7 +91,6 @@ export default function App() {
                 />
               )}
             </Stack.Screen>
-
             <Stack.Screen name="SubMainTopicScreen">
               {(props) => (
                 <MainTopicSubTopic
@@ -87,6 +104,16 @@ export default function App() {
             <Stack.Screen name="MainTopicDetailScreen">
               {(props) => (
                 <MainTopicDetail
+                  {...props}
+                  languageResources={languageResources}
+                  languagesList={languagesList}
+                  changeLng={changeLng}
+                />
+              )}
+            </Stack.Screen>
+            <Stack.Screen name="pregnancyCalculator">
+              {(props) => (
+                <PregHome
                   {...props}
                   languageResources={languageResources}
                   languagesList={languagesList}

@@ -24,6 +24,7 @@ function TopicDetails() {
   const { id } = route.params;
   const navigation = useNavigation();
   const { t } = useTranslation();
+  const headerIndices = [0, 17];
   const topics = t("topics", { returnObjects: true });
   useEffect(() => {
     const selectedTopic = topics.find((topic) => topic.id === id);
@@ -62,11 +63,24 @@ function TopicDetails() {
         <View style={styles.containerDetails}>
           {topic.content.details &&
             topic.content.details.length > 0 &&
-            topic.content.details.map((detail, index) => (
-              <Text key={index} style={styles.body}>
-                {detail}
-              </Text>
-            ))}
+            topic.content.details.map((detail, index) => {
+              const parts = detail.split(": ");
+              const isHeader = headerIndices.includes(index);
+              return (
+                <Text key={index} style={styles.body}>
+                  {parts.length > 1 ? (
+                    <>
+                      <Text style={isHeader ? styles.subHeader : styles.bold}>
+                        {parts[0]}:{" "}
+                      </Text>
+                      {parts[1]}
+                    </>
+                  ) : (
+                    detail
+                  )}
+                </Text>
+              );
+            })}
         </View>
 
         {/* Explore More Topics */}
@@ -97,6 +111,17 @@ function TopicDetails() {
 }
 
 const styles = StyleSheet.create({
+  subHeader: {
+    fontWeight: "bold",
+    fontSize: 17,
+    marginBottom: 15,
+    marginTop: 10,
+    color: "#1a1a1a",
+    textAlign: "center",
+  },
+  bold: {
+    fontWeight: "bold",
+  },
   containerDetails: {
     marginTop: 20,
   },
@@ -181,12 +206,11 @@ const styles = StyleSheet.create({
     lineHeight: 15,
   },
   body: {
-    // color: "grey",
     fontSize: 14,
+    marginBottom: 10,
 
     paddingLeft: 21,
     paddingRight: 21,
-    // textAlign: "center",
     lineHeight: 20,
   },
 });

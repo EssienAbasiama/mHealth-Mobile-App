@@ -13,7 +13,7 @@ const intro = [
   },
   {
     title: "Lifestyle Changes",
-    body: "Adopt healthy lifestyle changes during pregnancy. Monitor yourself, set goals, and seek support.",
+    body: "Adopt a timely skilled care-seeking lifestyle in pregnancy and labour and after birth.",
     imgUrl:
       "https://s3-alpha-sig.figma.com/img/d625/9193/f24d1f68592ef4f34f28a096c7982022?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NjoLQRDST1M8WHF4hGuGfjviw~1-7wkQE505kiXnKTdJ35x~NqRCQQQQ7NR4Mu9kSolYrSloDh6YeV47n4xQxWVlIsIvvuIOuuu7VD2WksKNc9jM-gg2GZAqiW-YTCIZ8AHIy-17TQ2BgEcmi3jKyo17SdwEueeQwu4uSFrJr361FpzUnuP6P4yLyn~O~9kmsbFvjiKckQ6wYSpZf4hXBnyuWMQNNKe6I~sHHpdVC48Q5IjSBGo~agdD8zgkjnVwmuOBAZp-zoM-9BX8qnekij51A~YC0-A59ywLPwWVuTExgchkzFwAoaHF34koB-WlxuGRv6G1Q5nCgxK0-lhYxw__",
   },
