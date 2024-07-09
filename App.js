@@ -16,6 +16,7 @@ import languagesList from "./services/languagesList.json";
 import { onAuthStateChanged } from "firebase/auth";
 import { FIREBASE_AUTH } from "./app/config/firebase";
 import PregHome from "./app/screens/PregnancyCalculator/Home";
+import PregCalcHome from "./app/screens/PregnancyCalculator/PregnancyCalculatorResponse";
 
 const Stack = createStackNavigator();
 
@@ -114,6 +115,16 @@ export default function App() {
             <Stack.Screen name="pregnancyCalculator">
               {(props) => (
                 <PregHome
+                  {...props}
+                  languageResources={languageResources}
+                  languagesList={languagesList}
+                  changeLng={changeLng}
+                />
+              )}
+            </Stack.Screen>
+            <Stack.Screen name="PregCalcHome">
+              {(props) => (
+                <PregCalcHome
                   {...props}
                   languageResources={languageResources}
                   languagesList={languagesList}

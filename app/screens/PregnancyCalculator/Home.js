@@ -1,59 +1,139 @@
-import React, { useEffect, useState } from "react";
-import { useRoute } from "@react-navigation/native";
-import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
-import LinearGradient from "react-native-linear-gradient";
+import React, { useState, useEffect } from "react";
 import {
+  ScrollView,
   View,
   Text,
-  StyleSheet,
   Image,
-  TextInput,
+  StyleSheet,
   TouchableOpacity,
-  ScrollView,
-  Dimensions,
-  Button,
 } from "react-native";
+import { Calendar } from "react-native-calendars";
+import moment from "moment";
 import { useTranslation } from "react-i18next";
+import { SafeAreaView } from "react-native-safe-area-context";
+import { useNavigation } from "@react-navigation/native";
+import { LinearGradient } from "expo-linear-gradient";
 
 const PregHome = () => {
-  const [topic, setTopic] = useState(null);
-  const route = useRoute();
-  const [id, setid] = useState(15);
-
   const { t } = useTranslation();
-  const mainTopics = t("mainTopics", { returnObjects: true });
+  const navigation = useNavigation();
+  const [selectedDate, setSelectedDate] = useState(null);
+  const [pregnancyInfo, setPregnancyInfo] = useState("");
+  // const mainTopics = t("mainTopics", { returnObjects: true });
 
-  console.log(id);
-  useEffect(() => {
-    const selectedTopic = mainTopics
-      .flatMap((topic) => topic.content.subtopics)
-      .find((subtopic) => subtopic.id === id);
+  const today = moment().format("YYYY-MM-DD");
+  const maxPregnancyDate = moment().subtract(42, "weeks").format("YYYY-MM-DD");
 
-    console.log(selectedTopic);
-    setTopic(selectedTopic);
-  }, [id]);
+  const handleDatePress = (day) => {
+    const selected = moment(day.dateString);
+    if (selected.isAfter(today) || selected.isBefore(maxPregnancyDate)) {
+      return;
+    }
+    setSelectedDate(day.dateString);
+    calculatePregnancy(day.dateString);
+  };
 
-  if (!topic) {
-    return (
-      <View style={styles.container}>
-        <Text>Loading...</Text>
-      </View>
-    );
-  }
+  const calculatePregnancy = (date) => {
+    const lastPeriodDate = moment(date);
+    const today = moment();
+    const duration = moment.duration(today.diff(lastPeriodDate));
+    const weeks = Math.floor(duration.asWeeks());
+    const days = Math.floor(duration.asDays() % 7);
+    const durationString = `${weeks} weeks and ${days} days`;
+
+    let info = "";
+    if (weeks < 5) {
+      info = `It is too soon to know for sure if you are pregnant. It has been ${durationString} since the last period.`;
+    } else if (weeks < 14) {
+      info = `This is the first trimester of pregnancy. You are ${durationString} pregnant.`;
+    } else if (weeks < 27) {
+      info = `This is the second trimester of pregnancy. You are ${durationString} pregnant.`;
+    } else if (weeks <= 40) {
+      info = `This is the third trimester of pregnancy. You are ${durationString} pregnant.`;
+    } else {
+      info = `Are you sure you entered the right date? 40 weeks is a full-term pregnancy and this says you're ${durationString} pregnant.`;
+    }
+
+    setPregnancyInfo(info);
+    navigation.navigate("PregCalcHome", { pregnancyInfo: info });
+  };
 
   return (
     <ScrollView contentContainerStyle={styles.scrollContainer}>
-      <View style={styles.headerContainer}>
-        <Text style={styles.headerText}>{t("pregnancyTitle")} </Text>
-      </View>
-
       <View style={styles.container}>
-        <View style={styles.containerDetails}>
-          <Text style={styles.body}>{t("pregnancyCalculatorText")}</Text>
+        <View style={styles.imageContainer}>
+          <Image
+            source={{
+              uri: "https://img.freepik.com/free-photo/black-pregnant-women-posing_23-2151446148.jpg?t=st=1716894103~exp=1716897703~hmac=8e7ee396bb40d9e89d0f0523e4eb3d4933eb4b552f0bfc1ce9ca8bee6cbe2c98&w=996",
+            }}
+            style={styles.image}
+            resizeMode="cover"
+          />
+          <LinearGradient
+            colors={["rgba(0, 0, 0, 0.4)", "#000000"]}
+            style={styles.gradient}
+          />
         </View>
+
+        <Text style={styles.header}>{t("pregnancyTitle")}</Text>
+        <Text style={styles.intro}>{t("pregnancyCalculatorText")}</Text>
         <View style={styles.containerDetails}>
           <Text style={styles.body}>{t("pregnancyCalculatorSide")}</Text>
         </View>
+
+        <Calendar
+          onDayPress={handleDatePress}
+          markedDates={{
+            [selectedDate]: {
+              selected: true,
+              marked: true,
+              selectedColor: "#2D2D5F",
+            },
+          }}
+          disableAllTouchEventsForDisabledDays={true}
+          minDate={maxPregnancyDate}
+          maxDate={today}
+          renderDay={(day, item) => {
+            const dayDate = moment(day.dateString);
+            const isDisabled =
+              dayDate.isAfter(today) || dayDate.isBefore(maxPregnancyDate);
+            return (
+              <View style={isDisabled ? styles.disabledDay : null}>
+                <Text
+                  style={
+                    isDisabled ? styles.disabledDayText : styles.enabledDayText
+                  }
+                >
+                  {day.day}
+                </Text>
+              </View>
+            );
+          }}
+          theme={{
+            calendarBackground: "#ffffff",
+            textSectionTitleColor: "#b6c1cd",
+            selectedDayBackgroundColor: "#2D2D5F",
+            selectedDayTextColor: "#ffffff",
+            todayTextColor: "#2D2D5F",
+            dayTextColor: "#2D2D5F",
+            textDisabledColor: "#d9e1e8",
+            dotColor: "#2D2D5F",
+            selectedDotColor: "#ffffff",
+            arrowColor: "#2D2D5F",
+            disabledArrowColor: "#d9e1e8",
+            monthTextColor: "#2D2D5F",
+            indicatorColor: "#2D2D5F",
+            textDayFontFamily: "monospace",
+            textMonthFontFamily: "monospace",
+            textDayHeaderFontFamily: "monospace",
+            textDayFontWeight: "300",
+            textMonthFontWeight: "bold",
+            textDayHeaderFontWeight: "300",
+            textDayFontSize: 16,
+            textMonthFontSize: 16,
+            textDayHeaderFontSize: 16,
+          }}
+        />
       </View>
     </ScrollView>
   );
@@ -62,27 +142,9 @@ const PregHome = () => {
 export default PregHome;
 
 const styles = StyleSheet.create({
-  headerContainer: {
-    backgroundColor: "#f5f5f5",
-    padding: 40,
-    paddingLeft: 20,
-    paddingBottom: 20,
-    borderBottomColor: "#ddd",
-    display: "flex",
-    justifyContent: "center",
-    backgroundColor: "#2D2D5F",
-  },
-  headerText: {
-    fontSize: 19,
-    fontWeight: "bold",
-    color: "#fff",
-  },
-  headerSubtitle: {
-    fontSize: 16,
-    color: "#2D2D5F",
-  },
   containerDetails: {
     marginTop: 20,
+    marginBottom: 20,
   },
   subtopicsContainerr: {
     padding: 20,
@@ -119,12 +181,8 @@ const styles = StyleSheet.create({
   },
   container: {
     backgroundColor: "white",
-    width: ITEM_WIDTH,
     flex: 1,
-    height: "100%",
-  },
-  scrollContainer: {
-    flex: 1,
+    paddingBottom: 35,
   },
   image: {
     width: "100%",
@@ -133,7 +191,7 @@ const styles = StyleSheet.create({
   },
   imageContainer: {
     position: "relative",
-    width: ITEM_WIDTH,
+    // width: ITEM_WIDTH,
     height: 400,
     borderBottomLeftRadius: 30,
     borderBottomRightRadius: 30,
@@ -152,7 +210,8 @@ const styles = StyleSheet.create({
     color: "#2D2D5F",
     fontSize: 20,
     fontWeight: "600",
-    // paddingLeft: 20,
+    fontFamily: "monospace",
+    fontWeight: "bold",
     paddingTop: 20,
     textAlign: "center",
     lineHeight: 23.46,
@@ -167,12 +226,22 @@ const styles = StyleSheet.create({
     paddingRight: 21,
     textAlign: "center",
     lineHeight: 15,
+    fontFamily: "monospace",
   },
   body: {
     fontSize: 14,
-
+    // fontFamily: "monospace",
     paddingLeft: 21,
     paddingRight: 21,
     lineHeight: 20,
+  },
+  disabledDay: {
+    opacity: 0.5,
+  },
+  disabledDayText: {
+    color: "#d3d3d3",
+  },
+  enabledDayText: {
+    color: "#000",
   },
 });
