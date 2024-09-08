@@ -131,4 +131,10 @@ const styles = StyleSheet.create({
   enabledDayText: {
     color: "#000",
   },
+  backIcon: {
+    position: "absolute",
+    top: 30,
+    left: 20,
+    zIndex: 1,
+  },
 });

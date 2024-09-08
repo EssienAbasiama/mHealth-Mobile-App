@@ -8,260 +8,255 @@
   "mainTopics": [
     {
       "id": 1,
-      "title": "Obara Ụtọ",
+      "title": "Ncheta N'ala",
       "topic_img": "https://img.freepik.com/free-photo/medium-shot-happy-parents-be_23-2151446095.jpg?t=st=1716893006~exp=1716896606~hmac=b7b5cf53c7adf68cf21bece8021635c06100b232177d1c22532384ec204041ef&w=740",
-      "description": "Nzoputa ego nke obi, nke a ncheta ego nke ndu, nke n'ime ego.",
+      "description": "Ighọta omume nke ime, site na ọmụmụ ruo n'oge ime.",
       "content": {
-        "intro": "Obara Ụtọ bụ egwu ọma gị dị, gịbaa otu na-enweta mmemme nnukwu maka nwoke na nwanne ya.",
+        "intro": "Ncheta n'ala bụ oge dị ịtụnanya nke nwere ọtụtụ mgbanwe na nke dịrị mkpa n'ahụ na n'uche. Oge a bụ nke na-efu na mmepe nke nwa na ime.",
         "details": [
-          "Obara Ụtọ nwere ihe 40, maara nke a chọrọ ihe ọ bụla. Nke ihe mere mere na-adịghị ahụ.",
-          "Ọchịchị bụ n'aka na-akpa aka, oghere, na akọrọ n'ịfụ. Ọ nwere nkọwa ikpeazụ ma bụ bido.",
-          "Uzu mmemme ka ọ dị mma, ma na mba nwekwara. Ọ na-eme otu n'uzọ, maara maara na nhazi n'ọka.",
-          "Na ọchịchị anụ ọ dị, nwoke nwere udi mma, mana nwoke nwere nkwupụta ihe mma. Ọdịbendị n'ọbara n'azu ahụ.",
-          "Obara Ụtọ bụ egwu nke nchekwa uche mmemme, n'aka ịgba mmemme na mmemme nnukwu. Ọ bụrụ na ọ dịghị otu ihe ahụ bụ ihe mmadụ.",
-          "N'ụbọchị nke a, ụgwọ ngwa nwere ike ịba mfe aha, n'ọdịchịchi, na n'ọdịchi.",
-          "Ịkwalite na obodo, mepụta n'akụ na n'akụ, n'oge gị na-enye gị njem n'ime otu ma mmadụ."
+          "Ncheta n'ala na-ewe ihe dịka izu 40, nke a na-ekewa na atọ na trimester. Ọ bụla na-arụ ọrụ na-eweta mmepe na nsogbu pụrụ iche.",
+          "Ihe ngosi nke mbụ na trimester mbụ bụ mmetụta nke ụjọ, ike agwụla, na uche. Ọ dị mkpa ịrụsi ọrụ ike na nri dị mma na iri mmiri dị ukwuu.",
+          "Nlekọta prenatal kwa ụbọchị dị mkpa iji nyochaa ahụ ike nke nne na nwa. Nke a gụnyere ịga na dọkịta na oge kwesịrị ekwesị, ime ultrasound, na nyocha ọbara.",
+          "N'oge trimester nke abụọ, ọtụtụ ụmụ nwanyị na-enweta ike na-agbanye ma ọ bụ na-arụpụta. Nke a bụ oge kwesịrị ekwesị iji malite na-eme egwuregwu nke ọma dịka ịgagharị ma ọ bụ ịsụ, nke nwere ike inyere aka n'ịchịkwa ibu na ịkwadebe ahụ maka ọmụmụ.",
+          "N'oge trimester nke atọ, nwa na-etolite ngwa ngwa, na nne nwere ike inwe mmetụta nke enweghị ọdịmma n'ihi nnukwu nwa. Nrụrụ arụma nke ọma, yoga nke prenatal, na iri nri n'ime oge obere nwere ike inyere aka n'ịchịkwa nsogbu ndị a.",
+          "Ncheta n'ala na-eme mgbanwe na uche. Ngbanwe hormone nwere ike ime ka mgbanwe uche, na ọ dị mkpa ịgwa onye nkwado gị na ịchọta nkwado site n'aka ndị enyi na ndị ikwu.",
+          "Ịkwadebe maka ọmụmụ bụ na itinye oge na klas prenatal, ịmepụta atụmatụ ọmụmụ, na ịtụle nhọrọ nke ịchịkwa agụụ gị na dọkịta gị. Ọ bụ oge kwesịrị ekwesị iji kwadebe akpa ụlọ ọgwụ ma ịhazi onye ga-ewere gị na ụlọ ọgwụ mgbe ọmụmụ malitere."
         ],
         "subtopics": [
           {
             "id": 1,
-            "title": "Nkwa Na-Enweghị Mmanya",
-            "topic_img": "https://img.freepik.com/free-photo/healthy-pregnancy-food_53876-74335.jpg",
-            "description": "O nwere ike ime mmadụ n'oge na-egwu n'ime ego.",
-            "content": "Nkwa na-enweghị mmanya bụ ike nke mmemme gị n'ọchi na ụlọ, maara mma ụwa n'anya mma. Nkwa na-enweghị mmanya bụ ka mkpụrụ anya ike mmanya na gị na ha. Mmepeere nke na-adịghị ala, ura na-afụ maara ya na na-achịka ike. Mmanya na-enweghị mmanya bụ mmanya ịgbanwe mkpụrụ anya, ịgbanwe mkpụrụ anya na mmanya. Nkwa na-enweghị mmanya bụ na nke gị jụrụ ike anyị na-abụ ebe ọtụtụ ọtụtụ."
+            "title": "Nri N'oge Ime",
+            "topic_img": "https://img.freepik.com/free-photo/front-view-pregnant-woman-eating-salad_23-2148302044.jpg?t=st=1718446334~exp=1718449934~hmac=edf04224d089afe80bf68bbca5167f298220aa3d0caabeaf60b438b6fb22235d&w=826",
+            "description": "Iri nri dị mma iji kwado ahụ ike nke nne na nwa.",
+            "content": "Nri dị mma dị mkpa n'oge ime iji kwado mmepe na ịdị mma nke nwa na-eme na ilekọta ahụ ike nke nne. Na-emekwa ka ị na-eri nri niile nke mkpụrụ osisi, akwụkwọ nri, kọfị, anụ dị mma, na ngwaahịa mmiri ara ehi. Ihe kachasị mkpa bụ folic acid, iron, calcium, na omega-3 fatty acids. Gbaa mbọ hụ na ị nwere ọgwụ vitamin prenatal na-eme ka ọ bụrụ na ị nwere ụdị nri niile. Zere nri dị ka azụ na-adịghị achicha, mmiri ara ehi na-enweghị pasteurize, na caffeine na ọtụtụ. Iri mmiri dị ukwuu bụ nke dị mkpa."
           },
           {
             "id": 2,
-            "title": "Egwuregwu Na Umu Ọjị",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-doing-yoga-exercise_53876-138232.jpg",
-            "description": "Nzoputa ike nwere nke a, gịbaa otu ma mmemme nnukwu maka nwoke na nwanne ya.",
-            "content": "Egwuregwu na umu ọjị bụ egwuregwu nwere ike ike na-enweta otu na-enweghị mmanya, na-enwe otu na nwere ike n'oge, ma na ụjọ na nkịtị. E ji egwuregwu na-enweghị mmanya, ma jide n'ụlọ n'ụlọrụ na mma. N'ezie na-ewe na ụzọ, maara ike ọdị, maara ihe ndị na-eziteghị n'oge. Ọ kwesịrị ka ịgbanwe na-enweghị mmanya ma na n'ọdịchị."
+            "title": "Mmekọrịta na Ahụike",
+            "topic_img": "https://img.freepik.com/free-vector/training-home-concept_23-2148500626.jpg?t=st=1718446580~exp=1718450180~hmac=69c77be46b3ecc9c8e2ba928f1b4693548a72db3b657fc9ef12e67d2812dd77e&w=740",
+            "description": "Na-enyere aka na-arụsi ọrụ ike na ahụike na ogologo oge ime.",
+            "content": "Iji na-eme egwuregwu kwa ụbọchị n'oge ime nwere ike inyere aka na ịchịkwa ibu, belata nchekasị, na ịkwadebe ahụ maka ọmụmụ. Egwuregwu dị ka ịgagharị, ịsụ, na yoga nke prenatal bụ ihe kwesịrị ekwesị. Ị ga-azụlite ike ma ọ bụ nwee mmetụta nke ike agwụla, ọ dị mkpa ị ga-azụlite usoro ahụ na ịzụlite. Ntụle nke ọma na-enye ohere maka mmetụta ndị na-adịghị mma dịka mgbu azụ na nwelite na-eme ka gị na-enwe afọ ojuju. Biko, kpọtụrụ dọkịta gị tupu ị malite usoro ahụ."
           },
           {
             "id": 3,
-            "title": "Uche Mmadụ",
-            "topic_img": "https://img.freepik.com/free-photo/happy-pregnant-woman-touching-belly-home_53876-129584.jpg",
-            "description": "Nzoputa ego nke obi, nke a ncheta ego nke ndu, nke n'ime ego.",
-            "content": "Uche mmadụ bụ n'ike na-enweta ihe ọ bụla. N'ụzọ, jide n'ụzọ n'ụzọ n'ime ego, maara n'etiti n'etiti. Uche mmadụ nwere ike nwere ike ime mmadụ, na-eme eziokwu n'izizi n'ime ego. Ọ bụrụ na-ewebighị na-ebighị ọma, kachasị eziokwu n'izizi n'ime ego. Uche mmadụ na-enweghị mmanya bụ na-egwuregwu, na na-achọ maka ọbụla."
+            "title": "Uche na Nchebe",
+            "topic_img": "https://img.freepik.com/free-photo/surprised-greatful-attractive-tender-african-american-woman-trendy-brown-t-shirt-holding-hands-heart-smiling-broadly-from-amazement-joy-happy-receive-award-gray-wall_176420-23261.jpg?t=st=1718447380~exp=1718450980~hmac=d2a698e130a4a2487e48e1c7cfc8783a5e5f02e4d80f3057795760d153196446&w=826",
+            "description": "Ịchịkwa mgbanwe uche na ịdị mma n'uche n'oge ime.",
+            "content": "Ime nwere ike ime ka mgbanwe uche dị ukwuu n'ihi mgbanwe hormone. Ọ dị mma ka ị nweta mgbanwe na uche, site na ụtụ dị ụtọ na afọ ojuju ruo n'ọtụtụ mmetụta uche na-amụpụta. Na-enyere mmekọrịta na onye gị na ya, na ịchọta nkwado site na ndị enyi na ndị ikwu. Akwụkwọ mgbasa ozi dịka mindfulness, meditatiọn, na yoga nke prenatal nwere ike inyere aka n'ịchịkwa nchekasị na ịrụsi ọrụ ike nke uche. Na-echegbu onwe gị, na-agba mbọ, ma ọ bụ gaa na onye nwere ahụmịhe nwere ike inyere gị aka ma ọ bụrụ na ị na-enwe mmetụta uche nke nwere ike ịdịgide."
           },
           {
             "id": 4,
-            "title": "Iji Mmamma N'ọrụ",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-checking-her-belly_53876-14438.jpg",
-            "description": "Nzoputa ego nke obi, nke a ncheta ego nke ndu, nke n'ime ego.",
-            "content": "Iji mmamma n'ọrụ bụ iji nke na-eziokwu n'ime ego ma na n'izizi n'ime ego. Iji n'ụzọ na-achọ maka ọ bụla. Iji n'ụzọ na-achọ maka nwoke na nwanne ya. Iji n'ụzọ na-achọ maka ihe gbasara mmemme na-ebighị ọma. Iji mmamma n'orụ bụ iji nke na-eziokwu n'ime ego ma na n'izizi n'ime ego."
+            "title": "Nlekọta Prenatal",
+            "topic_img": "https://img.freepik.com/free-photo/medium-shot-father-tickling-girl_23-2150275587.jpg?t=st=1718447760~exp=1718451360~hmac=51856729c2a40c255aba60dc54012efc8b9c6f090534fd3777c7c84f47ba98d9&w=826",
+            "description": "Ọnọdụ na-amaghị ihe ga-eme ka ịhụ gị n'ahụ na nwa gị.",
+            "content": "Nlekọta prenatal kwa ụbọchị dị mkpa iji nyochaa ahụ ike nke nne na nwa na-eme. Nke a gụnyere ịga na dọkịta maka nyocha ahụ, ịme ultrasound, na nyocha ọbara. Nlekọta prenatal na-enyere aka n'ịhụ na nsogbu ọ bụla nwere ike ịpụta n'oge a. Dọkịta gị ga-enyere gị nyochaa ihe ndị nwere ike ịmepụta, nri, na ahụike. Biko, bụrụ onye ga-etinye oge iji hụ dọkịta gị mgbe niile ma chọta ndokwa n'oge nwere mmekọrịta."
           },
           {
             "id": 5,
-            "title": "Nwata Obara Ụtọ",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-holding-her-belly-while-sitting_53876-146510.jpg",
-            "description": "Nzoputa ego nke obi, nke a ncheta ego nke ndu, nke n'ime ego.",
-            "content": "Nwata obara ụtọ bụ n'ike na-enweta ihe ọ bụla. N'ụzọ, jide n'ụzọ n'ụzọ n'ime ego, maara n'etiti n'etiti. Nwata obara ụtọ nwere ike nwere ike ime mmemme, na-eme eziokwu n'izizi n'ime ego. Ọ bụrụ na-ewebighị na-ebighị ọma, kachasị eziokwu n'izizi n'ime ego."
+            "title": "Ikwadebe maka Omume",
+            "topic_img": "https://img.freepik.com/free-photo/daughter-father-reading-book-together_23-2148982018.jpg?t=st=1718447852~exp=1718451452~hmac=8f7c7afb27f12daac2a107c5f718a09a0891de41365339dfa07525b4da8a16d6&w=826",
+            "description": "Ikwadebe maka ọmụmụ na na-echeta.",
+            "content": "Ikwadebe maka ọmụmụ na-ewepụta ọtụtụ ihe, gụnyere ime atụmatụ maka ọmụmụ, ịga na klas prenatal, na ịtụle nhọrọ nke ịchịkwa agụụ gị na dọkịta gị. Ọ bụ oge kachasị mma iji kwadebe akpa ụlọ ọgwụ gị na ibu ihe ndị dị mkpa, na-achọ onye ga-enyere gị ka ị na-eme ihe dịka ọmụmụ. Tinye oge na-atụgharị uche na klas prenatal na ime ka ọ bụrụ na ịnwe ihe ọmụma zuru oke banyere ihe ndị ga-eme. Na-eme ka ị na-enwe mkpali ma na-ejikwa nkwado nke ezinụlọ gị na ndị enyi na-arụsi ọrụ ike."
           }
         ]
       }
     },
     {
       "id": 2,
-      "title": "Ụbọchi",
+      "title": "Ịmalite",
       "topic_img": "https://img.freepik.com/free-photo/portrait-mother-with-newborn-baby_23-2151055033.jpg?t=st=1716893171~exp=1716896771~hmac=20352121ae714f785024ac29dfb85ff7b060ede9697444d58f191d92134ab5a6&w=826",
-      "description": "Ụbọchi, aghụghọ na iji ego ofu, na oge banyere otu na iji ego ọhụrụ.",
+      "description": "Nhazi na usoro nke ịmụ nwa, na ihe ị nwere ike ịtụ anya mgbe ị na-atụ uche.",
       "content": {
-        "intro": "Ụbọchi bụ onye isi nke yanayin ƙyanwa, nke na-eme ọrụ na ịbụ ọmụ. O bụ ike nke mba na ndụ a na-agbanyere.",
+        "intro": "Ịmụ nwa bụ usoro nke ịmụ nwa, nke gụnyere ọrụ na ịmụ nwa. Ọ bụ ahụmịhe dị mkpa nke na-eme ka ndụ ndị nne na nna gbanwee.",
         "details": [
-          "Ezinaụlọ ụbọchi di n'ọgbako: ụbọchi na-amụta, ụbọchi na-ama, na ọzọ na ọrụ na-eme ego mmiri. N'ịbanye, i nwere ike ike ike ị nwere.",
-          "Ụbọchi na-amụta bụ na ụdaokwu ebe ọmụ gbara gị mụọ na ụzọ, na-ebi gị onye nwere ego. Onye oke mere, ụzọ ya n'agba omenala ma-ọ bụ mma. Ebe ọmụ gbara gị nwere n'ụdị.",
-          "Ụbọchi na-ama bụ na ụzọ bụ na-efu na na-eme na ọzọ na ọrụ ma-miri eze. Ọrụ iji gị n'ụzọ bụ na na-ebi gị onye nwere ego.",
-          "Ebe ọzọ na-amepe ụzọ bụ na ọmụ nwere ego na-ama n'ọzọ n'ụdaokwu n'ime n'ụzọ. Mmadụ aka n'ebi gị na-ama n'ịhụnanya maka ụzọ. Ụzọ iji iwe nke gị na-akụkọ dị ka ịnya ụlọ ọnụ nọ.",
-          "Ụbọchi nke ọgadị na-eme ego ofu bụ na ọzọ nwere ego na ụzọ. Ebe nke ụzọ nwere n'asaa ebe n'ihi 30 nke ọmụ gbara gị na-ama. Iwe na-ebi gị onye nwere ego ga-enweghị ike na-ala ego ofu ka ha enweghị ofuma.",
-          "Ezigbo ụbọchi eme n'imepe ọkụ na-abụọ na ọmụ dị n'obodo mmadụ. Ọmụ na-akpọ mmadụ dị ịkpịakọ ozi, n'ihi n'ala nwoke nke ọmụ. Mmiri-ji-ala na ije, na ọdị, na-na-abụ ụzọ dị n'ofu n'ọmụ gbara gị n'ọnụ. Gịnyere mmadụ-nye-mmụ-ọzọ na-achọ ụgbọ ala na ọdị na-enyere na iji mmadụ-nye-mmụ-ọzọ na-achọ agba mmadụ."
+          "A na-ekewa ọrụ n'ime akụkụ atọ: ọnọdụ ịmụ nwa, ọrụ ịmụ nwa, na usoro ịmụ nwa. Ịmara otu n'ime ha ga-enyere gị aka ịghọta ihe ị nwere ike ịtụ anya.",
+          "Ọnọdụ ịmụ nwa bụ ịsụ ọsọ nke ọgwụ na ịnọgide na-enwe. Ọnọdụ a nwere ike ịnọgide ogologo oge, ma ọ bụ ụbọchị. Ọ dị mkpa ka ị nwere ndụmọdụ, nwee eziokwu, na na-ahụ na ị na-aṅụ mmiri nke ọma. Ọrụ ndị ọzọ dịka ịgba ọsọ nwere ike inyere gị aka ịgbaso ọnọdụ.",
+          "Ọrụ ịmụ nwa bụ mgbe ọnọdụ ọgwụ bụ eziokwu ma ọ bụ buru ibu. Ọnọdụ a na-ekpebi ka ọ bụrụ nke 6 ruo 10 centimeters. A na-enye nhọrọ nke ịmụ nwa, dịka epidurals ma ọ bụ ọnya, n'oge a. Ọnọdụ a bụ na ịmụ nwa na-ekpebi ọnọdụ, dịka ịrụ ọrụ ma ọ bụ iji stool iji kwado ịmụ nwa.",
+          "Usoro nke anọ bụ ịmụ nwa. Nke a na-eme mgbe nwa na-apụta. Ọ dị mkpa ka ị soro ndụmọdụ gị ma nweta ọnọdụ na nchekwa. A na-ekewa usoro atọ, dịka ikwu ma ọ bụ iji stool, iji nyere gị aka n'oge ịmụ nwa.",
+          "Usoro nke anọ bụ usoro ịmụ nwa, nke na-eme mgbe nwa na-apụta na ụmụaka. Ọ bụ maka nyochaa na nkwado zuru oke. Ọ dị mkpa ịme atụmatụ maka ịmụ nwa, ma ọ bụ a ga-agbakwụnye maka ịchọta na ahụike gị.",
+          "Ọ dị mkpa ka ị nweta ọrụ ịmụ nwa, ma ọ bụ ịkwado maka ọrụ a na-enyere gị na ọrụ ịmụ nwa nke a pụrụ iche."
         ],
         "subtopics": [
           {
             "id": 6,
-            "title": "Ezi na nche nke ụbọchi",
-            "topic_img": "https://img.freepik.com/free-photo/doctor-explaining-pregnancy-check-up-report-while-consulting-young-expectant-woman_1262-16689.jpg",
-            "description": "N'agbanyeghị nke ndị ọzọ nke ụbọchi na kedu iji.",
-            "content": "Ụbọchi dị na ezinaụlọ nke mba, ụbọchi na-amụta, ụbọchi na-ama, na ọzọ na ọrụ na-eme ego mmiri. Ụbọchi na-amụta dị n'agbanyeghị nke mba, na-ebi gị onye nwere ego. Ụbọchi na-ama bụ nke ọzọ na-ebi gị onye nwere ego. Ebe ọrụ dị n'agbanyeghị na-ama ka ọmụ gbara gị nwere ego n'ọzọ. Ezi nke abụọ dị n'agbanyeghị na-ama na-echiche n'ibi-udo, na iko nke aghugho, na nweta ọzọ. Ọnụ gị dị mma n'imepe gị na ndụ na-eme ego na ọrụ."
+            "title": "Ụdị Ọrụ",
+            "topic_img": "https://img.freepik.com/free-photo/obstetrics-medical-team-delivering-baby-woman_482257-13970.jpg?t=st=1718448362~exp=1718451962~hmac=5e1f6a27fdc9d02d87a4b503c8cb0f69323f5ad92252c45ba5644794ac0b6bac&w=826",
+            "description": "Mara ụdị ọrụ na ihe ị nwere ike ịtụ anya.",
+            "content": "Ọrụ nwere akụkụ atọ: ọnọdụ ịmụ nwa, ọrụ ịmụ nwa, na usoro ịmụ nwa. Ọnọdụ ịmụ nwa bụ ọgwụ na-ewepụghị na ụdị ọṅụ. Ọnọdụ a nwere ike ịnọgide ruo awa ma ọ bụ ụbọchị na ahụike gị. Ọ dị mkpa ịrụ ọrụ gị nke ọma na na-ahụ na ị na-aṅụ mmiri. Ọrụ ndị ọzọ dịka ịgba ọsọ nwere ike inyere gị aka ịgbaso ọnọdụ.",
+            "details": "Ọnọdụ ịmụ nwa bụ ebe ọgwụ bụ eziokwu na ọnụ. Ọnọdụ a bụ na ịgụ, n'elu dị 6 ruo 10 centimeters. A na-enye nhọrọ dị iche iche, dịka epidurals ma ọ bụ ọnya, n'oge a. Ọnọdụ nke atọ bụ ịmụ nwa, na nke a na-eme mgbe nwa na-apụta. Ịkwado na ọnọdụ ịmụ nwa bụ ihe dị mkpa."
           },
           {
             "id": 7,
-            "title": "Eziekwesịrị Nsọ na Otu-akpụkpọ",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-having-regular-checkup-with-doctor_23-2148379329.jpg",
-            "description": "Nhọpụta n'imepe iji ịgbasa mmiri na ọrụ na ụzọ.",
-            "content": "Eziekwesịrị nsọ na otu-akpụkpọ nke ụbọchi na-eme mma. Ọzọ nke na-eme ego nwere njiko ọzọ dị na ike ịgba onwe gị n'agbanyeghị nke mba, n'akụkụ onwe gị, na na-eme ego. Ụbọchi na-ama ka mba ịrịba aka. A nwere njiko ike n'ụzọ iji kọwa na-ama na iji ṅụghari ya. Ị bụkwa n'agbanyeghị iko onwe gị n'ebi gị onye nwere ego dị ka njiko n'ihu."
+            "title": "Ọnọdụ Ịmụ Nwa",
+            "topic_img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-sonography-illustration_23-2149366316.jpg?t=st=1718448552~exp=1718452152~hmac=e52906d467b863c9a0292127469da313335a23b02c916304005b7db290669e5b&w=740",
+            "description": "Nhọrọ maka ịmụ nwa n'oge ọrụ na ịmụ nwa.",
+            "content": "Ọnọdụ ịmụ nwa n'oge ọrụ nwere ike ịgụnye ọtụtụ nhọrọ. Nhọrọ dị iche iche dị maka ịmụ nwa, gụnyere ịhọrọ ọgwụ na ịmụta akụkụ. Hydrotherapy, ma ọ bụ ọnọdụ n'ime mmiri, nwere ike inyere gị aka. Nhọrọ ịmụ nwa na-ezube na-enweghị atụ, dị ka epidurals ma ọ bụ ọnya. Nhọrọ ndị ọzọ gụnyere ọgwụ na nitrous oxide. Ọ dị mkpa ịkwado na ọnọdụ gị ma rụọ ọrụ gị nke ọma."
           },
           {
             "id": 8,
-            "title": "Ebe Nke Otu-na-aku",
-            "topic_img": "https://img.freepik.com/free-photo/midsection-pregnant-woman-having-regular-checkup-with-doctor_23-2148379332.jpg",
-            "description": "Ọhụrụ ezi na nche nke ụbọchi.",
-            "content": "Ezigbo ebe na-eme ego na-ama ezigbo mma, na njikwa njikwa, na-ahụ ya n'ịnwe akụkụ mma n'ịhụnanya. A nwere ike iji na-ahụ ya n'ihu na na-abụ ya n'obodo mba. Ebe onwe gị na-eme ego na-eme mma. Nnabata na nne mmụ nwere njiko na-enye na iji ngwa ngwa kwụọ, na ịkanka iji kpepụ ngwa ngwa. A nwere njiko ike na-ahụ ya n'ọrụ na ọrụ ọzọ. Ikwadọ na iwe ego mmiri ka ọmụ gbara gị na-ama."
+            "title": "Ọnọdụ Ịmụ Nwa",
+            "topic_img": "https://th.bing.com/th/id/R.339cc52b5ae7e6f624c873a8377cd1c7?rik=tuArRE7DcegXpA&pid=ImgRaw&r=0",
+            "description": "Ọnọdụ atọ nke nwere ike inyere gị aka na ịmụ nwa.",
+            "content": "Ọnọdụ ịmụ nwa nwere ike inyere gị aka na ịmụ nwa. Nhọrọ nke ọma, dịka ịkwado ọnọdụ ma ọ bụ iji stool, nwere ike ịnyere gị aka. Nhọrọ a nwere ike ịbụ iji mụta ịdị mma ma ọ bụ ọnọdụ ahụike. Nhọrọ ịmụ nwa dị na ụdị gị, na-arụ ọrụ n'okwu ịmụ nwa."
           },
           {
             "id": 9,
-            "title": "Nsọ na-akwụghị na njide na ịkọ",
-            "topic_img": "https://img.freepik.com/free-photo/mother-baby-playing-bed_1157-19360.jpg",
-            "description": "N'enye onwe gị na ọmụ gị nyea ọnụ na ụgbọala.",
-            "content": "Nsọ na-akwụghị na njide na ịkọ dị na-ahụ n'ụbọchi na-ama na-ama. Ọmụ na-akwụghị na njide na ike nwere njiko njiko. Ị bụkwa n'ahụ ya n'ihu n'akụkụ. Ọnụ gị dị mma n'imepe gị na ndụ na-eme ego na ọrụ."
-          },
-          {
-            "id": 10,
-            "title": "Cesarean Section",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-showing-ultrasound-scan-doctor_23-2148888593.jpg",
-            "description": "N'imepe mba na onye ga-ahụ maka ịgbasa mmiri.",
-            "content": "Cesarean Section (C-section) bụ ịgbasa nnukwu nke na-eme ego nwere ọkwa n'akụkụ onye nwere ego n'akụkụ n'agbanyeghị nke mba na onye nwere ego. Ọrụ iji jikọrọ nnukwu nke na-eme ego ego na ịkpe na mba n'akụkụ n'akụkụ. Ọrụ nke na-eme ego ego dị n'akụkụ na ịkpe na ọrụ na ọrụ ọzọ na-akpọla ike nnukwu nke na-eme ego ego nwere ọkwa na-akụkụ. N'imepe mba, ọzọ n'imepe ego na-ekwe na iji na-ekwe na iji na-ekwe na iji ihe ọ bụla na-ahụ ya n'ihu."
+            "title": "Nhọpụta Oge Dị Ọsọ",
+            "topic_img": "https://img.freepik.com/free-photo/single-mom-lying-couch-with-her-baby-son-covid19-lockdown_53876-98116.jpg?t=st=1718449084~exp=1718452684~hmac=49455bd2f0d9a38965de62ee155e504b1c8b99a1ceeabc57d44a8f66afc822d5&w=826",
+            "description": "Nhọpụta oge dịka ịmụ nwa na-achọ mma.",
+            "content": "Nhọpụta oge dị mkpa n'ọgwụgwụ ịmụ nwa. N'oge a, enwere ọtụtụ usoro a na-eme, na mpaghara na-enyeghị gị nsogbu na mmetụta uche. Ọ bụ ụdị nhọpụta, gụnyere nyocha zuru ezu na ọgwụgwọ. Ị kwesịrị ịnwe na-ahụ na ị na-ahụta ngwaahịa. Nhọpụta na nyocha dị mma ga-enyere gị ịga nke ọma."
           }
         ]
       }
     },
     {
       "id": 3,
-      "title": "Mgbe Ọsọ",
+      "title": "Mgbe Ịmụ Nwa Gachara",
       "topic_img": "https://img.freepik.com/free-photo/portrait-mother-with-newborn-baby_23-2151055102.jpg?t=st=1716893264~exp=1716896864~hmac=032ebce4a7d2f0706ab78031a75764e0b6eecca2cd4b5e4e041b9cb5fbe3b947&w=740",
-      "description": "Mgbe ọsọ na-agba ọnụ na-adịrị na nkịtị na-enwe nwa.",
+      "description": "Oge mgbe ị mụsịrị nwa na imezi ndụ n'ụlọ na nwa ọhụrụ.",
       "content": {
-        "intro": "Ọsọ mgbe ahụ, na-agba ọnụ, na-akpọkọta na-enye aka na ezigbo ụgwọ na nwa gị.",
+        "intro": "Oge mgbe ị mụsịrị nwa, nke a makwaara dị ka oge postpartum, bụ oge dị mkpa mgbe ị gachara n’ọnọdụ ime na ị nwalebeghị nwa ọhụrụ gị.",
         "details": [
-          "N'afọ ma o wụrụ na agha ọnụ, ebe a na-akpagbu ọnụ na-enwe nwa gị, n'ihi ụlọ ahụ na-acha mmadụ gị na ụbụrụ ọnụ.",
-          "Nri ọnụ na-egwuregwu gị, na-ekwụghịa mmadụ gị site na azụ, na nwunye anya na ọdịdị ọnụ. Ndu, ụrọ, na ụtọgharịa nwere ịkwụsị na-eme n'ọnụ ahụ.",
-          "Mmadụ na-ahụ mmasị, dị ka mma nwa ma ọ bụ na-enweghi mmebi ịzụrụ mmebi. Ọ bụrụ na ọ bụrụ mmebi mmadụ gị na-enweghị mmebi na ifụọmụ n'ime nwa gị. Ị bụghị dịka enyemaka na ọrịa ụlọ na agbalị mgbawa maka mmebi anya ma ọ bụ sị na-emebi nwa ma ọ bụ sore nwa.",
-          "Ihe eji ọsọ nwere nwere ịzụka bụ ijebe nwa, njikwa mkpụrụokwu, na ahụ maka nri. Ọ dịghị ike ịwe jikwaa na mmadụ ma ọ bụ sore nwa.",
-          "Nkwụrụ nwa na-egbu obi bụ nnabata izu, na-ekwu okwu ma ha ị bụ nye aka ha.",
-          "Izu nwere nwere ịzụka nwere nwere ike ime ike nwa. Ọ nwere nkwụrụ nwa na-egwuregwu gị, nnabata na ọnụ na nkwụrụ izu. Kedu ihe gị jiri na ị mere na-emekwa gị nwekwara. Ị nwere nkwụrụ nwa na-ekwu na-agbanyeghị obi na-akụkọla nwere ike na ibudata.",
-          "Mgbanwe ọtụtụ bụ onye ịgba n'ọrụ na-eme n'obi. N'ahụ maka ike, na ngwaara bath, ma ọ bụ gbanweghị ngwaara. Ọ nwere ike ịbụrụ ọrụ na ndị mmadụ ma ọ bụ ndị ọzọ."
+          "Izuzu isii nke mbụ mgbe ị mụsịrị nwa bụ oge a na-akpọ postpartum. Ọ bụ oge dị mkpa maka ịlọgacha ahụ ma gbasaa mmekọrịta gị na nwa.",
+          "Ịlọgacha ahụ na-agụnye isi anya n’ihe mgbu ma ọ bụ nkwarụ, ijikwa ọbara ọgbụgba, na ọgụsi ndị ọ bụla dị mkpa. Mmetụta ahụike, ọ drinkingụ mmanya, na iri nri ziri ezi dị mkpa n'oge a.",
+          "Mgbanwe uche bụ ihe a na-ahụkarị, ebe ọtụtụ ndị nne ọhụrụ na-enwe mmetụta 'baby blues' n'ihi mgbanwe homonu. Ọ dị mkpa inwe nkwado ma nwee mkparịta ụka n'etiti gị na di gị na ndị ezinụlọ. Ọ bụrụ na ọ dị ka mmetụta adịghị mma ma ọ bụ enweghị isi, enwe ike ịchọ nkwado n'aka ndị ọkachamara.",
+          "Ịkụ nwa anụcha bụ ezigbo ọrụ mana ọ nwere ike ịbụ ihe ịma aka. Chọọ ndụmọdụ n'aka ndị na-ahụ maka ịkụ nwa na ndị na-ahụ maka ahụike iji hụ na ị na-ebi ndụ ọma ma jikwaa nsogbu dị ka nsogbu latching ma ọ bụ akpụkpọ ụra mgbu.",
+          "Inye nwa ọhụrụ nlekọta nwere ka ị gụọ maka ịkụ nri, usoro ụra, na ịgbanwe diapers. Ọ dị mkpa ịmepụta ebe dị mma na dị jụụ maka nwa gị, nke gụnyere usoro ụra dị mma na ije ozi n’oge mgbe ọ bụla n’aka dọkịta.",
+          "Nlekọta onwe gị dị mkpa n’oge postpartum. Were oge maka onwe gị, ọbụna n’ụzọ dị iche iche, nwere ike inwe mmetụta dị ịrịba ama na ahụike gị. Ejighị uche gị ka ịkpọ arịrị ụkwụ ma ọ bụ oge ezumike na ụmụnne na ndị enyi gị nyere aka.",
+          "Ịdịgide na usoro nwere ike inyere aka na ịhazi ọrụ nlekọta nwa ọhụrụ. Ọ bụ ezie na ịdị mma bụ ihe dị mkpa, ịnwe usoro pụrụ iche maka nri, ụra, na ọrụ ụlọ nwere ike ịnye nchebe na ọchịchọ."
         ],
         "subtopics": [
           {
             "id": 11,
-            "title": "Nri Ọkachamara",
+            "title": "Ịlọgacha Ahụ",
             "topic_img": "https://img.freepik.com/free-photo/newborn-baby-sleeping-basket_1157-18750.jpg",
-            "description": "Nri na-akpọkọta na-acha n'ime nwa.",
-            "content": "Nri ọkachamara ụzọ n'anya ndị ọzọ, dịka ego ọnụ na ọzọ ahụ dị egwu mmanụ. Nri enye aka n'akụkụ mmanụ ma na ọnụ n'ụzọ na ahụ na-edebanye ma na ndị na-enweghị eziokwu. Nri, na-emere ịkwụsị na ọdịdị ọnụ, na-ahụrụ nri nwere ike ịga-arị ndụ. Ijebe na-ekwu nwoke na ibido ndụ ike na ma ọ bụ kụrụ nwa na-eme n'ụzọ."
+            "description": "Ịlọgacha na imezi ahụ mgbe ị mụsịrị nwa.",
+            "content": "Ịlọgacha ahụ mgbe ị mụsịrị nwa dị iche iche maka nwanyị ọ bụla, dabere na ọtụtụ ihe dịka ụdị mụrụ nwa na nsogbu ọ bụla mere. Ịmụ nwa n'ụzọ nkịtị nwere ike ịgụnye mgbake site na mgbu na episiotomies, ebe mụrụ nwa n'ụzọ cesarean na-achọ ka elee anya na ebe mgbaji ahụ. Ọbara ọgbụgba, ma ọ bụ lochia, nwere ike ịgaa ogologo izu ole na ole na-eme ka ahụ laghachi nke nta. Ịgwọ mgbu, dị ka mgbu n'ákwá ákwá ma ọ bụ mgbu site na mgbanwe isi ụra, nwere ike ịrụ ọrụ site na ọgwụ mgbu dị ka ụlọ ahịa na ọgwụ ndị a ga-eme n'ụlọ dị ka sitz baths. Ọ dị mkpa iji zuru ike, hụ n'ụdị nri na-ehi ụra nke ọma iji kwado mgbake. Mmetụta nke na-adọrọ adọrọ, dịka ịga ije ma ọ bụ ụmụazụ ụlọ pelvic, nwere ike inyere aka ịkwụsị ike na agbanye. Nụ ogologo ndụ ndụ maka ndị ọkachamara na-adụ gị ọdụ ma na-eme nyocha ndị postpartum iji nyochaa ịlọgacha ahụ gị."
           },
           {
             "id": 12,
-            "title": "Mmadụ ijebe",
+            "title": "Ahụike Uche",
             "topic_img": "https://img.freepik.com/free-photo/happy-mother-baby-son-playing-bed_1157-18672.jpg",
-            "description": "Na-akpọkọta ọnụ nri na ndị na-ewele ma na ijebe.",
-            "content": "Ọsọ mgbe ahụ na-akpọkọta ọnụ ọzọ dị ka ego ọnụ na ọzọ, ahụ nwere ike ikwusị, na ndị gbara dị n'okpuru na nkwurunyere n'ụzọ. Ahụ jide gụnyere maka mmebi anya ma ọ bụ sore nwa. Mmadụ na-egwu nwa, jide aka na-mmekọrịta nwa na ihe gbasara ya. Nwere ike ịwe jikwaa na-emekwa gị nwekwara. Ma ọ bụ nwoke ike na-emekwa nkwụrụ nwa."
+            "description": "Ịkụziri mgbanwe uche na ahụike uche mgbe ị mụsịrị nwa.",
+            "content": "Oge postpartum nwere ike ibute ọtụtụ mgbanwe uche n'ihi mgbanwe homonu, ịnweghị ụra zuru oke, na ọrụ ndị ọhụrụ ị na-eme dị ka nne. Ọ bụ ihe a na-ahụkarị ịchọpụta 'baby blues', nke nwere mgbanwe ọgụgụ isi, enweghị obi ụtọ, na mmetụta nke enweghị mmụọ. Nke a na-adịkarị mma n'ime izu ole na ole. N'agbanyeghị nke ahụ, ọ bụrụ na mmetụta adịghị mma ma ọ bụ obi nwụrụ anwụ, nke a nwere ike ịbụ ihe ịrịba ama nke nsogbu uche postpartum, nke chọrọ nkwado n'aka ndị ọkachamara. Inweta nkwado site na di gị, ezinụlọ, na ndị enyi dị mkpa. Ịbanye n’òtù nne ọhụrụ ma ọ bụ ị na-ahụ akwụkwọ ndụmọdụ nwere ike inye nkwado uche. Ịrụ ọrụ na-edozi ahụ, dị ka iwepụta oge ezumike, ịrụ ọrụ ọ hụrụ n'anya, na-elezi anya na ị nụrụ nrọ nke ọma, nwere ike inye aka ijikwa ahụike uche."
           },
           {
             "id": 13,
-            "title": "Ijebe",
+            "title": "Ịkụ nwa anụcha",
             "topic_img": "https://img.freepik.com/free-photo/mother-breastfeeding-her-baby_1157-20452.jpg",
-            "description": "Nri n'akwụkwọ na onye enweghị ọrụ ma nwa.",
-            "content": "Nri enyere aka n'akụkụ nri na nwa, jide gụnyere maka mmebi anya ma ọ bụ sore nwa. Nri na-ekwu mmebi ọrụ nri na ndị mmadụ gị n'ọnụ ụzọ. Ijebe n'akụkụ nri ma ọ bụ na-enweghị ike ma na ọnụ n'ụzọ dị, na-emekwa nwa nwere ike ike ma nke ọ bụla. Nwere ike ịbụrụ ọrụ na ndị mmadụ ma ọ bụ ndị ọzọ."
+            "description": "Ndụmọdụ na nkwado maka ịkụ nwa anụcha n'ụzọ dị mma.",
+            "content": "Ịkụ nwa anụcha na-enye ọtụtụ uru maka nne na nwa, gụnyere ịnye nri dị mkpa na nkwado obi. Agbanyeghị, ọ nwere ike ịdị arọ, karịsịa maka ndị nne ọhụrụ. Ịlụtacha nwa na-amaghị ama dị mkpa iji zere nsogbu dịka ntụkwasị obi na ihe mgbu, na-ahụ na ahụ mmadụ na-aba na mmiri. Ndị na-ahụ maka ịkụ nwa anụcha nwere ike inye ndụmọdụ na nkwado dị mkpa. Ịmepụta usoro ịkụ nwa na-arụ ọrụ maka gị na nwa gị dị mkpa. Ọ dịkwa mkpa ịmụ maka ọnọdụ dị iche iche ịkụ nwa anụcha ma chọta ihe kacha adabara gị. Ị drinkingụ nri, iri nri bara uru, na ijide n'aka na ị nụrụ nrọ nke ọma nwere ike ịkwado mmepụta mmiri ara ehi. Ọ bụrụ na ịchọta nsogbu, ejighị n'aka ịchọ ndụmọdụ n'aka ndị na-ahụ maka ahụike ma ọ bụ òtù nkwado ịkụ nwa anụcha."
           },
           {
             "id": 14,
-            "title": "Ịsị anyị nwa",
+            "title": "Nlekọta Nwa Ọhụrụ",
             "topic_img": "https://img.freepik.com/free-photo/newborn-baby-sleeping_1157-18777.jpg",
-            "description": "Ijebe ike n'anyị nwa.",
-            "content": "Nri na-enwe ike meka nri nwa gị, jide gụnyere maka ọnụ, nwunye na ndị gbara. Nri nwere ike ikwusị ihe ị ga-akwụru gị nwere ike. Ọ bụghị ike na-echebe nri na mgbakwunye n'otu site n'okpuru na mmalite ahụ, bụ n'otu site n'otu, na-ahụrụ nri nwere ike ike ma ọ bụ sore nwa. Nri nwere ike ịwe jikwaa na nwa. Nri na-enwe ike, nwere ike ịbụrụ ọrụ na ndị mmadụ ma ọ bụ ndị ọzọ."
+            "description": "Nlekọta ahụike na ihe ndi ozo maka nwa ohuru gi.",
+            "content": "Nlekọta nwa ọhụrụ gụnyere ijikọ mkpa nke nwa, gụnyere nri, ụra, na ịgbanwe diapers. Ịmụta banyere njirimara nri nwa gị na ịrụ usoro nri dị mkpa. Ọtụtụ ndị na-atụghị anya na nwa ọhụrụ na-ebi nrọ n’oge ụfọdụ ma na-agagharị mgbe niile maka iri nri. Gbaa mbọ hụ na usoro ụra dị mma, dịka itinye nwa gị na mgbada n’elu ebe dị ala ma ọ bụ banye ya na akwa na-enweghị ihe ọ bụla gbara ya gburugburu, dị mkpa. Ịgbanwe diapers na iji ụlọ na-ejikarị eme ihe dị ọcha nwere ike ịkwado nlekọta ndi isi. Ndị na-atụghị anya na nwa ọhụrụ na-achọ nlekọta na-ekwenye na-akwado isi na ụkwụ ha. Nyocha oge n'oge ọ bụla na dọkịta nwa dị mkpa iji nyochaa mmụba na mmepe, na ọgwụ mgbochi ọrịa na-enyere aka ichebe nwa gị pụọ na ọrịa. Ịmepụta ebe dị jụụ na nlekọta nwere ike inye nwa gị obi ụtọ ma kwado ọnọdụ ahụike ọma."
           },
           {
             "id": 15,
-            "title": "Ndu Gị",
+            "title": "Nlekọta Onwe Gị",
             "topic_img": "https://img.freepik.com/free-photo/mother-baby-bed_1157-19430.jpg",
-            "description": "Jikwara ndu gị na ọsọ mgbe ahụ.",
-            "content": "Ndu gị bụ onye na-egbu obi n'ibi n'ahụ. N'ahụ maka ike, ma ọ bụ mgbanwe ọrụ, na-akụrụ nwoke ma ọ bụ mmadụ na ahụ. Jikwara ike na ọkụ, ka ọ bụrụ gị, nwere ike ịwe jikwaa na ị nyeaka ma nwoke na-ewele. Ma ọ bụ kụrụ nwa na mmadụ na-akpọkọta na-egwuregwu gị."
+            "description": "Ịrụ ọrụ na nlekọta onwe gị n'oge postpartum.",
+            "content": "Nlekọta onwe gị dị mkpa mgbe mmadụ amụchara nwa. Were oge maka onwe gị, ọbụna n'ọnọdụ dị mfe, nwere ike inye aka na ahụike gị. N'iji nkwado site na ezinụlọ na ndị enyi nwere ike inye aka na-enye ezumike ma nọdụ ala. Ịrụ ọrụ ọ hụrụ n'anya, dị ka ịgụ akwụkwọ, ịga ije, ma ọ bụ n'ịzụ ihe egwuregwu, nwere ike inye ohere dị mma. Ị drinkingụ nri, mmiri, na ị nụrụ nrọ nke ọma na-akwado nlọghachi ahụ. Ịkparịta ụka na di gị gbasara mkpa na mmetụta gị dị mkpa ma chọkwuru nkwado ma ọ bụrụ na ị na-enwe mgbagwoju anya. Rịba ama na nlekọta onwe gị abụghị naanị na ọ na-emetụta gị nke ọma, kama ọ na-enyere gị aka ijide nwa gị."
           }
         ]
       }
     },
+
     {
       "id": 4,
-      "title": "Ọrụ ọmụmụ",
+      "title": "Ịmụ nwa",
       "topic_img": "https://img.freepik.com/free-photo/black-pregnant-women-posing_23-2151446148.jpg?t=st=1716894103~exp=1716897703~hmac=8e7ee396bb40d9e89d0f0523e4eb3d4933eb4b552f0bfc1ce9ca8bee6cbe2c98&w=996",
-      "description": "Ịghọta usoro ọmụmụ na ịkwadebe maka ịmụ nwa.",
+      "description": "Ịghọta usoro ịmụ nwa na ịkwadebe maka oge ọmụmụ.",
       "content": {
-        "intro": "Ọrụ ọmụmụ bụ usoro ịmụ nwa, nke na-agụnye mmalite nke mkpesa, mbelata nke akpanwa, na ịmụ nwa. Ịmara na ịkwadebe nwere ike inyere aka ijikwa ahụmahụ siri ike ma na-atọ ụtọ.",
+        "intro": "Ịmụ nwa bụ usoro ọmụmụ, nke na-agụnye mmalite nke mgbakwasị ahụ, mgbasa nke ọnụ nkebi, na mụ nwa. Inwe ọmarịcha nghọta na ịkwadebe onwe gị nwere ike inye aka n'ime ahụmahụ a na-enwe nsogbu ma na-enwe ọṅụ.",
         "details": [
-          "Ọrụ ọmụmụ na-ekewa akụkụ atọ: mmalite ọrụ, ọrụ siri ike, na mwepụ nke placenta. Ọ bụla n'ime ha nwere ihe dị iche iche na-achọ usoro nchịkwa dị iche.",
-          "Mmalite ọrụ gụnyere mmalite nke mkpesa, nke na-abawanye n'ike na ugboro ugboro. Nke a nwere ike were ọtụtụ awa ma ọ bụ ọbụna ụbọchị. Ọ dị mkpa ịnọ jụụ, zuru ike, ma na-aṅụ mmiri. Ọrụ ọkụ dịka ije nwere ike inyere aka imeziwanye ọrụ.",
-          "Ọrụ siri ike bụ nke mkpesa siri ike na-abawanye ugboro ugboro, na cervix na-agbanwe ngwa ngwa. Nhọrọ nchịkwa mgbu, dị ka epidurals ma ọ bụ usoro iku ume, nwere ike iji n'oge a. Ọ dị mkpa iso nduzi nke onye na-ahụ maka ahụike gị.",
-          "Usoro nke abụọ nke ọmụmụ bụ ọnọdụ ịtụgharị, ebe nwa na-aga site n'okporo ụzọ amụ na amụrụ. Oke na-ekesa dị iche iche nwere ike inyere aka n'ịzụlite usoro a. Iso nduzi nke onye na-ahụ maka ahụike gị n'oge a dị ezigbo mkpa.",
-          "Akụkụ nke atọ gụnyere mwepụ placenta, nke na-ewerekarị ọnọdụ n'ime nkeji iri atọ ka a mụrụ nwa. Ịkwanye dị nro nwere ike ịdị mkpa, onye na-ahụ maka ahụike ga-ahụ na placenta niile ga-apụta ka ọ gbochie nsogbu.",
-          "Nlekọta postpartum ozugbo gụnyere ịlele nne maka ihe ọ bụla nke nsogbu, dị ka ọbara mgbụgba ma ọ bụ nje. A ga-enyocha nwa ọhụrụ iji hụ na ọ dị mma. Ọkpọkọ anụ na ịmalite ị feedingụ nwa ara ozugbo enwere ike na-atụ aro iji kwalite njikọ na mkpali mmepụta mmiri ara.",
-          "Ọ dị mkpa inwe atụmatụ ọmụmụ, ma nwee obi iru ala dị ka ọnọdụ na-atụghị anya ya nwere ike ibili. Kwurịta mmasị gị na onye na-ahụ maka ahụike gị ma bụrụ onye megidere ntụziaka ha dabere na ọnọdụ ahụ."
+          "Ịmụ nwa na-agakarị na nzọụkwụ atọ: mmalite ịmụ nwa, ọrụ ịmụ nwa, na nnyefe placenta. Ọ bụla n'ime nzọụkwụ ndị a nwere ihe pụrụ iche ma chọọ atụmatụ njikwa dị iche iche.",
+          "Mmalite ịmụ nwa na-agụnye mmalite mgbakwasị ahụ, nke na-abawanye na ike na ugboro. Ọnọdụ a nwere ike ịdịru ọtụtụ awa ma ọ bụ ọbụna ụbọchị. Ọ dị mkpa idobe udo, zuru ike, na idobe mmiri n'ahụ. Atụmatụ ọkụ dị ka ịga ije nwere ike inye aka na ọganihu ịmụ nwa.",
+          "Ọrụ ịmụ nwa na-akọwara site na mgbakwasị ahụ siri ike na ugboro ugboro, na ọnụ nkebi na-agbasa ngwa ngwa. Nhọrọ njikwa mgbu, dịka ịme mgbu ma ọ bụ ihe omume imi, nwere ike iji mee ihe n'oge a. Ọ dị mkpa ịgbaso ntuziaka nke onye na-elekọta ahụike gị.",
+          "Ntọala nke abụọ nke ọrụ ịmụ nwa bụ akụkụ ịpịkọta, ebe nwa na-agabiga site n'okporo ụzọ ọmụmụ ma mụọ. Okwesiri ime omume ọmụmụ na-adabara nke a. Ịgbaso ntuziaka nke onye na-elekọta ahụike gị n'oge a dị mkpa.",
+          "Ntọala nke atọ na-agụnye nnyefe placenta, nke na-abụkarị ihe na-eme n'ime nkeji 30 mgbe a mụrụ nwa. Enwere ike ịchọrọ obere ịpị mkpumkpu, na onye na-elekọta ahụike ga-elekọta na e nyere full placenta dị mma iji gbochie nsogbu.",
+          "Nlekọta mgbe ọmụmụ na-agụnye ịgba anya na nne maka ihe ọ bụla na-egosi nsogbu, dị ka ọbara ndị kachasị arụ ọrụ ma ọ bụ ọrịa. A ga-enyocha nwa ọhụrụ ka emechaa iji hụ na ha dị mma. Ịnye ahụ n'ahụ na n'ịmepụta n'ụlọ ọmụmụ dị ka o kwere mee na-akwalite ịmụta na ịdị njikọ aka.",
+          "Ọ dị mkpa inwe atụmatụ ọmụmụ, ma nwekwanụ ụzọ ọzọ dị na ọnọdụ ahụ n'ihi na ọ bụla ihe ga-eme. Kwekọrịta na ndị na-elekọta ahụike gị na mepụta atụmatụ nke ha na-enweghị nsogbu na-adabere na ọnọdụ ahụ."
         ],
         "subtopics": [
           {
             "id": 16,
-            "title": "Ihe ịrịba ama nke ọmụmụ",
+            "title": "Akụkọ Mmalite Ọmụmụ Nwa",
             "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-having-contractions_1157-19953.jpg",
-            "description": "Ịmata ihe ịrịba ama na ọrụ ọmụmụ na-amalite.",
-            "content": "Ịmata ihe ịrịba ama nke ọmụmụ nwere ike inyere gị aka ịmata mgbe ị ga-akpọtụrụ onye na-ahụ maka ahụike gị na ịkwadebe maka ịmụ nwa. Ihe ịrịba ama ndị a ma ama gụnyere mkpesa na-abawanye n'ike na ugboro ugboro, mgbu azụ ala, na ngosipụta ọbara (ọbara na-acha uhie uhie). Mwepu nke membranes, ma ọ bụ mmiri agbajiri agbaji, bụ ihe doro anya na ọrụ ọmụmụ na-abịa. Ọ dị mkpa ịchọpụta mkpesa iji chọpụta ugboro na ogologo ha. Ọ bụrụ na ị hụ ihe ịrịba ama ndị a, kpọtụrụ onye na-ahụ maka ahụike gị maka ntụziaka banyere mgbe ị ga-aga ụlọ ọgwụ ma ọ bụ ebe ọmụmụ."
+            "description": "Ịmata ihe ndị na-akọwa na ọmụmụ nwa na-amalite.",
+            "content": "Ịmata ihe ndị na-egosi na ọmụmụ nwa na-amalite nwere ike inye gị aka ịma mgbe ị ga-akpọtụrụ onye na-elekọta ahụike gị ma kwadebe maka ọmụmụ nwa. Ihe ndị a na-ahụkarị bụ mgbakwasị ahụ mgbe niile nke na-abawanye na ike na ugboro, mgbu azụ, na ọbara ịkpụ (ọbara na-agbasa). Ọnọdụ mkpokọta mmiri ma ọ bụ mmiri na-agbasa bụkwa ihe akara doro anya na ịmụ nwa na-abịa nso. Ọ dị mkpa ịkọwapụta mgbakwasị ahụ iji chọpụta ugboro na ogologo oge ha. Ọ bụrụ na ị na-enweta ihe ndị a na-akọwara, kpọtụrụ onye na-elekọta ahụike gị maka ntụziaka mgbe ị ga-aga ụlọ ọgwụ ma ọ bụ ụlọ ọmụmụ."
           },
           {
             "id": 17,
-            "title": "Nchịkwa mgbu",
+            "title": "Nhọrọ Njikwa Mgbu",
             "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-with-contractions_1157-19952.jpg",
-            "description": "Nhọrọ maka nchịkwa mgbu n'oge ọmụmụ na ịmụ nwa.",
-            "content": "Ịchịkwa mgbu n'oge ọmụmụ nwere ike ịpụta n'ụzọ dị iche iche. Usoro eke gụnyere mmega iku ume, ịhụ anya, na nsusu anya, nke nwere ike inyere aka ịchịkwa mgbu na-enweghị ọgwụ. Hydrotherapy, ma ọ bụ ịrụ ọrụ n'ime mmiri, nwekwara ike inye nkwụsị. Nhọrọ ọgwụ gụnyere epidurals, nke na-enye mgbu mgbu nke ukwuu ka nne nọ na-eche na ọ na-eche. Nhọrọ ndị ọzọ gụnyere ọgwụ mgbu na-abanye na akwara na nitrous oxide. Ọ dị mkpa ikwurịta mmasị nchịkwa mgbu na onye na-ahụ maka ahụike gị tupu oge eruo ma nwee nkwekọrịta dị ka ọrụ na-aga n'ihu."
+            "description": "Nhọrọ maka ịchịkwa mgbu n'oge ọmụmụ nwa na nnyefe.",
+            "content": "Enwere ọtụtụ ụzọ ị ga-esi mee njikwa mgbu n'oge ọmụmụ nwa. Usoro ndị nkịtị na-agụnye omume imi, ịme anwansi, na ịrụ ọrụ ahụ, nke nwere ike ịchịkwa mgbu na-enweghị ọgwụ. Ime mgbochi, ma ọ bụ ịbụ na mmiri n'oge ọmụmụ, nwekwara ike inye ntọala. Nhọrọ ọgwụ dị ka ịme ọgwụ mgbu, nke na-enye mgbu dị ukwuu na njikwa ọ dị ugbu a ka nne nọ na ala. Nhọrọ ndị ọzọ gụnyere ọgwụ mgbu na-abata na mmiri na nitrogen oxide. Ọ dị mkpa ịkọwapụta atụmanya njikwa mgbu gị na onye na-elekọta ahụike gị tupu oge a na ka anya dị na ọnọdụ ahụ."
           },
           {
             "id": 18,
-            "title": "Ọnọdụ ọmụmụ",
+            "title": "Okwesiri Ọmụmụ Nwa",
             "topic_img": "https://img.freepik.com/free-photo/mother-baby-bed_1157-19429.jpg",
-            "description": "Ọnọdụ dị iche iche nke nwere ike inyere aka n'ịzụlite ọmụmụ.",
-            "content": "Ọnọdụ ọmụmụ dị iche iche nwere ike inyere aka n'ịzụlite ọrụ na ọmụmụ, ọ dịkwa mkpa ịchọta ihe na-arụ ọrụ kacha mma maka gị. Ọnọdụ dị elu, dị ka ịkụ aka, ịnọdụ ala, ma ọ bụ iji ihe a na-amụ nwa, nwere ike iji ọdịda iji nyere nwa aka ịda. Ọnọdụ aka na-aka nwere ike belata mgbu azụ na ịkwado nwa ịkwaga ọnọdụ kachasị mma. Ọnọdụ n'akụkụ nwere ike inye izu ike ebe ọ ka na-ekwe ka ịkwanye nke ọma. Iji bọọlụ ọmụmụ nwekwara ike kwalite mmegharị na nkasi obi. Ịnwale ọnọdụ dị iche iche n'oge ọrụ nwere ike inyere gị aka ịchọta ụzọ kachasị mma na nke dị irè maka ịmụ nwa."
+            "description": "Ụzọ dị iche iche nke nwere ike inye aka n'ọrụ ọmụmụ.",
+            "content": "Enwere ọtụtụ ọnọdụ ọmụmụ dị iche iche nke nwere ike inye aka n'ime ịmụ nwa na nnyefe, ọ dịkwa mkpa ịchọta ihe na-arụ ọrụ nke ọma maka gị. Ọnọdụ zụrụ, dị ka ịdị n'ọdụ, ịdị n'ala, ma ọ bụ iji stool ọmụmụ, nwere ike iji ike ndokwa iji nyere nwa aka idaho. Ọnọdụ aka na ikpere nwere ike belata mgbu azụ ma kpalite nwa inwe ọnọdụ nke ọma. Ọnọdụ obi abụọ nwere ike inye ezumike mgbe ọ na-enye ike ntụziaka kwesịrị. Iji stool ọmụmụ nwekwara ike ịkwalite mmegharị na nkasi obi. Ịme usoro dị iche iche n'oge ọmụmụ nwere ike inye gị aka ịchọta ụzọ kachasị mma na ezi uche nke ịmụ nwa."
           },
           {
             "id": 19,
-            "title": "Atụmatụ ọmụmụ",
+            "title": "Atụmatụ Omụmụ Nwa",
             "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-smiling-holding-her-belly_1157-18396.jpg",
-            "description": "Ịmepụta na ikwurịta atụmatụ ọmụmụ gị.",
-            "content": "Atụmatụ ọmụmụ bụ akwụkwọ na-egosi mmasị gị maka ọrụ na ọmụmụ. Ọ na-agụnye nhọrọ banyere nchịkwa mgbu, ọnọdụ ọmụmụ, na ndị ga-adị na ọmụmụ. Ọ bụ ezie na ịmepụta atụmatụ ọmụmụ dị mkpa, ọ dịkwa mkpa ịnọkwu emesapụ aka, dị ka ọnọdụ na-atụghị anya ya nwere ike ịpụta. Kwurịta atụmatụ ọmụmụ gị na onye na-ahụ maka ahụike gị ma hụ na mmasị gị gbasara ndị ọrụ ọmụmụ. Atụmatụ ọmụmụ nke ọma nwere ike inye gị mmetụta nke ịchịkwa ma hụ na mkpa na ọchịchọ gị a na-asọpụrụ n'oge ọrụ na ọmụmụ."
+            "description": "Ime atụmatụ na ime ka atụmatụ ọmụmụ gị mara ndị ọzọ.",
+            "content": "Atụmatụ ọmụmụ bụ akwụkwọ nke na-egosi atụmatụ gị maka ọmụmụ nwa na nnyefe. Ọ na-agụnye nhọrọ banyere njikwa mgbu, ọnọdụ ọmụmụ, na onye ga-adị na ọmụmụ nwa. Ọ bụ ezie na inwe atụmatụ ọmụmụ dị mkpa, ọ dịkwa mkpa iji dị njikere maka ọnọdụ ahụ n'ihi na ọ bụla ihe pụrụ ime. Kwekọrịta atụmatụ ọmụmụ gị na onye na-elekọta ahụike gị ma hụ na atụmatụ gị ka emechara ndị na-elekọta ọmụmụ. Atụmatụ nke ọma nke a kwadebere maka ọmụmụ nwa nwere ike inye gị aka na idobe nlekọta na ijide n'ọnọdụ na mkpa gị na ntị n'oge ọmụmụ na nnyefe."
           },
           {
             "id": 20,
-            "title": "Nkwado sistemụ",
+            "title": "Sistemụ Nkwado",
             "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-smiling-holding-her-belly_1157-18395.jpg",
-            "description": "Ọrụ nkwado sistemụ n'oge ọrụ na ọmụmụ.",
-            "content": "Ịnweta nkwado siri ike n'oge ọrụ na ọmụmụ nwere ike inye nkwado uche na ahụ. Nke a nwere ike gụnye onye mmekọ gị, ndị ezinụlọ, ndị enyi, ma ọ bụ doula. Doulas bụ ndị ọkachamara n'ụzụ na-enye nkwado na-aga n'ihu n'oge ọrụ na ọmụmụ. Ha nwere ike inye nkasi obi, nyere aka na usoro nchịkwa mgbu, ma nye nkasi obi. Ịkwurịta na ndị otu nkwado gị banyere atụmatụ ọmụmụ na mmasị gị dị mkpa. Nsogbu ha nwere ike inye gị obi ike ma kwado gị, na-ebute ahụmahụ ọmụmụ dị mma."
+            "description": "Ọrụ sistemụ nkwado n'oge ọmụmụ na nnyefe.",
+            "content": "Inwe sistemụ nkwado siri ike n'oge ọmụmụ na nnyefe nwere ike inye nkwado nke uche na nke anụ ahụ. Nke a nwere ike ịgụnye onye òtù ọlụlụ gị, ndị ezinụlọ, ndị enyi, ma ọ bụ onye nkụzi. Ndị nkụzi bụ ndị ọkachamara na-amụmụ ihe nke na-enye nkwado na-adịghị agwụ agwụ n'oge ọmụmụ na nnyefe. Ha nwere ike inye nkasi obi, inye aka na omume njikwa mgbu, na-enye ntinye aka. Kwekọrịta na onye nkụzi gị banyere atụmatụ ọmụmụ gị na atụmanya gị dị mkpa. Ikwekọ na ndị ọzọ nwere ike inye gị aka ịnọkwu nchebe na nlekọta, na-enyekwa ntụkwasị obi na nkwado na-eme ka ahụmahụ ịmụ nwa dịkwu ụtọ."
           }
         ]
       }
     },
     {
       "id": 5,
-      "title": "Ọbara Na-esi Na Ụlọ Ọgwụ Mgbe Ọmụ",
+      "title": "Ịrụ Ọbara Mgbe Ncheta",
       "topic_img": "https://img.freepik.com/premium-photo/woman-is-shown-with-blood-dripping-her-hands-this-image-can-be-used-depict-crime-horror-mystery-scene-from-thriller_153912-226779.jpg?w=360",
-      "description": "Ighọta ọbara na-esi na Ụlọ Ọgwụ mgbe ọmụ na otu esi achịkwa ya.",
+      "description": "Ịghọta ịrụ ọbara mgbe ncheta na otu esi elekọta ya.",
       "content": {
-        "intro": "Ọbara na-esi na Ụlọ Ọgwụ mgbe ọmụ, nke a makwaara dịka lochia, bụ akụkụ nkịtị nke usoro mgbake mgbe ọmụ. Ọ na-agụnye ịkwụsị akwa afọ na ọ pụrụ ịgafe ọtụtụ izu.",
+        "intro": "Ịrụ ọbara mgbe ncheta, ma ọ bụ lochia, bụ akụkụ nkịtị nke usoro mgbake mgbe ọmụmụ. Ọ na-agụnye ịkwụsị linị nke afọ, ma ọ nwere ike ịnọgide na-adịru ọtụtụ izu.",
         "details": [
-          "Lochia na-amalitekarị dị ka ọbara ọkụ na-efe efe nke na-agbanwe agbanwe na agba gaa pink, aja aja, na n'ikpeazụ ọcha ma ọ bụ odo.",
-          "Ọ dị mkpa ilekọta ọbara a na agba ya iji hụ na ọ na-agbaso usoro nkịtị. Ọbara na-efe efe nke ukwuu ma ọ bụ ịpụ nnukwu akpụkpọ ahụ nwere ike igosi nsogbu na ị ga-agwa onye na-ahụ maka ahụike gị.",
-          "Izu ike na izere ihe ndị siri ike nwere ike ịzọpụta ọbara. Ọ dị mkpa ịhapụ ahụ gị oge iji gwọọ na izere ihe omume ndị nwere ike ịbawanye ọbara.",
-          "Ijiri mpempe akwụkwọ n'ahụ kama iji tampons bụ ihe a na-atụ aro iji belata ihe ize ndụ nke nje. Gbanwee mpempe akwụkwọ ndị ahụ mgbe nile iji debe ọcha.",
-          "Inye mmiri na nri kwesịrị ekwesị nwere ike ịkwado mgbake na inyere aka na njikwa ọbara. Iri nri ziri ezi nke jupụtara na ígwè nwere ike inyere aka ịkwado mfu ọbara.",
-          "Ọbara na-esi na Ụlọ Ọgwụ mgbe ọmụ nwere ike ịgafe ọtụtụ izu, na-ebelata n'ike site na izu isii. Ọ bụrụ na ọbara ahụ na-aga n'ihu mgbe nke a gasịrị ma ọ bụ na-adịwanye njọ, kpọtụrụ onye na-ahụ maka ahụike gị.",
-          "Ijegharị nleta mgbe ọmụ dị mkpa iji nyochaa mgbake na ịza ajụjụ ọ bụla gbasara ọbara na-esi na Ụlọ Ọgwụ mgbe ọmụ. Onye na-ahụ maka ahụike gị nwere ike inye nduzi na nkwado iji hụ na ị nwere mgbake ahụ ike."
+          "Lochia na-amalite mgbe ọbara na-adị oke, na agba uhie uhie nke na-amalite ịda na agba ma gbanwee n’acha pink, aja aja, ma na nke ikpeazụ na-acha ọcha ma ọ bụ odo.",
+          "Ọ dị mkpa ịgbaso ọdịiche na agba nke ọbara iji hụ na ọ na-agbaso usoro nkịtị. Ọbara na-apụta n'ike ma ọ bụ ịtụgharị nnukwu clots nwere ike igosi nsogbu ma kwesịrị ịkpọtụrụ onye na-ahụ maka ahụ ike gị.",
+          "Ịsinmi na ịzere ọrụ siri ike nwere ike inyere aka jikwaa ọbara. Ọ dị mkpa inye ahụ gị oge iji wụpụ ma zere ọrụ ndị nwere ike ịkụda ọbara.",
+          "Ịji pads sanitary kama tampons na-atụ aro iji belata ihe ize ndụ nke ọrịa. Gbanwee pads mgbe niile iji chekwaa ịcha.",
+          "Ịmị mkpụrụ na nri kwesịrị ekwesị nwere ike inye aka n’ịmụgharị na ịchịkwa ọbara. Ịri nri nwere ígwè nwere ike inye aka weghachite ihe mgbu ọbara.",
+          "Ịrụ ọbara mgbe ncheta nwere ike ịga n'ihu maka izu ụfọdụ, na-adịkarị nwayọọ site na izu nke isii. Ọ bụrụ na ọbara gara n'ihu ma ọ bụ bụrụkwa nnukwu ihe, kpọtụrụ onye na-ahụ maka ahụ ike gị.",
+          "Ịga n'ọchịchọ mgbe ọmụmụ bụ ihe dị mkpa iji nyochaa ịlaghachi azụ na idozi nsogbu ọ bụla gbasara mmiri ọbara mgbe ọmụmụ. Onye na-ahụ maka ahụ ike gị nwere ike inye nduzi na nkwado iji hụ na ịlaghachi azụ na-adị mma."
         ],
         "subtopics": [
           {
             "id": 21,
-            "title": "Ihe ị Ga-atụ Anya",
+            "title": "Ihe Ị Chere",
             "topic_img": "https://img.freepik.com/free-photo/newborn-baby-feet_1157-18555.jpg",
-            "description": "Usoro na ogologo oge ọbara na-esi na Ụlọ Ọgwụ mgbe ọmụ.",
-            "content": "Ọbara na-esi na Ụlọ Ọgwụ mgbe ọmụ, nke a makwaara dịka lochia, na-agafe ọtụtụ usoro. Na ụbọchị ole na ole mgbe e mesịrị, ọbara na-abụkarị ukwuu na ọbara ọkụ, yiri oke oge ime. Usoro a mbụ na-adị ihe dị ka ụbọchị 3 ruo 10. Ọbara ahụ mgbe ahụ na-agbanwe agba gaa pink ma ọ bụ aja aja, na-egosi usoro ọzọ nke mgbake. Usoro a nwere ike ịdịru ruo izu nke abụọ mgbe ọmụ. N'ikpeazụ, lochia na-abụ ntụ ọcha ma ọ bụ ọcha, nke nwere ike ịga n'ihu ruo ọtụtụ izu. Ọ dị mkpa ilekọta ọbara ahụ na ịgwa onye na-ahụ maka ahụike gị maka ihe ọ bụla na-akpata nchegbu. Ọbara na-efe efe nke ukwuu, ịpụ nnukwu akpụkpọ, ma ọ bụ ihe ịrịba ama nke ísì ọjọọ nwere ike igosi mgbagwoju anya nke chọrọ nlekọta ọgwụ."
+            "description": "Ụzọ na ogologo oge nke ịrụ ọbara mgbe ncheta.",
+            "content": "Ịrụ ọbara mgbe ncheta, ma ọ bụ lochia, na-aga site na ọtụtụ usoro. Na ụbọchị ndị mbụ mgbe ọmụmụ, ọbara na-adịkarị oke ma na-acha uhie uhie, dịka oge nkịtị nke ukwuu. Nke a bụ usoro mbido nke na-adịru ụbọchị 3 ruo 10. N'ụzọ dị otú a, ọbara ahụ na-agbanwe agba na pink ma ọ bụ aja aja, na-egosi usoro ọzọ nke ịgwọ ọrịa. Nke a nwere ike ịdịru izu nke abụọ mgbe ọmụmụ. N'ikpeazụ, lochia na-aghọ mmiri odo ma ọ bụ ọcha, nke nwere ike ịga n'ihu maka izu ole na ole. Ọ dị mkpa ilekọta mmiri ọbara na ịkpachara anya banyere nsogbu ọ bụla na onye na-ahụ maka ahụ ike gị. Ọbara na-apụpụ n'ike, ịfefe nnukwu clots, ma ọ bụ ụdị nnụnụ na-ewutere nwere ike igosi nsogbu nke chọrọ ọmụmụ na-ehicha."
           },
           {
             "id": 22,
             "title": "Ịchịkwa Ọbara",
             "topic_img": "https://img.freepik.com/free-photo/newborn-baby-feet_1157-18556.jpg",
-            "description": "Ntụziaka maka ijikwa ọbara na-esi na Ụlọ Ọgwụ mgbe ọmụ na ịkwalite mgbake.",
-            "content": "Ịchịkwa ọbara na-esi na Ụlọ Ọgwụ mgbe ọmụ na-agụnye ọtụtụ nzọụkwụ iji hụ na nkasi obi na ọcha. Izu ike na izere ihe ndị siri ike nwere ike ịkpọgide ọbara. Iji mpempe akwụkwọ n'ahụ kama iji tampons na-ebelata ihe ize ndụ nke nje na-ekwe ka ị lekọta ọbara ahụ nke ọma. Gbanwee mpempe akwụkwọ ndị ahụ mgbe nile iji debe ọcha. Inye mmiri na nri ziri ezi nke jupụtara na ígwè nwere ike inyere aka ịkwado mfu ọbara. Mmega ahụ dị nro pelvic nwere ike inyere aka n’ịgbake. Ọ bụrụ na ị hụ ihe ịrịba ama ndị na-adịghị ahụkebe, dị ka ọbara na-efe efe nke ukwuu, nnukwu akpụkpọ, ma ọ bụ isi ísì ọjọọ, kpọtụrụ onye na-ahụ maka ahụike gị ozugbo. Ịga nleta mgbe ọmụ bụ ihe dị mkpa iji nyochaa mgbake gị na ịza ajụjụ ọ bụla gbasara ọbara na-esi na Ụlọ Ọgwụ mgbe ọmụ."
+            "description": "Nzọụkwụ maka ịchịkwa mmiri ọbara mgbe ọmụmụ na ịkwalite ịgwọ.",
+            "content": "Ịchịkwa mmiri ọbara mgbe ọmụmụ na-achọ ọtụtụ nzọụkwụ iji hụ na ịdị mma na ịdị ọcha. Izuike na ịzere ọrụ siri ike nwere ike inye aka ijide ọnọdụ ọbara. Ịji pad sanitary kama tampons na-ebelata ihe ize ndụ nke ọrịa na-enye gị ohere nyochaa mmiri ọbara nke ọma. Gbanwee pad mgbe niile iji chekwaa ịdị ọcha. Ịmị mkpụrụ na nri na-enweghị ntụpọ na ígwè nwere ike inyere gị weghachi ihe mgbu ọbara. Ọrụ dị nwayọọ na pelvic floor nwere ike inye aka na ịlaghachi azụ. Ọ bụrụ na ị na-ahụ ụdị ụda pụrụ iche, dịka ọbara na-apụpụ n'ike, ịfefe nnukwu clots, ma ọ bụ ụdị nnụnụ, kpọtụrụ onye na-ahụ maka ahụ ike gị ozugbo. Nchịkọta oge mgbe ọmụmụ bụ ihe dị mkpa iji nyochaa ịlaghachi azụ na ịhazi nsogbu ọ bụla."
           },
           {
             "id": 23,
-            "title": "Mgbe Ị Ga-achọ Enyemaka",
+            "title": "Mgbe Iji Chọta Taimaka",
             "topic_img": "https://img.freepik.com/free-photo/newborn-baby-feet_1157-18557.jpg",
-            "description": "Ịmata ihe ịrịba ama nke mgbagwoju anya na ịma mgbe ị ga-achọ nlekọta ọgwụ.",
-            "content": "Ọ bụ ezie na ọbara na-esi na Ụlọ Ọgwụ mgbe ọmụ bụ akụkụ nkịtị nke mgbake, ụfọdụ ihe ịrịba ama nwere ike igosi mgbagwoju anya nke chọrọ nlekọta ọgwụ. Chọọ enyemaka ma ọ bụrụ na ị na-enwe ọbara na-efe efe nke na-agbapụta mpempe akwụkwọ n'otu elekere ma ọ bụ obere, nnukwu akpụkpọ (nke ka ukwuu karịa bọọlụ golf), ihe ọjọọ na ísì, ma ọ bụ ihe ịrịba ama nke ọrịa dịka ọkụ na chills. Ihe mgbu nke na-aga n'ihu ma ọ bụ na-aka njọ kwa oge na-akpata oku nye onye na-ahụ maka ahụike gị. Ọ bụrụ na ọbara na-aga n'ihu karịa izu isii ma ọ bụ na mberede na-abawanye mgbe ọ gbasasịrị, ọ dị mkpa ịchọ ndụmọdụ ọgwụ. Onye na-ahụ maka ahụike gị nwere ike nyochaa ọnọdụ gị na-enye nlekọta dị mkpa iji hụ na mgbake ahụ ike."
+            "description": "Ịmata akara nke nsogbu na ịmata mgbe iji chọta enyemaka ọgwụ.",
+            "content": "Ọ bụ ezie na mmiri ọbara mgbe ọmụmụ bụ akụkụ nkịtị nke ịlaghachi azụ, ụfọdụ akara nwere ike igosi nsogbu nke chọrọ enyemaka ọgwụ. Chọọ enyemaka ma ọ bụrụ na ị na-enweta ọbara na-eme ka pad mee n'ime awa ma ọ bụ obere oge, nnukwu clots (karịrị ihe nke golf), ụdị nnụnụ na-ewutere, ma ọ bụ ihe ọ bụla nke na-egosi ọrịa dịka ọkụ na ọkụ. Iji na-ahụ na ọ na-eme nke ọma ma ọ bụ na-eme ka ọnọdụ gị bụrụ nke na-adịghị mma bụkwa akụkụ nke ịchọta enyemaka. Ọ bụrụ na ọbara na-aga n'ihu karịa izu isii ma ọ bụ bụrụ nnukwu ihe mgbe ọ na-arịwanye elu, ọ dị mkpa ịchọta ọmụmụ. Onye na-ahụ maka ahụ ike gị nwere ike tụọ ọnọdụ gị na inye enyemaka kwesịrị ekwesị iji hụ na ịlaghachi azụ na-adị mma."
           }
         ]
       }
@@ -270,53 +265,53 @@
       "id": 6,
       "title": "Bacterial Vaginosis",
       "topic_img": "https://img.freepik.com/free-photo/african-american-woman-with-braids-standing-pink-background-disgusted-expression-displeased-fearful-doing-disgust-face-because-aversion-reaction_839833-2208.jpg?t=st=1716894569~exp=1716898169~hmac=d2e999f47519d91d6af488c13f5705194fe8c82e651327189babc21f0a5c934e&w=826",
-      "description": "Ịghọta Bacterial Vaginosis (BV), ihe kpatara ya, mgbaàmà na ọgwụgwọ.",
+      "description": "Ịghọta Bacterial Vaginosis (BV), ihe na-eme ka ọ bụrụ, ihe ngosi ya, na ọgwụgwọ ya.",
       "content": {
-        "intro": "Bacterial Vaginosis (BV) bụ ọrịa na-adịkarị na akpa nwaanyị kpatara site na ndọrọ ndọrọ adịghị njọ na nkịtị bacteria flora nke akpa nwaanyị. Ọ na-ekerịta site na mgbaàmà dị ka nnapụta akpa nwaanyị na-adịghị ahụkebe, isi, na ọnọdụ.",
+        "intro": "Bacterial Vaginosis (BV) bụ ọrịa ọgwụgwụ na-eme n’ụdị afọ ọgwụgwọ site n’ịhụnanya na ọnụ ọgụgụ ụfọdụ dị n’ahụ. Ọ na-enwe ihe ngosi dịka ntinye afọ nke na-adịghị mma, isi, na ihe mgbu.",
         "details": [
-          "BV na-eme mgbe ndọrọ ndọrọ dị n'etiti ezigbo na ọdachi bacteria na akpa nwaanyị na-adịghị, na-eduga na imebi ọdachi bacteria.",
-          "Mgbaàmà ndị a na-ahụkarị gụnyere a doro anya, ọcha-acha ọcha nnapụta akpa nwaanyị nwere isi na-esi ísì azụ, aṅụ mmụta, na ọkụ mgbe ị na-ama jijiji.",
-          "BV ekwesịghị ka ọ bụrụ ọrịa ebufeghị site na mmekọahụ, ma omume mmekọahụ nwere ike ịba ụba ihe ize ndụ nke ịzụlite BV.",
-          "Ọgwụgwọ na-adịkarị na-agụnye antibiotics, ma na ụdị nkịtị ma ọ bụ ụdị n'èzí. Ọ dị mkpa ịmecha ụzọ ọgwụgwọ dum iji gbochie imezigharị.",
-          "Ichebe ezi ọcha akpa nwaanyị na izere douching nwere ike inye aka igbochi BV. Probiotics nwekwara ike ịdị mma na iwughachi ahụike akpa nwaanyị.",
-          "Echefughi ichebe BV nwere ike ibute nsogbu dị ka ịba ụba ihe ize ndụ nke ọrịa ebufe site na mmekọahụ, nsogbu ime, na ọrịa na-akụkọ akpa nwaanyị.",
-          "Nri ahụike nwaanyị oge niile nwere ike inyere aka ịlebara ahụike akpa nwaanyị anya ma dozie mgbaàmà ọ bụla nke BV ozugbo."
+          "BV na-eme mgbe njikọ n’etiti ọma na-adịghị mma na nje bacteria na afọ na-ada, nke na-ebute ọgbụgba nke nje bacteria na-adịghị mma.",
+          "Ihe ngosi ndị a na-ahụkarị bụ ntinye afọ na-acha ọcha ma ọ bụ grayish nwere isi anụ ọhịa, itching, na mmerụ ahụ mgbe ị na-ejide.",
+          "BV enweghị ike ịkọwa dịka ọrịa nwere ike ikpọ ọrịa, ma mmekọrịta nwere ike iweta ihe egwu nke ịmepụta BV.",
+          "Ọgwụgwọ BV na-ejikọta antibiotics, ma ọ bụ n’ụzọ oral ma ọ bụ topical. Ọ dị mkpa iji mezue ụzọ ọgwụgwọ ahụ iji gbochie ịlaghachi.",
+          "Ịzụlite ezi ọdịnaya afọ na izere douching nwere ike ịbawanye ọgwụgwọ BV. Probiotics nwere ike inye aka na ịlụghachi ọnọdụ ndị ọma nke afọ.",
+          "Ọ bụrụ na BV enweghị ọgwụgwọ, ọ nwere ike ịbute nsogbu dị ka ihe egwu nke ọrịa na-efe, nsogbu ime ime, na ọrịa na-efe na-eme na akụkụ pelvic.",
+          "Ịrụtụ gynecological na-adịkarị enyere aka n’ịchịkwa ọnọdụ afọ na ụzọ kwụpụta BV n’oge mbụ."
         ],
         "subtopics": [
           {
             "id": 24,
-            "title": "Ihe Kpatara na Ihe ize ndụ",
+            "title": "Ihe na-akpata na Ihe Ụzọ",
             "topic_img": "https://img.freepik.com/free-photo/woman-with-stomach-ache-sitting-bed_23-2148590460.jpg",
-            "description": "Ịghọta ihe kpatara BV na ihe ize ndụ dị n'akụkụ ya.",
-            "content": "BV na-akpata site na ndọrọ ndọrọ adịghị n'ịdị bacteria flora nke akpa nwaanyị, ebe ọdachi bacteria na-abụkarị karịa ndị dị mma. Ihe ndị nwere ike inye aka na ndọrọ adịghị aṅaa gụnyere ọtụtụ ma ọ bụ ọhụụ mmekọahụ, douching, na enweghị lactobacilli (bacteria dị mma). Mgbanwe na hormones, dị ka ndị dị n'oge ime, na iji ụfọdụ ngwaahịa nke ịdị ọcha nwekwara ike ịba ụba ihe ize ndụ. Ịghọta ihe kpatara ndị a na ihe ize ndụ dị mkpa maka mgbochi na njikwa. Izenye douching, ileba nri kwesịrị ekwesị anya, na ịme mmekọahụ nke ọma nwere ike inyere aka belata ihe ize ndụ nke ịzụlite BV."
+            "description": "Ịghọta ihe na-akpata BV na ihe ize ndụ dị na ya.",
+            "content": "BV na-eme mgbe njikọ n’etiti nje bacteria na-eme na afọ na-ada, ebe nje bacteria na-adịghị mma na-enwekwu ọnụ ọgụgụ. Ihe ndị nwere ike ime ka mmejọ a gụnyere mmekọrịta na-abụghị nke gara aga, douching, na enweghị lactobacilli (nje bacteria ọma). mgbanwe hormonal, dịka oge ime, na iji ụfọdụ ngwaahịa nchekwa nwere ike ịbawanye ihe egwu. Ịghọta ihe ndị na-akpata na ihe ize ndụ bụ mkpa maka prophylaxis na njikwa. Izere douching, ịmezi nri, na ime mmekọrịta n’enweghị nchebe nwere ike ịbawanye ihe egwu BV."
           },
           {
             "id": 25,
-            "title": "Mgbaàmà na Nyocha",
+            "title": "Ihe Ndị A Na-ahụ Maka Ọgwụgwụ",
             "topic_img": "https://img.freepik.com/free-photo/young-woman-suffering-stomach-pain-sitting-bed-home_231208-13061.jpg",
-            "description": "Ịmata mgbaàmà nke BV na ịghọta otu esi eme nyocha ya.",
-            "content": "Mgbaàmà kachasị nke BV gụnyere a doro anya, ọcha-acha ọcha nnapụta akpa nwaanyị nwere isi siri ike, na-esi ísì azụ. Ụfọdụ ụmụ nwanyị nwekwara ike inwe aṅụ mmụta, ọkụ mgbe ị na-ama jijiji, ma ọ bụ ọnọdụ akpa nwaanyị. Nyocha na-adịkarị na-agụnye nyochaa akpa nwaanyị site na onye na-elekọta ahụike, onye nwere ike iwepụta otu ihe nnapụta akpa nwaanyị maka nyocha. A pH larịị nke akpa nwaanyị nwekwara ike inyocha, dị ka BV na-akpatakarị a elu pH. Ịmata mgbaàmà nke ọma na ịchọ ndụmọdụ ọgwụgwọ nwere ike ibute ọgwụgwọ ozugbo na belata ihe ize ndụ nke nsogbu."
+            "description": "Ịhụ ihe ngosi BV na ịghọta otú e si ahọpụta ya.",
+            "content": "Ihe ngosi bụ isi nke BV bụ ntinye afọ na-acha ọcha ma ọ bụ grayish na isi anụ ọhịa. Di iche iche nke nwanyị nwere ike ịhụ itchy, mmerụ ahụ mgbe ị na-ejide, ma ọ bụ afọ na-adịghị mma. A na-ejikọta nlekọta BV na-atụle nyocha pelvic site na onye na-ahụ maka ahụike, nke nwere ike iwere samples nke ntinye afọ maka nyocha. Nke pH nke afọ nwere ike nyochaa, n’ihi na BV na-ebute pH nke dị elu. Ịhụ ihe ngosi ngwa ngwa na-achọ ndụmọdụ ahụike nwere ike inye gị ọgwụgwọ ngwa ngwa ma belata ihe egwu nke nsogbu."
           },
           {
             "id": 26,
-            "title": "Nhọrọ ọgwụgwọ",
+            "title": "Ụzọ Ọgwụgwọ Dị",
             "topic_img": "https://img.freepik.com/free-photo/close-up-woman-having-stomach-ache_23-2148637635.jpg",
-            "description": "Ịchọpụta ọgwụgwọ dị iche iche maka BV.",
-            "content": "Ọgwụgwọ maka BV na-adịkarị na-agụnye antibiotics, dị ka metronidazole ma ọ bụ clindamycin, nke nwere ike ị na-aṅụ ọgwụ ma ọ bụ na-etinye n'èzí. Ọ dị mkpa imecha ụzọ ọgwụ antibiotics niile iji hụ na ọrịa ahụ kwụsịrị kpamkpam. Na ụfọdụ ikpe, probiotics nwere ike atụ aro iji nyere aka iwughachi ahụike bacteria nke akpa nwaanyị. Ọ dịkwa mkpa izere douching na iji ngwaahịa na-enweghị isi dị nro. Njikwa ndụmọdụ oge niile na onye na-elekọta ahụike gị nwere ike inyere aka hụ na ọrịa ahụ kwụsịrị ma belata ihe ize ndụ nke imezigharị."
+            "description": "Nyochaa ụdị ọgwụgwọ dị iche iche maka BV.",
+            "content": "Ọgwụgwọ BV na-ejikọta antibiotics, dị ka metronidazole ma ọ bụ clindamycin, nke nwere ike iji n’ụzọ oral ma ọ bụ topical. Ọ dị mkpa iji mezue usoro ọgwụgwọ niile iji hụ na ọrịa ahụ kwụsịrị. Na ụfọdụ ikpe, probiotics nwere ike ịgụnye iji nyere aka na ịlụghachi ọnọdụ nke nje bacteria dị n’afọ. Ọ dịkwa mkpa izere douching na iji ngwaahịa nchekwa dị mfe, na-enweghị isi. Nlegharị anya na onye na-ahụ maka ahụike gị nwere ike inye gị ọgwụgwọ na mgbe nke ọma."
           },
           {
             "id": 27,
-            "title": "Usoro Mgbochi",
+            "title": "Ụzọ Ịchekwa",
             "topic_img": "https://img.freepik.com/free-photo/woman-with-stomach-ache-sitting-bed_23-2148590461.jpg",
-            "description": "Ntụziaka na usoro maka igbochi BV.",
-            "content": "Igbochi BV na-agụnye ichebe gburugburu ahụike akpa nwaanyị na izere ihe ndị nwere ike ime ndọrọ adịghị nke bacteria. Nke a gụnyere izere douching, iji soaps na ngwaahịa nke ịdị ọcha enweghị isi, na ime mmekọahụ nke ọma site na iji condoms. Iyi uwe mkpuchi cotton nke na-enweta ikuku na izere uwe ahụ nke na-ejikọta oke nwekwara ike inyere aka chebe ahụike akpa nwaanyị. Probiotics, ma n'eri nri ma ọ bụ n'ụdị nri mgbakwunye, nwere ike inye aka chebe nkịtị n'etiti bacteria. Nri ahụike nwaanyị oge niile dị mkpa maka ilebara ahụike akpa nwaanyị anya ma dozie mgbaàmà ọ bụla nke ndọrọ adịghị."
+            "description": "Nzọụkwụ na atụmatụ maka ịchekwa BV.",
+            "content": "Ịchekwa BV gụnyere ịrụtụ ezi ọnọdụ afọ na izere ihe ndị nwere ike ịghọgbu ọnụ ọgụgụ nke nje bacteria. Nke a gụnyere izere douching, iji sabonụ na ngwaahịa nchekwa na-adịghị mma, na ime mmekọrịta n’enweghị nchebe site na iji condom. Iji uwe ndị na-eme ka afọ nwee ikuku na izere uwe ndị dị oke tight nwere ike inye aka na nlekọta afọ. Probiotics, ma na nri ma ọ bụ ihe mgbakwunye, nwere ike inye aka na ịrụpụta ọnọdụ nke nje bacteria. Nlegharị anya na-ahụ maka afọ gị na-eme ka ọ dị mkpa maka ịzụlite ahụike afọ na nyochaa ihe ngosi mbụ nke imbalance."
           },
           {
             "id": 28,
-            "title": "Nsogbu na Mgbe ị ga-achọ enyemaka",
+            "title": "Nsogbu Na Mgbe Ị Chọpụtara Taimako",
             "topic_img": "https://img.freepik.com/free-photo/young-woman-with-stomachache-sitting-bed_23-2148637308.jpg",
-            "description": "Ịghọta nsogbu ndị nwere ike ịbata site na BV na mgbe ị ga-achọ enyemaka ọgwụ.",
-            "content": "Ọ bụ ezie na BV n'onwe ya anaghị adịkarị oke njọ, ọ nwere ike ibute nsogbu ma ọ bụrụ na agaghị agwọ ya. Ndị a gụnyere ịba ụba ihe ize ndụ nke ọrịa ebufe site na mmekọahụ, nsogbu ime dị ka ịmụ nwa n'ọhụụ, na ọrịa na-akụkọ akpa nwaanyị, nke nwere ike imetụta ime. Ọ bụrụ na ị na-enwe mgbaàmà nke BV, ọ dị mkpa ịchọ ndụmọdụ ọgwụ ozugbo. BV na-emegharị ma ọ bụ na-agaghị agwọ ya kwesịrị ka onye na-elekọta ahụike nyochaa ya iji chọpụta ihe kpatara ya na ọgwụgwọ kwesịrị ekwesị. Nhụhụ anya n'oge nwere ike inyere aka igbochi nsogbu ma hụ na ahụike akpa nwaanyị nke ọma."
+            "description": "Ịghọta ihe ize ndụ BV nwere na mgbe ị ga-achọ enyemaka ahụike.",
+            "content": "Ọ bụ ezie na BV n’onwe ya abụghịkwa nsogbu, ọ nwere ike ịbute nsogbu ma ọ bụrụ na ejighị nlezianya. Nke a gụnyere ihe egwu nke ọrịa na-efe, nsogbu ime dịka labor tupu oge, na ọrịa pelvic inflammatory, nke nwere ike imetụta fertility. Ọ bụrụ na ị nwere ihe ngosi BV, ọ bụ ihe dị mkpa ịchọta ndụmọdụ ahụike ngwa ngwa. BV nke na-adịghị agbanwe ma ọ bụ na-apụta ugboro ugboro kwesịrị ịrụ ọrụ nke onye na-ahụ maka ahụike gị iji chọpụta ihe kpatara ya na ọgwụgwọ kwesịrị ekwesị. Ịgwọ ngwa ngwa nwere ike ime ka nsogbu na-abịa na-enwe ezigbo ahụike afọ."
           }
         ]
       }
@@ -325,148 +320,189 @@
   "topics": [
     {
       "id": 1,
-      "title": "Ihe BPCR Bụ",
+      "title": "Kedu Ihe BPCR Bu",
       "topic_img": "https://img.freepik.com/free-photo/unwanted-child-shocked-dark-skinned-young-woman-looks-with-puzzlement_273609-44884.jpg?t=st=1717344285~exp=1717347885~hmac=91a442fda611a67b7ba72370e11b576adda34a03efe65e15645e66fc26be091c&w=826",
-      "description": "Mara ihe bụ Ime Ndokwa Maka Nwanyi Na-Awa Maternity Na Ndokwa Maka Izuike (BP/CR), otu usoro echedo ndụ nke a haziri iji hụ na a na-amụ nwa n'ụzọ dị mma ma belata ọnwụ ndị nne na ụmụ ọhụrụ.",
+      "description": "Mata ihe BP/CR bụ, usoro na-enye ndụ, nke e mere iji hụ na e nwere amụma ziri ezi ma belata ọnwụ nke nne na nwa.",
       "content": {
-        "intro": "Ime Ndokwa Maka Nwanyi Na-Awa Maternity Na Ndokwa Maka Izuike (BP/CR) bụ ihe niile gbasara inye nne dị ime ohere ịnweta nlekọta kachasị mma n'oge kachasị mkpa. Site n'ịtụgharị uche n'ihu, anyị nwere ike izere ndọtị dị ize ndụ ma zọpụta ndụ.",
+        "intro": "BP/CR bụ banyere ijide n'aka na nne dị ime ọ bụla nwere ohere ịnweta nlekọta kachasị mma mgbe ọ dị mkpa. Site n'ịtụ anya, anyị nwere ike izere nsogbu dị ize ndụ ma chekwaa ndụ.",
         "details": [
-          "Ime Ndokwa Maka Nwanyi Na-Awa Maternity Na Ndokwa Maka Izuike (BP/CR) bụ usoro iji kwalite iji nfuli nwa nwere nka n'oge ime ime ma ọkachasị n'oge amụ nwa.",
-          "Ebe ọ bụ na ịkwadebe maka ime ime na ịkwadebe maka nsogbu na-ebelata ndọtị na inweta nfuli nwa nwere nka n'amụ nwa nkịtị ma ọ bụ n'ọnọdụ mberede si otú ahụ na-egbochi nsogbu na ọnwụ.",
-          "Ndọtị n'oge ime ime ma ọ bụ amụ nwa nwere ike ịbụ site na enweghị ike ịchọpụta onye nfuli nwa nwere nka, enweghị ike ịchọpụta ebe nrụọrụ nke ahụike, enweghị ụzọ njem gaa ebe nrụọrụ ahụike, enweghị ihe ndị dị mkpa maka amụ nwa dị ọcha na nchekwa na maka nlekọta nwa ọhụrụ, enweghị mkpebi banyere onye ga-elekọta ezinụlọ nwanyị n'absence ya, na onye otu nfuli nwa n'oge amụ nwa, enweghị ego zuru oke maka amụ nwa nkịtị ma ọ bụ n'ọnọdụ mberede, enweghị mkpebi banyere onye ga-ekpebi n'ọnọdụ mberede na atụmatụ maka onye na-enye ọbara.",
-          "BP/CR na-achọ ịbelata ndọtị na inweta nfuli nwa nwere nka n'oge amụ nwa, ma ọ bụ amụ nwa nkịtị ma ọ bụ n'ọnọdụ mberede.",
-          "Ihe isi ike n'oge ime ime na amụ nwa gụnyere ịchọpụta onye nfuli nwa nwere nka, ịchọta ebe nrụọrụ ahụike kwesịrị ekwesị, ịhazigharị njem, ịnakọta ihe ndị dị mkpa maka amụ nwa, na inwe ego zuru oke.",
-          "BP/CR na-enyere ezinụlọ aka ịzụlite usoro ndị a, na-eme ka amụ nwa dị mma na ọbụna ndụmọdụ."
+          "",
+          "BP/CR bụ akụkụ dị mkpa nke mmemme ịmụ nwa dị nchebe, nke e mere iji belata ọnwụ na ọrịa nke nne na nwa. Site n'ịkwalite usoro mgbalị dị maka iji ndị na-ahụ maka ọmụmụ ihe na oge ụfọdụ n'oge ịmụ nwa, na mgbe e mesịrị.",
+          "Ọ dabere na echiche na n'ịkwadebe maka ịmụ nwa na ịbụ njikere maka nsogbu na-ebute ihe ize ndụ n'ime oge dị mkpa nke na-akpata ọnwụ.",
+          "Nsogbu nke ime ma ọ bụ mgbe ịmụ nwa nwere ike ịpụta site na enweghị ike ịchọpụta onye na-ahụ maka ọmụmụ ihe, enweghị ike ịchọpụta ụlọ ọgwụ, enweghị ụzọ e si aga ụlọ ọgwụ, enweghị ihe dị mkpa maka amụma dị ọcha na mma na nlekọta nwa ọhụrụ, enweghị mkpebi gbasara onye ga-elekọta ezinụlọ ahụ mgbe ọ na-anọghị, onye ga-abụ onye na-enyere aka mgbe ọ na-arịa ọrịa, na ego adịghị mma maka amụma nkịtị ma ọ bụ n'ọnọdụ mberede, mkpebi gbasara onye ga-ekpebi n'ọnọdụ mberede, na atụmatụ maka onye na-enyere ọbara.",
+          "",
+          "EBU NKE BPCR: ",
+          "Ebe ọ na-agụnye usoro mgbalị dị maka iji ndị na-ahụ maka ọmụmụ ihe, na mmemme BPCR ebuteghị ndokwa na-arụ ọrụ maka amụma nkịtị na ọbụna mberede. Ọ bụ nkwadebe nke ndị nne na ezinụlọ mere (na-enyere aka site na onye na-ahụ maka ọmụmụ ihe). Ọ bụghị akwụkwọ edere (ọ bụ ezie na a na-atụ aro ya). Ọ dị mkpa na e legharịrị ma ọ bụ megharịrị ya n'oge ọ bụla ha gara ụlọ ọgwụ. Ndozi a bụ iji belata nsogbu na enweghị usoro n'oge amụma ma ọ bụ mberede.",
+          ""
         ],
         "subtopics": [
           {
             "id": 15,
-            "title": "Ebumnuche BPCR",
+            "title": "Ebumnobi BPCR",
             "topic_img": "https://img.freepik.com/free-photo/box_53876-65526.jpg?t=st=1717524141~exp=1717527741~hmac=4c0c67298aae43035b4119ff005d4a32795c71efac49fac865a000eea4638af5&w=740",
-            "description": "Usoro ime ndokwa maka amụ nwa na usoro ndokwa maka nsogbu na-achọ",
-            "content": "• Ịmepụta atụmatụ maka amụ nwa nkịtị na nsogbu nke nwere ike ime:\n – Ọ bụ atụmatụ a na-eme n'ihu nke nwanyị na ezinụlọ (n'inyere onye nwere nka aka)\n – Ọ bụghị akwụkwọ edere ederede (ọ bụ ezie na ọ kacha mma)\n – Ọ kwesịrị ị na-ahụ anya ma ọ bụ mgbanwe na ọ bụla ime ime zute\n • Ịbelata enweghị nhazi n'oge amụ nwa ma ọ bụ n'ọnọdụ mberede\n • Ịzọpụta nlekọta kwesịrị ekwesị n'oge kwesịrị ekwesị\n"
+            "description": "Ebumnobi nke atụmatụ BPCR bụ iji kwadebe atụmatụ ọmụmụ na ịbụ njikere maka nsogbu.",
+            "content": "•  Ịkwadebe atụmatụ maka amụma nkịtị na ọbụna mberede: \n  – Ọ bụ ndokwa nke ndị nne na ezinụlọ (na-enyere aka site na onye na-ahụ maka ọmụmụ ihe)\n  – Ọ bụghị akwụkwọ edere (ọ bụ ezie na a na-atụ aro ya)\n  – Ọ kwesịrị ka e legharịrị ma ọ bụ megharịrị ya n'oge ọ bụla ha gara ụlọ ọgwụ\n• Ibelata nsogbu na enweghị usoro n'oge amụma ma ọ bụ mberede\n• Ịnye ohere maka nlekọta kwesịrị ekwesị na nke kwesịrị ekwesị."
           },
           {
             "id": 4,
-            "title": "Ịchọpụta Onye Nfuli Nwa Nwere Nka",
-            "topic_img": "https://img.freepik.com/free-photo/nurse-portrait-hospital_23-2150780276.jpg?t=st=1717523246~exp=1717526846~hmac=ea82f138fbd375bc345529fb8b0d2d8f0f1e494d66e2266cdad57c3b64dfd0dd&w=826",
-            "description": "Nfuli Nwa Nwere Nka (SBAs) bụ ihe dị mkpa maka amụ nwa dị mma. Jide n'aka na onye nfuli nwa gị agbasala ọzụzụ a na-akwado maka nlekọta nne na nwa ọhụrụ, nwere ike ijikwa nsogbu, na-enye gị obi ụtọ na nsọpụrụ.",
-            "content": "Dị ka akụkụ nke BPCR, Nfuli Nwa Nwere Nka (SBAs) na-arụ ọrụ dị mkpa na ijide n'aka na amụ nwa dị mma na belata ọnwụ nke nne na nwa ọhụrụ. Jide n'aka na onye ahụ agbasala mmemme ọzụzụ a kwadoro maka nlekọta nne na nwa ọhụrụ. Jide n'aka na onye ahụ nwere ihe ọmụma banyere mberede na-amụ nwa na ikike ijikwa nsogbu n'ụzọ dị irè. Chọọ SBAs ndị na-egosipụta obi ụtọ, nsọpụrụ, na nlekọta nye ụmụ nwanyị na-atụ anya na ezinụlọ ha."
+            "title": "Ịmata Onye Na-ahụ Maka Amụma",
+            "topic_img": "https://img.freepik.com/free-photo/beautiful-black-nurse-portrait_23-2149666021.jpg?t=st=1719859756~exp=1719863356~hmac=7b86bd7d61503ac7eb1105ad4f24c5dba70ebb4578b79c53c0c84f78a29890b6&w=360",
+            "description": "Ndị na-ahụ maka ọmụmụ ihe dị mkpa maka ịmụ nwa. Jide n'aka na onye na-ahụ maka ọmụmụ ihe ahụ ruru eru.",
+            "content": "Dị ka akụkụ nke BPCR, ndị na-ahụ maka ọmụmụ ihe (SBAs) na-arụ ọrụ dị oke mkpa iji hụ na amụma dị nchebe na belata ọnwụ na ọrịa nke nne na nwa. Ọ na-akwado ịme mkpebi tupu mmalite nke ime ihe ma ọ bụ na mbido nsogbu ọ bụla. N'ịmata onye na-ahụ maka ọmụmụ ihe, jide n'aka na onye ahụ emeela mmemme ọmụmụ ihe ndị e kwadoro nke ọma. Jide n'aka na onye ahụ nwere ihe ọmụma nke nsogbu ọmụmụ na ikike ha iji jikwaa nsogbu ndị ahụ nke ọma. Chọọ ndị SBAs na-egosi obi ebere, nsọpụrụ, na nkwanye ugwu n'ebe ndị nne dị ime na ezinụlọ ha nọ."
           },
           {
             "id": 5,
-            "title": "Ịchọpụta Ebe Nrụọrụ Nke Ahụike",
+            "title": "Ịmata Ụlọ Ọgwụ",
             "topic_img": "https://img.freepik.com/free-photo/retinal-biometrics-technology-with-man-s-eye-digital-remix_53876-108518.jpg?t=st=1717522970~exp=1717526570~hmac=4ad4ffee0ad0daea82a1a66462cf3d5444fcaa8fa471308d0b1653964953cd71&w=826",
-            "description": "Ịhọrọ ebe nrụọrụ nke ahụike kwesịrị ekwesị dị mkpa. Chọọ ebe ndị a na-akwado nwere nfuli nwa nwere nka, omume ime ọcha kwesịrị ekwesị, na ịdị na-ahụ anya n'ọnọdụ niile. Ṅaa ntị na ọnọdụ na nnweta, ọkachasị maka ọdụ na-abụghị nke abalị.",
-            "content": "Dị ka akụkụ nke BPCR, ịhọrọ ebe nrụọrụ nke ahụike kwesịrị ekwesị maka amụ nwa dị mkpa iji hụ na nchekwa na ahụ ike nke nne na nwa. Chọọ ebe ndị a na-akwado site na ndị na-achịkwa ọrụ ahụike a ma ama ma ọ bụ ndị nchịkwa ọchịchị na-achịkwa. Jide n'aka na ebe ahụ nwere ndị nfuli nwa (SBAs) ma dị maka awa 24 site na ụbọchị 7. Chọọ ihe akaebe banyere omume ime ọcha nke ọma, mmanụ ọkụ nke ngwa ọrụ ahụike, na idobe gburugburu ime ọcha na nke dị ọcha. Ṅaa ntị na ọnọdụ ebe nrụọrụ na nnweta maka gị, ọkachasị ma ọ bụrụ na ị ga-enwe mkpa ịnọ ebe ahụ n'abalị."
+            "description": "Ịhọrọ ụlọ ọgwụ dị mkpa. Chọta ụlọ ọgwụ ndị kwadoro na ndị na-arụ ọrụ amụma, na-elekọta ịsacha aka, na nlekọta zuru oke.",
+            "content": "Dị ka akụkụ nke BPCR, ịhọrọ ụlọ ọgwụ dị mkpa maka ịmụ nwa dị oke mkpa maka iji hụ na nchekwa na ọdịmma nke nne na nwa. Chọta ụlọ ọrụ ndị a kwadoro site na ikike nlekọta ahụike a ma ama ma ọ bụ nke e nyere ikike site na ndị isi gọọmentị. Jide n'aka na ụlọ ọrụ ahụ na-ejere ndị na-ahụ maka ọmụmụ ihe (SBAs) ọrụ na-arụ ọrụ ụbọchị 24 kwa ụbọchị 7. Chọọ ihe akaebe nke ịsacha aka nke ọma, ịcha ngwa ahụike na ịnọgide na-enwe gburugburu ebe ọmụmụ nke dị ọcha na nke ahụike. Tụlee ebe ụlọ ahụ nọ na ụzọ e si aga ya, ọkachasị ma ọ bụrụ na ọ dị mkpa ka ị dị ebe ahụ n'abalị."
           },
           {
             "id": 6,
-            "title": "Ụzọ Njem gaa Ebe Nrụọrụ Nke Ahụike",
+            "title": "Ụzọ E Si Aga Ụlọ Ọgwụ",
             "topic_img": "https://img.freepik.com/free-photo/african-american-female-paramedic-face-protective-medical-mask-standing-front-ambulance-car_627829-4899.jpg?t=st=1717523430~exp=1717527030~hmac=2c18d200f9baa56353f06c58176c42d1ba74696ca3bd1c0a93bd28fd8f93508a&w=826",
-            "description": "Hazie maka njem siri ike na enwere ike ịnweta gaa ebe nrụọrụ nke ahụike, ọkachasị maka ọnọdụ ndị na-adịghị ahụkebe ma ọ bụ awa ndị a na-apụghị ịdabere na ya.",
-            "content": "Jide n'aka na ịnweta njem nke siri ike, na-enye ntụkwasị obi na enwere ike ịnweta, ọkachasị maka awa ndị a na-apụghị ịdabere na ya iji gbazinye ndị inyom dị ime gaa ebe nrụọrụ nke ahụike na amụ nwa ma ọ bụ n'ọnọdụ nsogbu."
+            "description": "Ntụle maka njem na-aga ụlọ ọgwụ, ọkachasị maka ọnọdụ mberede.",
+            "content": "Dị ka akụkụ nke BPCR, njide maka onye na-ahụ maka ọmụmụ ihe na-enyere aka n'ọmụmụ dị oke mkpa na ịbelata ọnwụ na ọrịa nke nne na nwa. Ọ na-akwalite ịme mkpebi tupu mmalite nke ime ma ọ bụ na mbido nke nsogbu ọ bụla na-apụta."
           }
         ]
       }
     },
     {
       "id": 2,
-      "title": "Ndị Ihe Ụjọ n’Ọgbọ Ime na N'oge Amụmụ",
+      "title": "Ihe Ị Ga-Ama Banyere Ihe Ọkụ Na Nwaanyị Na-Etinye Nwa",
       "topic_img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-infertility-illustration_23-2149379493.jpg?t=st=1717344443~exp=1717348043~hmac=e32cdcd73c7cb7cae072e2078775740fff5046cb5b42e7732605d0299a830f3f&w=740",
-      "description": "Mụta banyere ihe ndị dị mkpa na-adịghị mma n’oge ime na n'oge ime n’ogbe, nke onye ọ bụla na-atụ anya ime kwesịrị ịma iji hụ na enyere aka na oge.",
+      "description": "Mụta maka ihe ndị dị ize ndụ n'oge ime na n’oge ịmụ nwa nke nwaanyị kwesịrị ịma ka ọ kpọọ ndị dọkịta ozugbo.",
       "content": {
-        "intro": "Ịmara ihe ndị na-akpata nsogbu n’oge bụ isi. Ịmata ihe ị ga-achọ na-eme ka i nweta enyemaka ịchọrọ n'enweghị ndọtị.",
+        "intro": "Ịma ihe ịkpọ ụta n'oge n'elu ụzọ nwere ike ime nnukwu ọdịiche. Ịmata ihe ị ga-ele anya maka na-eme ka i nweta enyemaka n'enweghị oge ihere.",
         "details": [
-          "Ọbara n’ụlọ ọmụmụ",
-          "N’tụpụrụ nwa oge niile",
-          "Achịcha na anya",
-          "Iwe iwe",
-          "Ọrịa",
-          "Ihe mgbu n’afọ",
-          "Ịkwụsị aka na ahụ",
-          "Ọkụ isi ike ma ọ bụ anya nwere ike ịbụ nkwarụ",
-          "Ụjọ ma ọ bụ anụ ọhịa",
-          "Ihe mgbu n’afọ",
-          "Mgbawa oge nke akwara na mpaghara ọnụma ma ọ bụ nsị na-adịghị mma na mpaghara ahụ",
-          "Dịkwa nkịtị nke anụ ọhịa"
+          "Ihe ndị dị ize ndụ n'oge ime: ",
+          "1. Ọrịa dị n'azụ ahụ na-agụ n'ahụ: O nwere ike igosi ọnọdụ dị ka nwa ime na-abụghị n'otu ebe (ectopic pregnancy), imecha nwa, ọgbọ nwa na-akwụsịtụ, ma ọ bụ ntụpụ nke placenta.",
+          "2. Ọbara dị ukwuu na-agbapụta n’ụlọ nwaanyị: O nwere ike ịbụ ihe ọkpụkpọ imecha nwa, ntụpụ placenta, ma ọ bụ placenta previa.",
+          "3. Isi ọwụwa nke dị nnọọ ike: Isi ọwụwa nke na-adịte aka na nke dị njọ nwere ike ịbụ ihe ịrịba ama nke preeclampsia ma ọ bụ nsogbu ụbụrụ ndị ọzọ.",
+          "4. Iche na anya ma ọ bụ ihe na-abụghị ihe ị ga-ahụ: Iche anya, ịhụ ihe ndị dị ka akwụkwọ ndụ akwụkwọ ndụ ma ọ bụ ọkụ ọkụ nwere ike igosi preeclampsia.",
+          "5. Ọkụkụ na aka, ihu, ma ọ bụ anya: Ọkụkụ na-apụta ngwa ngwa ma ọ bụ nke dị njọ nwere ike igosi preeclampsia, karịsịa ma ọ bụrụ na ọ na-ejikọta ya na ọbara dị elu.",
+          "6. Mmiri nwata dịtụtụ ala: N’achọpụta na nwatakịrị ahụ anaghị ahụ ụzọ, o nwere ike ịpụta nsogbu nke nwa na-emepụta nsogbu.",
+          "7. Ọnụ okpomọkụ dị elu (karịrị 100.4°F ma ọ bụ 38°C): Ọnụ okpomọkụ dị elu nwere ike igosi ọrịa, nke nwere ike ịkụ nwatakịrị na nne ahụ.",
+          "8. Ime mwute mgbe ị na-amụ mkpụrụ ma ọ bụ ọkụ ọkụ: O nwere ike igosi ọrịa nke mpụ nwata ma ọ bụ ọrịa ndị ọzọ.",
+          "9. Vọmiti nke na-adịghị akwụsịtụ: Vọmiti dị njọ na-adịghị akwụsị n'ụzọ dị mma nwere ike ibute dehydration na mkpokọta nri na-adịghị mma, nke nwere ike ịkụ nwatakịrị ahụ.",
+          "10. Ịsụ ọfụma ma ọ bụ ịdị arọ n'ịmaụma: Ịsụ ọfụma na-adịghị atụ aka nwere ike ịbụ ihe ọkpụkpọ nke embolism pulmonary.",
+          "11. Ịdọrọ onwe gị azụ ma ọ bụ ịda mbà n'obi: Nke a nwere ike igosi ọrịa ndị dị ka anemia dị njọ, ọbara dị ala, dehydration, ma ọ bụ ọnọdụ ndị ọzọ dị n'okpuru.",
+          "12. Ọrịa azụ nke dị njọ: Ọrịa dị ike ma ọ bụ nke na-adịte aka n'azụ nwere ike ịbụ ihe ọkpụkpọ nke ọgbọ nwa, ọrịa akụrụ, ma ọ bụ nsogbu ndị ọzọ.",
+          "13. Ibu arọ ngwa ngwa: Ibu arọ ngwa ngwa, karịsịa ma ọ bụrụ na ọ na-ejikọta ya na ọkụkụ, nwere ike igosi preeclampsia.",
+          "14. Mmiri na-apụta na mpaghara nwanyị: O nwere ike igosi ntụpụ mmiri n'ime ime (PROM) na ihe ize ndụ nke ọgbọ nwa na-enweghị atụ.",
+          "15. Itching nke dịtụtụ abụghị ihe nkịtị: Itching dị njọ, karịsịa na aka na ụkwụ, nwere ike igosi cholestasis nke nwa ime, ọrịa imeju.",
+          "",
+          "Ihe ndị dị ize ndụ n'oge ịmụ nwa: ",
+          "1. Ọgbọ nwa na-anọ ogologo oge: Ọgbọ nwa nke na-adịte ogologo oge karịa otu awa (karịsịa maka ndị na-amụ nwa mbụ). Nke a nwere ike ibute ike agbajịrị, ihe ize ndụ nke ọrịa na nsogbu maka nwatakịrị.",
+          "2. Ọnụọgụ obi nke nwa na-adịghị mma: Ọnụgụ obi nke dị elu ma ọ bụ nke dị ala. Nke a na-egosi nsogbu nke nwa, nke nwere ike ịchọ enyemaka ozugbo.",
+          "3. Ọbara dị ukwuu na-apụta n’ụlọ nwaanyị: Ọbara na-apụta nke dị njọ na-ekpuchi otu mkpụrụ akwụkwọ kwa elekere ma ọ bụ ọbara ọ bụla nke na-esonyere na ihe mgbu. Nke a nwere ike igosi ntụpụ placenta, mkpụ nwụkọta ahụ ma ọ bụ ọnọdụ ndị ọzọ dị njọ.",
+          "4. Ọkpụkpọ eriri ụtaba: Ọkpụkpọ eriri ụtaba na-adaba site na oghere n’ahụ nwaanyi na n’ala nwanyị tupu nwatakịrị ahụ abịa. Nke a nwere ike igbochi nwatakịrị ahụ oxygen.",
+          "5. Ọgwụgwụ nke ọgbọ nwa: Ọgbọ nwa anaghị aga n'ihu na cervix enweghị oke.",
+          "6. Ọrịa azụ dị ike: Ọrịa dị ike nke na-adịghị adịghị elu oge ọgbọ nwa.",
+          "7. Ọbara dị elu n’aka nne: Ọbara dị elu nke 140/90 mm Hg ma ọ bụ karịa. Nke a nwere ike igosi preeclampsia, nke na-achọ nchekwa ozugbo.",
+          "8. Isi ọwụwa dị njọ ma ọ bụ nsogbu anya: Isi ọwụwa dị njọ, iche anya ma ọ bụ ịhụ ihe ndị dị ka ụzarị ọkụ.",
+          "9. Ihe ọkpụkpọ ọrịa: Ọnụ okpomọkụ dị elu (karịrị 100.4°F ma ọ bụ 38°C), nkụda, nsị ndị na-esite n'ọnụ nwanyị.",
+          "10. Mmiri nwa dịtụ ala: Ịghọta na nwatakịrị ahụ anaghị agagharị ụkwụ.",
+          "11. Mmiri amniotic nke na-acha akwụkwọ ndụ ma ọ bụ aja aja: Mmiri amniotic nke na-acha akwụkwọ ndụ ma ọ bụ aja aja.",
+          "12. Ọrịa na ahụ ike na-abaghị uru: Ọrịa na-adịghị mma, karịsịa ọ bụghị nchịkọta."
         ],
         "subtopics": []
       }
     },
     {
       "id": 3,
-      "title": "Ntụziaka Ikike Nke Nsogbu",
+      "title": "Nchịkọta mgbanwe n'ụdị ndụ",
       "topic_img": "https://img.freepik.com/free-vector/flat-about-me-concept-with-hobbies-interests_23-2148886062.jpg?t=st=1717344540~exp=1717348140~hmac=8c9bf91a1829c56b1f1674beda99f3c315c58dc279b56776d66aa97eefc8ea18&w=740",
-      "description": "Hapụ isi na ntụziaka ikike nke nsogbu, dị ka ịchọ ọkachamara, ịsụ n'ime, na ọrụ ejị na mmadụ na-eme ka ọ na-achọ njem na arụ ụmụna na nkekwado nke ọjọọ.",
+      "description": "Nyochaa usoro mgbanwe n'ụdị ndụ dị irè, gụnyere ịgbanwe onwe, ịhazi ebumnuche, na inwe nkwado mmadụ ka ọ hụ na ime nwa dị mma na ịmụ nwa n'enweghị nsogbu.",
       "content": {
-        "intro": "Ikike ego nke nsogbu ga-eji n'elu ọmụma ka ọ na-ahazi ọmụma nke ọma na-achọ nke ọjọọ. Chere na ị chọrọ ihe gbanwere ọrụ ndị na-eme nkekwado.",
+        "intro": "Iṅweta mgbanwe dị mma n'ụdị ndụ nwere ike ime ka ahụmịhe ime nwa gị ka mma ma kwadebe gị maka ịmụ nwa. Ka anyị lebara anya n'ọmụma ụfọdụ bara uru.",
         "details": [
-          "Iji ntụziaka na ichi eziokwu ga-eji enyere gị ike iji gbakwunyere gị ka ị na-ebipụrụ.",
-          "Okporo ihe na-akpọ dị, ome ya na-enweghi isi n'ime nke ga-akpọrọ ịbanye.",
-          "Isi ike na-akpọ dị, onye ga-akpọrọ ya iji ọdụ maka ọrụ ụmụna nke ọma.",
-          "Mmadụ na-ahazi ego nke nsogbu ọma kacha n'ụmụnna, ndị ogo na ọrụ ndị ọzọ ga-enye gị nta.",
-          "Ntụziaka n'okwu ọrụ nke nsogbu na ihe ojoo na-eme ịbanye ya dị ka ngwọ."
+          "Ịgbanwe onwe na nyochaa mmepe gị nwere ike inyere gị aka ịnọgide na-elekọta ahụike gị.",
+          "Ijikwa ọnọdụ gburugburu nwere ike iwulite ebe na-akwado ihe omume ahụike.",
+          "Ịhazi ebumnuche ga-enyere gị aka lekwasị anya na ebumnuche pụrụ ịga nke ọma maka ịmụ nwa dị mma.",
+          "Nkwado mmadụ site n'aka ezinụlọ, enyi, na ndị na-ahụ maka ahụike nwere ike ịbawanye mgbaàmà gị na ntụkwasị obi gị.",
+          "Inye ihe atụ maka mgbanwe ọma na iji usoro ngwọta isi dozie nsogbu bụ isi ihe ga-eme ka ị nwee ihe ịga nke ọma."
         ],
         "subtopics": [
           {
             "id": 7,
-            "title": "Mepụta Akwụkwọ Ikike Nke Nsogbu",
+            "title": "Ịzụlite atụmatụ maka ịmụ nwa",
             "topic_img": "https://img.freepik.com/free-photo/top-view-busy-dark-skinned-woman-writes-down-records-notebook-from-book_273609-44310.jpg?t=st=1717523629~exp=1717527229~hmac=a186798a965888061d41dbcbaff609111343c03c9a8eb5a7f32db46d988d9ffa&w=826",
-            "description": "Akwụkwọ nke nsogbu enweghị n'uhie gị na akwụkwọ nke ọtụtụ n'ụzọ na ndị mmadụ. Tụgharị na ọ na-egwuregwu na ndị nwere ike ị banye ya.",
-            "content": "Akwụkwọ nke nsogbu enweghị n'uhie gị na akwụkwọ nke ọtụtụ n'ụzọ na ndị mmadụ. Tụgharị na ọ na-egwuregwu na ndị nwere ike ị banye ya. Ọ bụ aha na-akụrụ na ọ hụrụ na arụ ụmụna na ụmụna na ịzụ ihe atọ na banye ga-akpọrọ iji na arụ ụmụna."
+            "description": "Atụmatụ ịmụ nwa na-enyere gị aka ịkwadebe maka ịmụ nwa dị mma na nsogbu nwere ike ibilite. Rụọ ọrụ na onye na-ahụ maka ahụike gị ka ịmepụta na imelite atụmatụ gị mgbe niile.",
+            "content": "Atụmatụ ịmụ nwa na-enyere gị aka ịkwadebe maka ịmụ nwa dị mma na nsogbu nwere ike ibilite. Rụọ ọrụ na onye na-ahụ maka ahụike gị ka ịmepụta na imelite atụmatụ gị mgbe niile. Ọ bụ atụmatụ a na-eme na mbụ nke nwaanyị na ezinụlọ na-enyere aka site n'aka onye ọkachamara na-ahụ maka ahụike. Atụmatụ ahụ kwesịrị inyochaa ma ọ bụ melite ya na ọbịa ọ bụla iji hụ na ọ dị ọhụrụ na mkpa."
           },
           {
             "id": 8,
-            "title": "Ntụziaka Nsogbu na Ọgwụkọ N'ime Ụmụnwa Na Ihe Nzuzo",
+            "title": "Ịmata ihe ịdọ aka ná ntị na ime na ịlụ ọgụ",
             "topic_img": "https://img.freepik.com/free-photo/black-pregnant-women-posing_23-2151446148.jpg?t=st=1717523768~exp=1717527368~hmac=4962ef018e835fd114595285a8a98164a56a1abe648c451d7bcc1624548e8fbc&w=996",
-            "description": "Kedu nke na-egbukọ na nwere nsogbu na ọgwụkọ n'ime ụmụnwa na ihe nzuzo, dị ka ịkpa akpa n'ahụ ma ọ bụ otutu n'ala. Ọ bụ aha na-enweghị nsogbu.",
-            "content": "Nwunye dị ịpụtara na-akwadobe na-ebipụrụ nsogbu na ọgwụkọ n'ime ụmụnwa. Ha na-enye gị ụbọchị ego nke nsogbu, nweta akpọrọ ego na ego nke ọma, uche na ihe dị ịzụ na-eme ọdụ maka akaelu."
+            "description": "Ịmara ihe ịdọ aka ná ntị n'ime na ịlụ ọgụ, dị ka mgbu n'ọbara ma ọ bụ ọbara n'ime ya, dị mkpa. Ịnweta ọgwụgwọ ozugbo nwere ike ịzọ ndụ.",
+            "content": "Ndị nwanyị na-ebu nwa kwesịrị ịma otu esi amata ihe ịdọ aka ná ntị n'ime na ịlụ ọgụ. Nke a gụnyere ọbara na-enweta n'ime, ntọpụ mgbaàmà, anụ ọhịa, ihe isi ike n'ịbị anya, ọbara mgbali elu, mgbu dị ukwuu n'ike n'úkwù, ịba ụkwụ, isi mgbu/sight na-adịghị mma, ọkụ/ezu mmetụta, ike n'ike n'ime, mmerụ ụgbọala tupu nwa ebi ọkụ ma ọ bụ ihe aṅụ ọkụ ọhụrụ."
           },
           {
             "id": 9,
-            "title": "Njiko",
+            "title": "Ntụziaka maka njem",
             "topic_img": "https://img.freepik.com/free-vector/delivery-point-abstract-concept-illustration_335657-3937.jpg?t=st=1717523856~exp=1717527456~hmac=5796d300d8e495d2c2efed4c36510033aba79ad3378916aec814f19ca026fe64&w=740",
-            "description": "Gbafuo njiko dị ọkachamara na ihe dị ịsụ na njiko, ebe nwere njiko n'ụbọchị, ịgbaala ugbu a.",
-            "content": "Gbafuo njiko dị ọkachamara, dị egwuregwu na ịsụ njiko, ebe nwere njiko n'ụbọchị, ịgbaala ugbu a maka njiko."
+            "description": "Gbaa mbọ hụ na ị nwere ezigbo usoro njem maka oge ịlụ ọgụ ma ọ bụ na mberede, karịsịa na awa dị mgbagwoju anya.",
+            "content": "Nweta ụzọ njem dị irè, ga-enwe ntụkwasị obi na nke dị ngwa ngwa, karịsịa na awa dị mgbagwoju anya iji rute n'ọgwụgwụ nwa dị nso ma ọ bụ na mberede."
           },
           {
             "id": 10,
-            "title": "Ogo",
+            "title": "Ego",
             "topic_img": "https://img.freepik.com/free-photo/hand-putting-mix-coins-seed-clear-bottle-copyspace-business-investment-growth-concept_1423-104.jpg?t=st=1717523896~exp=1717527496~hmac=780acbba6327a17b9b1545ee2ed17faeb2e6c376777ae1073862440a5c1d3058&w=826",
-            "description": "Gbatara ego na-eme gbalaba dị ọkachamara na ihe dị ịsụ na ogo. Gafe ego ụlọ ọrụ, ego ugbu a, na ịgbasawanye nke njem kwaara.",
-            "content": "Gbatara ego na-eme gbalaba dị ọkachamara na ihe dị ịsụ na ogo. Gafe ego ụlọ ọrụ, ego ugbu a, na ịgbasawanye nke njem kwaara."
+            "description": "Nweta ego dị na aka maka ụgwọ ịmụ nwa kwa ụbọchị na mberede. Tụlee ịchekwa onwe gị, ego mberede, na usoro mgbazinye ego nke obodo.",
+            "content": "Hụ na enwere ego site na: ịchekwa onwe gị, ego mberede, usoro mgbazinye ego nke obodo, na isi iyi ndị ọzọ dị ike maka ego n'ọnọdụ mberede ma ọ bụ mkpa ndị ọzọ."
           },
           {
             "id": 11,
-            "title": "Ike Ịhụnanya",
+            "title": "Ịkọwa Mkpebi",
             "topic_img": "https://img.freepik.com/premium-photo/composite-image-business-people-playing-chess-against-white-background-with-vignette_1134-81973.jpg?w=826",
-            "description": "Ịdị ịchọrọ onye ga-achọpụta ike ịhụnanya na ịgbaala ugbu a ma ọ bụ na ihe dị ịsụ. Ịchọrọ onye dị mkpa na ihe ịgbasawanye ga-adịgide njọ.",
-            "content": "Ịdị ịchọrọ onye ga-achọpụta ike ịhụnanya na ịgbaala ugbu a ma ọ bụ na ihe dị ịsụ. Ịchọrọ onye dị mkpa na ihe ịgbasawanye ga-adịgide njọ."
+            "description": "Kpebie onye ga-eme mkpebi dị mkpa n'oge ịlụ ọgụ ma ọ bụ na mberede. Mkpebi doro anya nwere ike igbochi oge ihere ma hụ na nlekọta kwesịrị ekwesị na-erute oge.",
+            "content": "Kpebie onye ga-eme mkpebi, karịsịa n'oge mberede. Iji nwee onye na-eme mkpebi doro anya nwere ike igbochi oge na-agwụcha ma hụ na a na-eme ihe ziri ezi n'usoro."
           },
           {
             "id": 12,
-            "title": "Onye Ụwa Na Ụmụna",
+            "title": "Nkwado Site n'Ezinụlọ na Ụmụnna",
             "topic_img": "https://img.freepik.com/premium-vector/family-reunion-isolated-cartoon-vector-illustration_107173-19436.jpg?w=740",
-            "description": "Zitere onye ga-adịgide ụmụna gị mgbanwe na ọdịkarị na ụmụna gị. Ọ bụrụ na a bụghị onye ụwa, ịnweta onye dị na-achọ mba mgbanwe na ihe dị ịzụ ya.",
-            "content": "Zitere onye ga-adịgide ụmụna gị mgbanwe na ọdịkarị na ụmụna gị. Ọ bụrụ na a bụghị onye ụwa, ịnweta onye dị na-achọ mba mgbanwe na ihe dị ịzụ ya."
+            "description": "Zụlite onye ga-enyere gị aka n'oge ịmụ nwa gị na onye ga-abụ onye nkịtị. Nkwado a dị oke mkpa maka udo nke uche gị.",
+            "content": "Kpebie onye ga-elekọta ụmụaka ndị ọzọ mgbe ị na-amụ nwa. Kpebiekwa onye ga-abụ onye na-esonyere gị n'oge ịlụ ọgụ. Mkpebi ndị a ga-enyere gị aka ịchọpụta nlekọta ụmụaka na usoro ziri ezi."
           },
           {
             "id": 13,
-            "title": "Nke Ahụ",
+            "title": "Nye n'ime Ọbara",
             "topic_img": "https://img.freepik.com/free-vector/human-blood-donate-white-background_1308-111266.jpg?t=st=1717524097~exp=1717527697~hmac=831c4ed2235af231eee9c5956769e375c53867d6b9831d739aa33a032f4c2d86&w=740",
-            "description": "Nyekwara onye ga-adịgide nke ahụ mgbanwe na ọdịkarị. Na njikwa mmadụ na ihe dị ịzụ, mgbanwe na ọdịkarị ọdịnka nke ahụ ga-eji nwere ike.",
-            "content": "Nyekwara onye ga-adịgide nke ahụ mgbanwe na ọdịkarị. Na njikwa mmadụ na ihe dị ịzụ, mgbanwe na ọdịkarị ọdịnka nke ahụ ga-eji nwere ike."
+            "description": "Chọpụta onye nwere ike ịnye ọbara tupu oge eruo. N'ọnọdụ mberede, ịnwe onye enye ọbara na-adị njikere nwere ike ịzọ ndụ.",
+            "content": "N'ọnọdụ mberede, gbanwee onye ga-enye ọbara dị mkpa n'ọhụụ. Chọta onye nwere ọbara dị na gị tupu oge eruo na-eme ka ọ bụrụ ihe dị mkpa. Ọ nwere ike ịzọ oge dị mkpa n'ịchọta ọbara ma ọ bụrụ na enwere mkpa."
           },
           {
             "id": 14,
-            "title": "Ihe Nkiri A Nwere Ese",
-            "topic_img": "https://img.freepik.com/free-photo/box_53876-65526.jpg?t=st=1717524141~exp=1717527741~hmac=4c0c67298aae43035b4119ff005d4a32795c71efac49fac865a000eea4638af5&w=740",
-            "description": "Tụtụrụ ihe ndị nwere ọrụ n'agba a, n'ụbọchị, ka ọ na-ahazi ihe ọ ga-enye mma maka ọrụ ụmụna na arụ ụmụna gị. Ọ dị ka ngwọ.",
-            "content": "Tụtụrụ ihe ndị nwere ọrụ n'agba a, n'ụbọchị, ka ọ na-ahazi ihe ọ ga-enye mma maka ọrụ ụmụna na arụ ụmụna gị. Ọ dị ka ngwọ."
+            "title": "Ụdị ndị Ọrụ",
+            "topic_img": "https://img.freepik.com/premium-photo/worker-carrying-box-package-cart-delivering-parcel-laptop-online-warehouse-transportation-shipping-warehouse-logistic-handling-supply-chain-logistic-sorting-good-distribution-delivery_551251-1252.jpg?w=740",
+            "description": "Bido atụmatụ ịtụpụta ndị ọrụ na-arụ ọrụ aka n'oge ime. Ụdị ndị ọrụ ndị a ga-ahụ maka ahụike gị na mgbakwunye na ọtụtụ ọrụ ndị ọzọ.",
+            "content": "Bido usoro maka ndị ọrụ na-arụ ọrụ aka, nke na-ekpuchi ndị na-elekọta gị ma ọ bụ ọbụna ndị ọrụ nka dị mkpa maka mmegharị ahụike na ịzụlite ụgwọ ọrụ."
           }
         ]
       }
     }
-  ]
+  ],
+
+  "pregnancyTitle": "Ụgwọ Mmasị",
+  "pregnancyCalculatorDescription": "Ụgwọ kachasị elu",
+  "pregnancyCalculatorText": "Maka ịdị mma nke ime dị na ịmụ, ọ bara uru ịma otú ogologo ime ahụ dị.",
+  "pregnancyCalculatorSide": "Ụgwọ ime bụ ihe bara uru maka ụmụ nwanyị nwere ime nke na-enye ozi dị mkpa ma na-enyere gị aka ịgbaso ihe dị mkpa n'ime ime ahụ. Tinye ụbọchị mgbe ọzụzụ gị nke ikpeazụ malitere. Ọ bụrụ na ị nweghị ike icheta ụbọchị ahụ, cheta omume ọ bụla nke mere n'oge ahụ iji mee ka ị nwee nke kacha mma nke ụbọchị ahụ. Ọ bụrụ na ị nweghị ike igosi n'ụzọ ziri ezi, Ụgwọ ime nwere ike ọ gaghị akọwa nke ọma otú ogologo ime gị dị. Ọzọkwa, ọ bụrụ na oge dị n'etiti ọzụzụ gị na-adị iche iche, Ụgwọ ime nwere ike ọ gaghị akọwa nke ọma ogologo oge ime ahụ dị. Ya mere, ị ga-achọ ịga na ndị nwere nkà na-eme ọmụmụ iji nyere gị aka.",
+  "pregnancyInfo": "Ọ bụrụ na ị maara ụbọchị nke ikpeazụ ị malitere: pịa na ụbọchị ahụ.",
+  "pregnancyAD": "Tọọ ụbọchị ịhazi oge ime",
+  "pregnancyADInfo": "Tọọ ụbọchị ịhazi oge ka ị nweta ncheta banyere ụbọchị ịga-eme",
+  "title": "Aha",
+  "titleInput": "Tinye aha oge ahụ",
+  "details": "Nkowa",
+  "detailsInput": "Tinye nkọwa nke oge ahụ",
+  "saveDate": "Chekwaa ụbọchị",
+  "weeks": "izu",
+  "and": "na",
+  "days": "ụbọchị",
+  "pregnancyEarly": "Ị nọ n'ọkwa mbụ nke ime: {{durationString}}.",
+  "pregnancyFirstTrimester": "Ị nọ n'oge mbụ nke ime: {{durationString}}.",
+  "pregnancySecondTrimester": "Ị nọ n'oge nke abụọ nke ime: {{durationString}}.",
+  "pregnancyThirdTrimester": "Ị nọ n'oge nke atọ nke ime: {{durationString}}.",
+  "pregnancyOverdue": "Ị mere ogologo oge: {{durationString}}."
 }

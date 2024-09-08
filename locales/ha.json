@@ -8,258 +8,254 @@
   "mainTopics": [
     {
       "id": 1,
-      "title": "Ciki",
+      "title": "Juna",
       "topic_img": "https://img.freepik.com/free-photo/medium-shot-happy-parents-be_23-2151446095.jpg?t=st=1716893006~exp=1716896606~hmac=b7b5cf53c7adf68cf21bece8021635c06100b232177d1c22532384ec204041ef&w=740",
-      "description": "Gano hanya ta ciki, daga haihuwa zuwa haihuwar jarirai.",
+      "description": "Fahimtar tafiyar juna, daga haifuwa zuwa haihuwa.",
       "content": {
-        "intro": "Ciki wani babban tafiya ne wanda ke kunshe da canje-canje da yawa na jiki da na zuciya. Wannan lokaci yana haifar da samun juna biyu da ci gaban jarirai a cikin mahaifar uwa.",
+        "intro": "Juna tafiya ce mai ban mamaki wacce ke dauke da canje-canje da dama na jiki da na hankali. Wannan lokacin yana dauke da girma da ci gaban jariri a cikin mahaifa.",
         "details": [
-          "Ciki ya kasu kashi uku, kowanne daga cikin su yana da nasa canje-canje da matsaloli na musamman.",
-          "Ziyarar lafiyar kai tsaye suna da mahimmanci don tabbatar da lafiya mai kyau. Wannan ya hada da ziyarar likita, gwaje-gwaje na yau da kullun da kuma hanyoyin kare kai daga cututtuka.",
-          "A cikin kashi na farko, mata da yawa suna fuskantar jin dadi da ra'ayin ciki. Dole ne a kula da abinci mai gina jiki da kuma jin dadi a wannan lokaci.",
-          "A cikin kashi na biyu, mata da yawa suna fara samun jin motsin jariri a cikin ciki. A wannan lokaci, ya kamata a gudanar da gwaje-gwaje don tabbatar da lafiya da kuma lafiyar jariri.",
-          "A cikin kashi na uku, jariri yana girma sosai kuma uwa na iya fuskantar rashin jin dadi saboda nauyin ciki. Kula da cin abinci, shakatawa da kuma motsa jiki na iya taimakawa wajen rage matsaloli.",
-          "Ciki yana tasiri akan tunani. Cutar damuwa da canje-canje na jiki suna iya haifar da damuwa, kuma yana da mahimmanci kada a yi watsi da wannan. Shawarar likita ko kwararru na iya taimakawa wajen magance damuwa.",
-          "Uwar mai ciki tana bukatar taimako daban-daban yayin tafiya ta cikin ciki. Shawara daga dangi da abokai suna iya zama taimako wajen gudanar da wannan lokaci."
+          "Juna na daukar kimanin makonni 40, wanda aka raba zuwa kashi uku na trimester. Kowanne kashi yana kawo ci gaba da kalubale na musamman.",
+          "Alamomin gama-gari a lokacin trimester na farko sun hada da jin nauyi, gajiya, da sha'awa. Yana da muhimmanci a kiyaye abinci mai kyau da kuma shan ruwa sosai.",
+          "Kulawar prenatal ta yau da kullum tana da matukar muhimmanci don duba lafiyar uwa da jariri. Wannan yana dauke da ziyartar likita a jadawalin lokaci, yin ultra sound, da gwaje-gwajen jini.",
+          "A lokacin trimester na biyu, mata da dama suna samun karin kuzari da kuma raguwar tashin hankali. Lokaci ne mai kyau don fara motsa jiki na prenatal kamar tafiya ko iyo, wanda zai iya taimakawa wajen sarrafa karuwar nauyi da kuma shirya jiki don haihuwa.",
+          "A cikin trimester na uku, jariri yana girma da sauri, kuma uwa na iya jin rashin jin dadi saboda girman jaririn. Hutu mai kyau, yoga na prenatal, da cin abinci a kankanin lokaci na iya taimakawa wajen sarrafa wadannan rashin jin dadin.",
+          "Juna kuma yana dauke da canje-canjen hankali. Canje-canjen hormone na iya haifar da canjin yanayi, kuma yana da muhimmanci a yi magana da abokin tarayya da neman tallafi daga abokai da dangi.",
+          "Shirya don haihuwa yana dauke da halartar darussan prenatal, ƙirƙirar shirin haihuwa, da tattaunawa kan zaɓuɓɓukan sarrafa zafi tare da likitanku. Hakanan lokaci ne mai kyau don shirya jaka ta asibiti da kuma tsara wanda zai dauke ku zuwa asibiti lokacin da haihuwa ta fara."
         ],
         "subtopics": [
           {
             "id": 1,
-            "title": "Abinci Mai Gina Jiki a Ciki",
-            "topic_img": "https://img.freepik.com/free-photo/healthy-pregnancy-food_53876-74335.jpg",
-            "description": "Cin abinci mai gina jiki domin lafiya da jariri.",
-            "content": "Cin abinci mai kyau yana da matukar muhimmanci wajen tabbatar da lafiyar uwa da kuma ci gaban jariri. Ana ba da shawarar cin kayan lambu, 'ya'yan itatuwa, hatsi da nama mai kyau. Ya kamata a guje wa abinci mai yawan sukari da mai. Cin abinci mai kyau zai taimaka wajen rage jin yunwa da kuma kula da lafiyar jiki da na jariri."
+            "title": "Abinci Yayin Juna",
+            "topic_img": "https://img.freepik.com/free-photo/front-view-pregnant-woman-eating-salad_23-2148302044.jpg?t=st=1718446334~exp=1718449934~hmac=edf04224d089afe80bf68bbca5167f298220aa3d0caabeaf60b438b6fb22235d&w=826",
+            "description": "Cin abinci mai kyau don tallafawa lafiyar uwa da jariri.",
+            "content": "Abinci mai kyau yana da matukar muhimmanci yayin juna don tallafawa girma da ci gaban jariri da kuma kiyaye lafiyar uwa. Mayar da hankali kan abinci mai wadatar 'ya'yan itace, kayan lambu, hatsi, nama mai kyau, da kayan madara. Mahimman abubuwan gina jiki sun hada da folic acid, iron, calcium, da omega-3 fatty acids. Guji wasu abinci kamar kifi raw, madara mara pasteurize, da yawan caffeine. Shan ruwa sosai yana da muhimmanci. Vitamin prenatal na iya taimakawa wajen cike gibin gina jiki."
           },
           {
             "id": 2,
-            "title": "Hanyoyin Lafiya da Shakatawa",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-doing-yoga-exercise_53876-138232.jpg",
-            "description": "Shirya wa tafiya cikin ciki da kula da lafiya.",
-            "content": "Hanyoyin shakatawa suna taimakawa wajen rage damuwa da kuma jin dadi yayin ciki. Yin motsa jiki na laushi kamar yoga na cikin ciki na iya taimakawa wajen rage ciwo da damuwa. Ya kamata a guje wa motsa jiki mai tsauri da kuma gudanar da motsa jiki a hankali. Ana ba da shawarar cewa mata su gudanar da ayyukan da suke jin dadi da kuma rage damuwa."
+            "title": "Motsa Jiki da Lafiya",
+            "topic_img": "https://img.freepik.com/free-vector/training-home-concept_23-2148500626.jpg?t=st=1718446580~exp=1718450180~hmac=69c77be46b3ecc9c8e2ba928f1b4693548a72db3b657fc9ef12e67d2812dd77e&w=740",
+            "description": "Kiyaye aiki da lafiya throughout juna.",
+            "content": "Motsa jiki na yau da kullum yayin juna na iya taimakawa wajen sarrafa karuwar nauyi, rage damuwa, da kuma shirya jiki don haihuwa. Motsa jiki da suka dace sun hada da tafiya, iyo, da yoga na prenatal. Yana da muhimmanci a saurari jikinka da kuma guje wa ayyuka da ke dauke da tasiri mai girma, hadarin faɗuwa, ko nauyi mai yawa. Koyaushe tuntubi likitanka kafin fara sabon tsarin motsa jiki. Kasancewa mai aiki kuma na iya taimakawa wajen saukaka rashin jin dadi gama-gari kamar ciwon baya da kumbura."
           },
           {
             "id": 3,
-            "title": "Canje-canje na Jiki da Zuciya",
-            "topic_img": "https://img.freepik.com/free-photo/happy-pregnant-woman-touching-belly-home_53876-129584.jpg",
-            "description": "Kula da tunani da lafiyar zuciya a cikin ciki.",
-            "content": "Ciki yana kawo canje-canje da yawa a jiki da kuma tunani. Mata suna iya jin damuwa, damuwa da kuma canje-canje na zuciya. Yana da mahimmanci a samu goyon bayan iyali da abokai. Yin tafiya, sauraron waƙoƙi da kuma yin magana da abokai suna iya taimakawa wajen rage damuwa. Shawarar likita kuma na iya zama taimako wajen gudanar da damuwa da canje-canje na jiki."
+            "title": "Lafiyar Hankali",
+            "topic_img": "https://img.freepik.com/free-photo/surprised-greatful-attractive-tender-african-american-woman-trendy-brown-t-shirt-holding-hands-heart-smiling-broadly-from-amazement-joy-happy-receive-award-gray-wall_176420-23261.jpg?t=st=1718447380~exp=1718450980~hmac=d2a698e130a4a2487e48e1c7cfc8783a5e5f02e4d80f3057795760d153196446&w=826",
+            "description": "Gudanar da canje-canjen hankali da lafiyar kwakwalwa yayin juna.",
+            "content": "Juna na iya kawo canje-canjen hankali sosai sakamakon canje-canjen hormone. Yana da al'ada a samu rarrabewar yanayi, daga farin ciki da annashuwa zuwa damuwa da canje-canjen yanayi. Kiyaye magana da abokin tarayya da neman tallafi daga abokai da dangi na iya zama da amfani. Ayyukan kamar mindfulness, meditation, da yoga na prenatal na iya taimakawa wajen sarrafa damuwa da inganta lafiyar hankali. Kada ku yi jinkiri wajen neman taimakon kwararre idan kuna fuskantar damuwa mai tsanani ko kuma ta daɗe."
           },
           {
             "id": 4,
-            "title": "Kulawar Lafiya Mai Kyau",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-checking-her-belly_53876-14438.jpg",
-            "description": "Mahimmancin kula da lafiya da gudanar da gwaje-gwaje.",
-            "content": "Kulawar lafiya mai kyau yana taimakawa wajen tabbatar da lafiyar uwa da kuma jariri. Ziyarar kai tsaye zuwa asibiti, gwaje-gwaje na yau da kullun da kuma shawarwarin likita suna da muhimmanci. Yana da mahimmanci a kula da abubuwan da suke da alaka da lafiyar ciki kamar yadda likitoci suka bayar da shawara. Yin la'akari da kowane irin matsalolin lafiya da kuma shan magani idan ya zama dole."
+            "title": "Kulawar Prenatal",
+            "topic_img": "https://img.freepik.com/free-photo/medium-shot-father-tickling-girl_23-2150275587.jpg?t=st=1718447760~exp=1718451360~hmac=51856729c2a40c255aba60dc54012efc8b9c6f090534fd3777c7c84f47ba98d9&w=826",
+            "description": "Muhimmancin duba lafiya na yau da kullum da gwaje-gwaje.",
+            "content": "Kulawar prenatal ta yau da kullum tana da matukar muhimmanci don duba lafiyar uwa da jariri da ke ci gaba. Wannan yana dauke da ziyartar likita don duba lafiya, yin ultra sound, da gwaje-gwajen da suka dace. Kulawar prenatal na taimakawa wajen gano da sarrafa matsaloli da za su iya tasowa da wuri. Likitanku zai bayar da shawarwari kan sarrafa alamomin, abinci, da lafiyar gabaɗaya. Yana da muhimmanci a halarci dukkanin jadawalin alƙawura da kuma bin shawarar likitan ku."
           },
           {
             "id": 5,
             "title": "Shirye-shiryen Haihuwa",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-holding-her-belly-while-sitting_53876-146510.jpg",
-            "description": "Shirye-shirye domin tafiya cikin ciki da haihuwa.",
-            "content": "Shirya wa haihuwa yana bukatar lokaci da kuma shiri mai kyau. Yana da mahimmanci a gudanar da shawarwari tare da likita da kuma kula da abubuwan da suke da alaka da lafiyar uwa da jariri. Shirya wa abubuwan da ke zuwa bayan haihuwa kuma yana da mahimmanci. Ya kamata uwa ta yi la'akari da yadda za ta kula da jariri da kuma abubuwan da ke da alaka da kula da jariri bayan haihuwa."
+            "topic_img": "https://img.freepik.com/free-photo/daughter-father-reading-book-together_23-2148982018.jpg?t=st=1718447852~exp=1718451452~hmac=8f7c7afb27f12daac2a107c5f718a09a0891de41365339dfa07525b4da8a16d6&w=826",
+            "description": "Shirya don haihuwa da kuma haihuwa.",
+            "content": "Shirye-shiryen haihuwa yana dauke da matakai da dama, ciki har da ƙirƙirar shirin haihuwa, halartar darussan prenatal, da tattaunawa kan zaɓuɓɓukan sarrafa zafi tare da likitan ku. Hakanan yana da muhimmanci a shirya jaka ta asibiti tare da abubuwan da suka hada da tufafi masu kyau, kayan shafa, da abubuwa don jariri. Tsara hanyoyin zuwa asibiti da kuma samun wanda zai tare ku yayin haihuwa na iya taimakawa wajen rage damuwa. Sanya hakuri da kuma kasancewa da shirye-shiryen duka zasu taimaka wajen sanya haihuwa ya zama mai sauƙi."
           }
         ]
       }
     },
     {
       "id": 2,
-      "title": "Geburt",
+      "title": "Farkon",
       "topic_img": "https://img.freepik.com/free-photo/portrait-mother-with-newborn-baby_23-2151055033.jpg?t=st=1716893171~exp=1716896771~hmac=20352121ae714f785024ac29dfb85ff7b060ede9697444d58f191d92134ab5a6&w=826",
-      "description": "Bayanin yadda ake yin gyara, matsayin jiki, da kuma ake kira a kan kafin an kira.",
+      "description": "Tsari da matakai na haihuwa, da abin da za a iya tsammani yayin haihuwa.",
       "content": {
-        "intro": "Geburt (Gyara) yana da kwarewar da ake ciki a matsayin yadda wani jiki ya shigo daga kanawar yarinya zuwa wadatake. Wannan shine mafita da ke fuskantar jiki ta tarihi.",
+        "intro": "Haihuwa shine tsari na haihuwar jariri, wanda ya hada da aikin haihuwa da haihuwa. Wannan wani muhimmin kwarewa ne wanda zai canza rayuwar iyaye.",
         "details": [
-          "Akarsu ya watsar da uku: akarsa ya canza, akarsa a kan-wani-kan, da kuma yin yin baki na abinci mai suna. Sakamakon kwarewar kowace lokacin ya samar da ayyukan mai tsanani da tsanani.",
-          "Akarsa ya samu akwatin cikin wani-kan kuma yanayin shigarwa na jikin yarinya ya watsar da jiki cikin cikin kana. Wannan lokaci za a iya yin matsala don ya samar da akarsa.",
-          "Lokaci na biyu na kwarewar ita na tayar da jiki na yarinya ya kasance mata da jiki na kuma. Kamar wani hanyar da ake zura ko a amfani da yunwa ko fada ne, idan kuma ake iya samun magungunan kwayar jiki.",
-          "Gwargwado na biyu na kwarewar ita na dawo da matsayin kwayar jiki a kan kafin ya dawo. Kamar yadda mai magana mai ban dariya ya ba mu damar kwararrewa a cikin lokaci na dawo. Saurari wani layin da za'a iya yin magunguna don yin baki.",
-          "Akarsu na uku na kwarewar ita na tafiyar da kwayar jiki. Wannan ita ce ake ba da za a kasance kusa da 30 munit. Za a buɗe da mata da jiki ne su na iya yin hakan.",
-          "Hadin kai bayan gobe da wuri da ke karewa daga daidai da matsayin ƙaramin matsala ko ƙwaƙwalwar kwayar jiki da yake. Saboda haka, za a yi mai magana da kwayar jiki da zamantakewar abin mamaki."
+          "Aikin haihuwa yana da sassa uku: aikin haihuwa, aikin haihuwa, da tsarin haihuwa. Sanin kowanne daga cikinsu zai taimaka maka ka fahimci abin da za a iya tsammani.",
+          "Aikin haihuwa yana nufin jiyya da kariya. Wannan yanayin na iya ci gaba na tsawon sa'o'i ko kwanaki. Yana da muhimmanci ka kasance da kwanciyar hankali, ka huta, kuma ka sha ruwa sosai. Wasu ayyuka kamar tafiya na iya taimaka maka wajen kasancewa cikin koshin lafiya.",
+          "Aikin haihuwa shine lokacin da dakin haihuwa ya yi zurfi kuma yana girma. Wannan yanayin yana nufin daga 6 zuwa 10 centimeters. Za'a iya bayar da zaɓuɓɓukan magani na zafi, kamar epidurals ko magunguna, a wannan lokacin. Wannan yanayin yana buƙatar tsari da yin amfani da stool ko matsayi don taimaka maka.",
+          "Tsarin haihuwa shine lokacin da jariri ya fito. Yana da muhimmanci ka bi shawarar likita ka kuma kasance a cikin koshin lafiya. Aikin haihuwa yana da sassa uku, yana nufin ta hanyar ko kuma ta amfani da stool, don taimaka maka a lokacin haihuwa.",
+          "Tsarin haihuwa shine aikin haihuwa, wanda ya faru lokacin da jariri ya fito da kuma kulawa ta gaba. Yana da mahimmanci a yi shirin haihuwa, ko kuma a yi amfani da hanya don samun kulawa. Yana da muhimmanci ka samu kulawa ta gaba, ko kuma a yi shirin kulawa da lafiya.",
+          "Yana da muhimmanci ka samu kulawa ta gaba, ko kuma shirin kulawa a aiki na musamman."
         ],
         "subtopics": [
           {
             "id": 6,
-            "title": "Abubuwan da ke faruwa a lokacin gyara",
-            "topic_img": "https://img.freepik.com/free-photo/doctor-explaining-pregnancy-check-up-report-while-consulting-young-expectant-woman_1262-16689.jpg",
-            "description": "Yadda ake fahimtar abubuwan da ke faruwa a lokacin gyara da kuma abinda ake ganin da za a samu.",
-            "content": "Gyara ta yi uku kamar yadda kwarewarta ta ci gaba da gudanar da ita ta ke gudana. Gyaran kyakkyawan lokaci ne ya sabunta da lokaci ko kuma kwana biyu ko kuma gaba. Mafi girma shine guraren sha'awar kyakkyawa, yanayin fushi, da kuma jinyar da kuma ɗanɗanatu na kafa. Koyaushe za a iya nuna taimako da al'amura na mai yiwuwa da kuma sadarwar matsalar jiki ta gyara. Gyaran hali mai sanyi tsakanin lokaci ne ya hanyar samun abinci."
+            "title": "Nau'in Aiki",
+            "topic_img": "https://img.freepik.com/free-photo/obstetrics-medical-team-delivering-baby-woman_482257-13970.jpg?t=st=1718448362~exp=1718451962~hmac=5e1f6a27fdc9d02d87a4b503c8cb0f69323f5ad92252c45ba5644794ac0b6bac&w=826",
+            "description": "Sanin nau'in aikin da abin da za a iya tsammani.",
+            "content": "Aikin haihuwa yana da sassa uku: aikin haihuwa, aikin haihuwa, da tsarin haihuwa. Aikin haihuwa yana nufin jiyya da kulawa. Wannan yanayin na iya ci gaba na tsawon sa'o'i ko kwanaki da kuma lafiyarka. Yana da muhimmanci ka kasance da kwanciyar hankali kuma ka sha ruwa sosai. Wasu ayyuka kamar tafiya na iya taimaka maka wajen kasancewa cikin koshin lafiya.",
+            "details": "Aikin haihuwa shine lokacin da dakin haihuwa ya yi zurfi da siffa. Wannan yanayin yana nufin daga 6 zuwa 10 centimeters. Za'a iya bayar da zaɓuɓɓukan magani na zafi, kamar epidurals ko magunguna, a wannan lokacin. Tsarin haihuwa yana buƙatar tsari da yin amfani da stool ko matsayi don taimaka maka."
           },
           {
             "id": 7,
-            "title": "Hanyar hadin kai da dafe",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-having-regular-checkup-with-doctor_23-2148379329.jpg",
-            "description": "Abubuwan da za a iya yin don kafa kwararri a lokacin gyara da dafe.",
-            "content": "Hanyar hadin kai da dafe zai iya dogara a yau da kullum. Hanyar dafe na farko shine gyaran farashin jiki mai ban dariya da kwakwalwata da kayan jini, wanda ya taimaka ga gyara ta bayyana. Hanyar hadin kai na biyu ya hada da matsaloli na gurbata masu kwakwalwata, wanda za a iya amfani da wani bayyana ko an kuma ba da dariya. Mai magana mai ban dariya yana da iko ga gyara kuma ya kare."
+            "title": "Tsarin Haihuwa",
+            "topic_img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-sonography-illustration_23-2149366316.jpg?t=st=1718448552~exp=1718452152~hmac=e52906d467b863c9a0292127469da313335a23b02c916304005b7db290669e5b&w=740",
+            "description": "Zaɓuɓɓuka don haihuwa yayin aikin haihuwa.",
+            "content": "Tsarin haihuwa yayin aikin haihuwa yana iya haɗawa da zaɓuɓɓuka da yawa. Zaɓuɓɓukan da ake da su don haihuwa sun haɗa da zaɓin magani da fahimtar sassa. Hydrotherapy, ko kuma jiyya cikin ruwa, zai iya taimaka maka. Zaɓuɓɓukan haihuwa na iya zama da sauki ko kuma magani na zafi. Zaɓuɓɓuka na ƙarin zaɓi sun haɗa da magani ko nitrous oxide. Yana da muhimmanci a tsara tsarin ka da kuma yin amfani da kayan aikin haihuwa na musamman."
           },
           {
             "id": 8,
-            "title": "Hanyoyi na kwarewar jiki",
-            "topic_img": "https://img.freepik.com/free-photo/midsection-pregnant-woman-having-regular-checkup-with-doctor_23-2148379332.jpg",
-            "description": "Abubuwan da za a iya yin don tsaye cikin lokaci na gyara.",
-            "content": "Hanyoyi na kwarewar jiki an iya ba mu damar kwarewarta ta farko, da ke biye, da kyau a lokacin gyara. A iya samun wata matsakaici da ke zura, wani matsalar da ke zaɓi, ko wani ya ɗauka ya samu. Kowane matsalar na da alhakin jin dadin baki na kansu ya iya amfani da ita a hankali."
+            "title": "Tsarin Haihuwa",
+            "topic_img": "https://th.bing.com/th/id/R.339cc52b5ae7e6f624c873a8377cd1c7?rik=tuArRE7DcegXpA&pid=ImgRaw&r=0",
+            "description": "Tsarin uku da zai iya taimaka maka wajen haihuwa.",
+            "content": "Tsarin haihuwa zai iya taimaka maka wajen haihuwa. Zaɓuɓɓuka kamar tsarin matsayi ko amfani da stool zai iya taimaka. Wannan yanayin yana buƙatar kayan aikin haihuwa da tsari na lafiya. Zaɓuɓɓukan haihuwa suna da nau'i da kuma tsarin da ya dace da haihuwa."
           },
           {
             "id": 9,
-            "title": "Bincike bayan gyara",
-            "topic_img": "https://img.freepik.com/free-photo/mother-baby-playing-bed_1157-19360.jpg",
-            "description": "Karin tabbatarwa ga kai da yarinya bayan gyara.",
-            "content": "Bincike bayan gyara na yawan ci gaba ga yarinya da kuma wani ya iya tunani. Gyaran kwana na farko zai dakatar da yanayin jikin yarinya, wanda zai taimaka ta har zuwa yana jiran rashin kwana na yarinya. Tunanin juna da hadaka bayan gyara an kuma yaki masa zaɓi da wasaɗi don a rinka gyaran gyaran ƙanwarsa."
-          },
-          {
-            "id": 10,
-            "title": "Cesarean Section",
-            "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-showing-ultrasound-scan-doctor_23-2148888593.jpg",
-            "description": "Fahimtar dan yatsun gyara da yadda ake ɗauka a lokacin gyara.",
-            "content": "Cesarean Section (C-section) shine wani abu mai yawa na gyara mai yawa da ake ɗauka. Yana da ɗabi'ar mamaki da aka samu da kyawawan matsalar a matsayin gyaran yarinya a matsayin gyaran yarinya. A matsayin C-section an iya gyara kyauta idan wani matsaloli ya tsinci, ko wani matsalar nasaɗiɗi ne don yarinya. Gyaran yadda ake ɗauka zai ɗauki kowace rufe ko musamman alakantar tsinci. Bayan gyara za a tabbatar da yadda ake ɗauka na aikin tattalin arziki da gyara na farko na gyara."
+            "title": "Tsarin Zaman Gaba",
+            "topic_img": "https://img.freepik.com/free-photo/single-mom-lying-couch-with-her-baby-son-covid19-lockdown_53876-98116.jpg?t=st=1718449084~exp=1718452684~hmac=49455bd2f0d9a38965de62ee155e504b1c8b99a1ceeabc57d44a8f66afc822d5&w=826",
+            "description": "Tsarin lokaci da zai taimaka maka wajen haihuwa.",
+            "content": "Tsarin lokaci yana da mahimmanci a ƙarshen haihuwa. A wannan lokacin, akwai wasu matakai da ake yin su, wanda zai baka damar samun lafiya da jin daɗi. Tsarin yana haɗa da dubawa da magani. Yana da muhimmanci ka lura da duba mai kyau da kuma samun tsari mai kyau. Tsarin da dubawa mai kyau zai taimaka maka wajen samun nasara."
           }
         ]
       }
     },
     {
       "id": 3,
-      "title": "Bayan Bikin Fitar Da Amsoshi",
+      "title": "Bayan Haihuwa",
       "topic_img": "https://img.freepik.com/free-photo/portrait-mother-with-newborn-baby_23-2151055102.jpg?t=st=1716893264~exp=1716896864~hmac=032ebce4a7d2f0706ab78031a75764e0b6eecca2cd4b5e4e041b9cb5fbe3b947&w=740",
-      "description": "Kwance bayan bikin fitar da amsoshi da kwarewarsa da rayuwar yaro.",
+      "description": "Lokacin bayan haihuwa da daidaita rayuwa tare da sabon jariri.",
       "content": {
-        "intro": "Wani lokaci bayan bikin fitar da amsoshi, wanda kuma ya fi sauran suna da amsoshi, ya shahara ne tare da jarrabawar da aka yi bayan bikin fitar da amsoshi kuma ya lura ka cikin rayuwar da kanka da yaro na zamani.",
+        "intro": "Lokacin bayan haihuwa, wanda aka fi sani da lokacin bayan haihuwa, yana dauke da manyan gyare-gyare yayin da kike murmure daga haihuwa da kuma daidaita rayuwa tare da sabon jaririnki.",
         "details": [
-          "Shekarun uku da uku bayan bikin fitar da amsoshi suna karamar hanyar. Wannan lokaci shi ne maigirma ya kasancewar da kwarewar sa da rayuwar yaro.",
-          "Fitarwa jiki zai sha, da kuma yin masu bikin amsoshi, da kuma taimakon anyi hanyar bikin fitar da amsoshi, da na dukkan nau'in tsanani ko kuskure. Saukin, amsoshi da kyautar aiyensa suna da alhakin lokaci ne a wannan lokaci.",
-          "Saukin halayen da suka faru, mutum yana da hanyar bikin amfani da 'yan matan suka samu wanda ke da juna masu kallo ga matsalar tsanani. Shin amfani da alhakin taimakon mu ya da kyau a jirgin sama da kuma da alama ko damar yin hadewa. Idan matsaloli na tsanani ko matsaloli na damar magancewar tsanani suka yi dadi, to za a buƙatar taimakawa mai amfani.",
-          "Fitar da amsoshi zai sa tsakiyar magancewar tsakanin miji da yaro, kuma zai sa tsakiyar fahimta. Yana da damar yin alhakin fitar da amsoshi ta kuma alhakin masu gyara matsalar game da abin tsari kamar matsalar lura, ko wani hanyar mai tsanani. Mai amfani mai amfani na rayuwa zai iya taimaka a kan bayyanin ga matsaloli, kuma zai iya tabbata abin da ya samu mafi girma a kan rayuwarsa. A samu sau ƙwarai, zai iya kawo alaka da mai kula da mu ko waɗannan mu ya yi waɗanda suke tsakaninmu cikin fitar da amsoshi.",
-          "Dogara dogara ya kasance da ƙwarewar aikin da ke ciki a wannan lokaci. Ko kuma tausayi ne mafi yawa, kasancewar abin da zai iya kawo alherin wani lokaci da amsoshi, da cikin maganin bikin aiki, da karatu, da amsoshi. Haka, karfin alhaki da wani sabon maƙala ga kayayyakin da aka yi waɗanda ke da yaro zai haɗa sauyin ayyuka."
+          "Makon farko guda shida bayan haihuwa ana daukarsa a matsayin lokacin bayan haihuwa. Wannan lokacin yana da mahimmanci ga murmurewar uwa da haɗaɗɗiyar zumunci da jariri.",
+          "Murmurewar jiki ta haɗa da warkar da duk wani rauni ko yanke, sarrafa zubar jini na bayan haihuwa, da kuma magance kowanne rashin jin daɗi ko zafi. Hutu, shan ruwa, da kuma abinci mai kyau suna da muhimmanci a wannan lokacin.",
+          "Canje-canjen yanayin zuciya suna da yawa, tare da yawa daga cikin sabbin uwargida suna fuskantar 'baby blues' saboda canjin hormone. Yana da muhimmanci a nemi goyon baya da kuma tattaunawa da mijinki da masoya. Idan jin zafi ko damuwa sun ci gaba, taimakon kwararru na iya zama dole.",
+          "Shayarwa na iya zama mai dadi amma mai wahala. Nemi jagora daga masu ba da shawara kan shayarwa da masu kula da lafiya don tabbatar da daidaito da magance kowanne matsaloli kamar wahalar latching ko yawan zafi a nono.",
+          "Kulawar sabon jariri ta haɗa da koyon yadda za a sarrafa jadawalin cin abinci, tsarin bacci, da sauya zane. Yana da muhimmanci a ƙirƙiri yanayi mai aminci da jin daɗi ga jaririn, ciki har da tsare-tsaren bacci da duba akai-akai tare da likitan yara.",
+          "Kulawar kai yana da mahimmanci a lokacin bayan haihuwa. Ka ɗauki lokaci don kanki, ko da kuwa yana ɗan tafiya, wanka mai sauƙi, ko hutu kawai. Kada ka yi jinkiri wajen neman taimako daga dangi da abokai.",
+          "Kafa tsarin lokaci na iya taimakawa wajen sarrafa buƙatun kulawa ga sabon jariri. Duk da cewa sassauci yana da muhimmanci, samun shiri na gabaɗaya don cin abinci, bacci, da ayyukan gida na iya bayar da jin daɗin dangi."
         ],
         "subtopics": [
           {
             "id": 11,
-            "title": "Ƙwarewarsa Da Fitarwa Jiki",
+            "title": "Murmurewar Jiki",
             "topic_img": "https://img.freepik.com/free-photo/newborn-baby-sleeping-basket_1157-18750.jpg",
-            "description": "Kwance da karewa bayan bikin fitarwa.",
-            "content": "Kwance bayan bikin fitarwa ya fi sauran suna da amsoshi yayin kowace mata, daga wuraren da za a iya aiki dashi da kwafi. Fitacciyar jiki bisa 'yan birni ko marasa hasashen lura, ko kuma tsanani mai masifar shi. Amsoshi da kyautar aiyensa, ko lochia, zai iya sha ɗaya kuma zai rabawa wurin daya da ya ke. Saukin kwanciyar shara, kamar kyau ko wani sabon na masa, za a iya taimaka da kwancewa. Maganar sauƙin jikin, kamar duk sunanka, ko gyaran kibi, zai iya taimaka ga gaskiya da masu kallo. Fitowa mai ƙarfin dogaro, kamar halin da ya sanya kowane, za a iya taimaka ga kwafa da sunayen tsanani. Haka zai iya daga kan tsarin da kake amfani da masa hankali da ayyuka ta tsakiya. Wannan sanyi ne yana da alhakin karuwa akan yanayin marasa."
+            "description": "Warkar da samun ƙarfi bayan haihuwa.",
+            "content": "Murmurewar jiki bayan haihuwa tana bambanta ga kowace mata, dangane da abubuwa kamar nau'in haihuwa da kowanne matsala. Haihuwa ta hanyar farji na iya haɗawa da warkar da rauni ko episiotomy, yayin da yanke ta hanyar cesarean ke buƙatar kulawa ga wurin yanke. Zubar jini na bayan haihuwa, ko lochia, na iya ɗaukar makonni da yawa kuma yana raguwa a hankali. Sarrafa rashin jin daɗi, kamar zafi na perineal ko jijiya na mahaifa, na iya taimakawa ta hanyar magungunan da ake sayarwa a kanti da magungunan gida kamar sitz baths. Yana da muhimmanci a huta yadda ya kamata, a rika shan ruwa, da kuma ci daidai don tallafa wa murmurewa. Wasu motsa jiki, kamar tafiya ko motsa jiki na floor pelvic, na iya taimakawa wajen dawo da ƙarfi da motsi. Kullum bi shawarar likitan lafiya da kuma halartar duba bayan haihuwa don duba murmurewarki."
           },
           {
             "id": 12,
-            "title": "Kwance da Jiki",
+            "title": "Lafiyar Zuciya",
             "topic_img": "https://img.freepik.com/free-photo/happy-mother-baby-son-playing-bed_1157-18672.jpg",
-            "description": "Kwance da alhakin halaye da koyarwar jiki bayan bikin fitarwa.",
-            "content": "Bayan bikin fitar da amsoshi zai haɗa sauran suna da amsoshi, domin lafiya, kashi da wannan suna, da hanyar karuwa na ƙirar yaro. Wannan lokaci kuma yana da damar karuwa ga 'yan matan 'ya'yan, wanda ke da tsorata, kuma suna da hisabi na karewa ga wata yaro. Amma, idan matsaloli na tsanani ko matsaloli na damar magancewa ya kai tsakanin matan a zamanin daya, to za'a buƙatar taimakawa mai amfani. Shiga takarda daga kwanon wata jami'in abinci ko jami'in sauki, da yawa da yawa zai iya taimaka ga kafa gida, ko kuma wani maƙala ga kayayyakin da ya yi waɗanda ke da yaro. Saukin da zaka iya masu, kamar yadda aka yi waɗanda ke da alaka, za a iya taimaka ga sauƙi."
+            "description": "Sarrafawa canje-canjen yanayin zuciya da lafiyar hankali bayan haihuwa.",
+            "content": "Lokacin bayan haihuwa na iya kawo canje-canjen yanayin zuciya daban-daban saboda canjin hormones, rashin bacci, da sabbin alhakin uwa. Yana da al'ada a fuskanci 'baby blues', wanda ke da alamun canjin yanayi, jin haushi, da kuma jin zafi. Wannan na yawanci yana wucewa cikin 'yan makonni. Duk da haka, idan jin zafi, damuwa, ko rasa fata ya ci gaba, zai iya nufin ciwon damuwa na bayan haihuwa, wanda ke buƙatar taimakon ƙwararru. Neman goyon baya daga mijinki, dangi, da abokai yana da matuƙar muhimmanci. Shiga ƙungiyar sabbin uwargida ko neman shawara na iya bayar da goyon baya na zuciya. Ayyukan kulawa, kamar ɗaukar hutu, shiga cikin abubuwan da kake jin daɗi, da kuma tabbatar da isasshen hutu, na iya taimakawa wajen sarrafa lafiyar zuciya."
           },
           {
             "id": 13,
-            "title": "Amsoshin Jiki",
+            "title": "Shayarwa",
             "topic_img": "https://img.freepik.com/free-photo/mother-breastfeeding-her-baby_1157-20452.jpg",
-            "description": "Alhakin halaye da taimakon sauƙin amsoshi da la'akari ga amsoshi.",
-            "content": "Amsoshi ya haɗa sauran suna da amsoshi ga mata da yaro, wanda kuma ke masu ɗaya na kyauta kuma ya kasancewa da gyara. Amma, zai iya kasance da matsala, kuma ko wani masifa. Ayyukan ƙwallon iyaye za su iya taimaka ga sauƙi da taimako. Fitar da bayanin na fitar da amsoshi wanda ya kafa ga kowane kamar kafin amma da kai wanda zai iya yin maɓallin kai. Saukin tsafi, yin mafi girma ɗin kayan abinci, da kuma harkokin kyauta zai iya taimaka ga sauƙin talla. Idan za'a ga matsalar, to kada kace taimako daga masu karuwa ko jami'in gwiwar dauke da amsoshi."
+            "description": "Jagora da goyon baya don shayarwa mai nasara.",
+            "content": "Shayarwa tana bayar da fa'ida da yawa ga uwa da jariri, ciki har da bayar da abubuwan gina jiki masu muhimmanci da kuma ƙarfafa haɗin kai. Duk da haka, yana iya zama kalubale, musamman ga sabbin uwargida. Daidaita hanyar latching yana da muhimmanci don guje wa matsaloli kamar zafi a nono da tabbatar da isasshen watsawar madara. Masu ba da shawara kan shayarwa na iya bayar da jagora da goyon baya masu amfani. Kafa jadawalin cin abinci wanda zai yi aiki ga kanki da jaririnki yana da muhimmanci. Hakanan yana da amfani don koyan game da wurare daban-daban na shayarwa da gano abin da ya fi dacewa da kai. Shan ruwa, ci abinci mai gina jiki, da kuma tabbatar da hutu mai kyau na iya tallafa wa samar da madara. Idan ka fuskanci wahalhalu, kada ka yi jinkiri wajen neman taimako daga masu kula da lafiya ko ƙungiyoyin goyon bayan shayarwa."
           },
           {
             "id": 14,
-            "title": "Kwance da Yaro",
+            "title": "Kulawar Sabon Jariri",
             "topic_img": "https://img.freepik.com/free-photo/newborn-baby-sleeping_1157-18777.jpg",
-            "description": "Alhakin alfanuwan yaro da kyautar abinci.",
-            "content": "Alfanuwan yaro zai haɗa sauran suna da amsoshi, don sarrafa halitta da alfanun abincin yaro da kyautar rafi. Fitarwa da nau'i na gudanar da rai na yaro shine mafi girma. Alfanun yaro mara shiga ya dace sosai da ƙaramar, kuma suka shiga sosai kai ga fitarwa. Amsoshi yana da damar karuwa ga gyara kyautar rafi, kamar kai na tsakiya kan bakin wata matsalar. Yawa suna da alhakin kwafa, kuma suke taimaka ga rahoton haduwa da zama. Kariya mai kallo a kan kula da amsoshi ne mafi ƙwarewa kan ƙwarewarka."
+            "description": "Kulawa da lafiya da jin daɗin sabon jariri.",
+            "content": "Kulawar sabon jariri tana nufin cika bukatun asali na jariri, ciki har da cin abinci, bacci, da sauya zane. Fahimtar alamun yunwa na jariri da kafa jadawalin cin abinci yana da muhimmanci. Sabbin jarirai suna bacci cikin lokuta ƙanƙani da kuma farkawa akai-akai don cin abinci. Tabbatar da tsare-tsaren bacci na aminci, kamar sanya jaririn a bayan sa a cikin gado ba tare da katifu masu laushi ba, yana da mahimmanci. Sauya zane akai-akai da tsaftacewa na iya hana rashin fata. Sabbin jarirai suna bukatar kulawa mai laushi da goyon bayan kai da wuyan su. Duba likitan yara akai-akai yana da mahimmanci don duba ci gaba da ci gaban jaririn, kuma rigakafi na taimaka wajen kare jaririn daga cututtuka. Ƙirƙirar yanayi mai nutsuwa da kulawa na iya taimaka wa jaririn jin daɗi da kuma inganta ci gaba mai lafiya."
           },
           {
             "id": 15,
-            "title": "Alhakin Halaye",
+            "title": "Kulawar Kai",
             "topic_img": "https://img.freepik.com/free-photo/mother-baby-bed_1157-19430.jpg",
-            "description": "Kwance da jiki bayan bikin fitarwa.",
-            "content": "Kwance bayan bikin fitar da amsoshi na farko ne, wanda kuma ya kara tsaye da dukkan wata yaro. Jarrabawar halaye daga waɗanda ke da alaka ne kawai, domin nuna ku tsarin da zaku iya gane na gurbinsu. Shiga wajen yara ko dalilin samar da gyaran kibi za a iya sauya da sauri kuma zai haɗa saura kayan alkhairi da abinci ga gurbinsu. Karfin gyara ko barwa ne mai sauƙi, kamar ɗaya da za'a kuma samu gurfanar taimako daga mai karatu da kowane. Lokacin haka za'a taimaka ga sarrafa alhakin ya iya kawo alherin daga kan ɗin juna ko alherin halayen jiki."
+            "description": "Kulawa da kanka a lokacin bayan haihuwa.",
+            "content": "Kulawar kai ana yawan watsi da ita amma tana da muhimmanci ga sabbin uwargida. Daukar lokaci don kanki, ko da kuwa yana da ƙananan hanya, na iya tasiri sosai ga lafiyarki. Karɓar taimako daga dangi da abokai na iya bayar da sauƙi da kuma ba ki damar hutu. Shiga cikin abubuwan da kake jin daɗi, kamar karatu, tafiya, ko yin hobi, na iya bayar da hutu na hankali. Tabbatar da abinci mai gina jiki, shan ruwa, da kuma hutu yana tallafawa murmurewa na jiki. Yana da muhimmanci a tattauna bukatunku da jihohinku da mijinku da kuma neman goyon baya idan kina fama. Ka tuna cewa kulawa da kanki ba kawai tana da fa'ida ga kanki ba amma kuma tana taimaka miki kulawa da jaririn ki."
           }
         ]
       }
     },
     {
       "id": 4,
-      "title": "Aikin Haihuwa",
+      "title": "Haihuwa",
       "topic_img": "https://img.freepik.com/free-photo/black-pregnant-women-posing_23-2151446148.jpg?t=st=1716894103~exp=1716897703~hmac=8e7ee396bb40d9e89d0f0523e4eb3d4933eb4b552f0bfc1ce9ca8bee6cbe2c98&w=996",
-      "description": "Fahimtar tsarin haihuwa da shirya don haihuwar jariri.",
+      "description": "Fahimtar tsarin haihuwa da shirya wa haihuwa.",
       "content": {
-        "intro": "Aikin haihuwa shine tsarin haihuwar jariri, wanda ya haɗa da fara naƙuda, buɗewar mahaifa, da haihuwar jariri. Kasancewa da masaniya da shiri na iya taimakawa wajen gudanar da wannan ƙalubale amma mai fa'ida.",
+        "intro": "Haihuwa shine tsarin haihuwar jariri, wanda ya ƙunshi farawar naƙuda, buɗewar ƙofar mahaifa, da haihuwar jariri. Sanin wannan tsarin da shiri mai kyau zai taimaka wajen sauƙaƙe wannan gagarumin kwarewa.",
         "details": [
-          "Aikin haihuwa yawanci ana raba shi zuwa matakai uku: farkon naƙuda, naƙuda mai ƙarfi, da cire furotin. Kowanne yana da halaye daban-daban kuma yana buƙatar dabarun gudanarwa daban-daban.",
-          "Farkon naƙuda yana ɗauke da fara naƙuda, wanda ke ƙaruwa a ƙarfin da kuma mita. Wannan matakin na iya ɗaukar sa'o'i da yawa ko ma kwanaki. Yana da mahimmanci a kasance cikin nutsuwa, huta, kuma a sha ruwa. Ayyukan sauƙaƙe kamar yawo na iya taimakawa aikin ci gaba.",
-          "Naƙuda mai ƙarfi yana da alama ta hanyar naƙuda mai ƙarfi da naƙuda mai yawa, kuma mahaifa tana buɗewa cikin sauri. Zaɓuɓɓukan sarrafa zafi, kamar epidurals ko hanyoyin numfashi, za a iya amfani da su a wannan matakin. Yana da mahimmanci a bi jagorancin mai kula da lafiyar ku.",
-          "Mataki na biyu na aikin haihuwa shine matakin turawa, inda jariri ke motsawa ta hanyar hanyar haihuwa kuma an haife shi. Mabanbanta matsayi na haihuwa na iya taimakawa cikin wannan tsarin. Bin jagorancin mai kula da lafiyar ku a wannan matakin yana da mahimmanci.",
-          "Mataki na uku yana haɗawa da cire furotin, wanda yawanci yana faruwa cikin mintuna 30 bayan an haifi jariri. Ana iya buƙatar turawa a hankali, kuma mai kula da lafiyar zai tabbatar da cewa an fitar da dukkan furotin don hana matsaloli.",
-          "Kulawar haihuwa nan da nan tana haɗawa da sa ido kan mahaifiya don duk wani alamar matsaloli, kamar yawan zubar jini ko kamuwa da cuta. Hakanan za a duba jaririn don tabbatar da cewa suna da lafiya. Ana ƙarfafa hulɗar fata-da-fata da fara shayarwa da wuri-wuri don haɓaka haɗin kai da kuma haifar da samar da madara.",
-          "Yana da mahimmanci a sami shirin haihuwa a wurin, amma kuma a kasance mai sassauci yayin da yanayi mara zato na iya tasowa. Yi sadarwa da mai kula da lafiyar ku game da abubuwan da kuke so kuma ku kasance a buɗe ga shawarwarinsu bisa yanayin."
+          "Haihuwa tana rarrabuwa zuwa matakai uku: naƙuda ta farko, naƙuda mai tsanani, da kuma haihuwar jariri da waje. Kowanne mataki yana da nasa sifofin musamman da kuma dabarun kula daban-daban.",
+          "Naƙuda ta farko tana fara da naƙuda, wanda zai ƙara tsanani da kuma tazara tsakanin matsewar mahaifa zai yi sauƙi. Wannan mataki na iya ɗaukar awanni ko ma kwanaki. Yana da mahimmanci a yi haƙuri, a huta, a sha ruwa mai yawa. Hanyoyi masu sauƙi kamar tafiya na iya taimakawa wajen ci gaba da naƙuda.",
+          "Naƙuda mai tsanani yana farawa ne lokacin da matsewar mahaifa ta ƙara tsanani kuma ƙofar mahaifa ta fara buɗewa da sauri. A wannan matakin, zabi na sarrafa zafi kamar yin allura ko hanyoyin numfashi na iya amfani. Yana da mahimmanci a bi umarnin likitan ku a wannan matakin.",
+          "Mataki na biyu na haihuwa shine lokacin da ake tura jariri ta cikin ƙofar mahaifa zuwa duniya. Motsawa zuwa matsayin haihuwa na iya taimakawa wajen sauƙaƙe wannan tsari. Bi umarnin likitanku a wannan lokacin yana da matuƙar mahimmanci.",
+          "Mataki na uku yana ƙunshe da haihuwar waje (placenta), wanda yawanci yana faruwa cikin mintuna 30 bayan haihuwar jariri. Ana iya buƙatar tura a hankali, kuma likitan ku zai tabbatar da cewa an fitar da dukkan waje don kauce wa kowanne matsala.",
+          "Kula bayan haihuwa yana ƙunshe da lura da uwa don gano duk wata matsala da ka iya tasowa, kamar zubar jini mai yawa ko kamuwa da cuta. Ana kuma duba jaririn nan da nan don tabbatar da lafiyarsa. Yin jikin da jikin da jariri da fara shayarwa da wuri-wuri yana taimakawa wajen ƙarfafa alaka da kuma haɓaka samar da nono.",
+          "Yana da mahimmanci a sami shirin haihuwa, amma kuma a kasance a shirye don sauya shirin idan yanayi ya sauya. Tattaunawa da likitanku game da zaɓinku yana da muhimmanci kuma ku kasance a bude don shawarar su dangane da halin da ake ciki."
         ],
         "subtopics": [
           {
             "id": 16,
-            "title": "Alamomin Aikin Haihuwa",
+            "title": "Alamomin Fara Naƙuda",
             "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-having-contractions_1157-19953.jpg",
-            "description": "Gane alamun cewa aikin haihuwa ya fara.",
-            "content": "Gane alamun aikin haihuwa na iya taimaka maka sanin lokacin da za ka tuntuɓi mai kula da lafiyar ka da kuma shiri don haihuwa. Alamomin da aka saba gani sun haɗa da naƙuda na yau da kullun wanda ke ƙaruwa a ƙarfin da kuma mita, ciwon baya ƙasa, da ƙaddamar da jini (ƙaddamarwar jini mai launin ruwan hoda). Warwatsewar membrane, ko fashewar ruwa, yana da alama cewa aikin haihuwa ya kusa. Yana da mahimmanci a lura da naƙuda don ƙayyade mitar da tsawonsu. Idan ka fuskanci kowane daga cikin waɗannan alamun, tuntuɓi mai kula da lafiyar ka don shawarwari kan lokacin zuwa asibiti ko cibiyar haihuwa."
+            "description": "Sanin alamomin fara naƙuda.",
+            "content": "Sanin alamomin fara naƙuda na iya taimaka muku gane lokacin da za a tuntuɓi likitanku da kuma shiryawa haihuwa. Alamomin da suka fi bayyana sun haɗa da naƙuda mai tsanani da ke ƙaruwa da lokaci, ciwon baya, da kuma fitar jini mai ɗigon mucus. Tsagewar ruwan ciki, ko fashewar ruwa, wani alamu ne da ke nuna cewa haihuwa ta kusa. Yana da mahimmanci a auna tazara tsakanin matsewar mahaifa don sanin tsawon lokaci da yawa da suka ɗauka. Idan kun fuskanci waɗannan alamomin, tuntuɓi likitanku don jagora game da lokacin da ya dace ku tafi asibiti ko cibiyar haihuwa."
           },
           {
             "id": 17,
             "title": "Sarrafa Zafi",
             "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-with-contractions_1157-19952.jpg",
-            "description": "Zaɓuɓɓuka don sarrafa zafi yayin aikin haihuwa da haihuwa.",
-            "content": "Sarrafa zafi yayin aikin haihuwa na iya zama ta hanyoyi da dama. Hanyoyin dabi'a sun haɗa da motsa jiki na numfashi, kallo, da tausa, wanda zai iya taimakawa wajen sarrafa zafi ba tare da magunguna ba. Hydrotherapy, ko yin aiki a cikin ruwa, na iya ba da taimako. Zaɓuɓɓukan magunguna sun haɗa da epidurals, wanda ke ba da babban taimakon zafi yayin da mahaifiya ta kasance a farke kuma a faɗakar. Sauran zaɓuɓɓuka sun haɗa da magungunan zafi na intravenous da nitrous oxide. Yana da mahimmanci a tattauna abubuwan da kuke so na sarrafa zafi tare da mai kula da lafiyar ku a gaba kuma ku kasance masu sassauci yayin da aikin haihuwa ke ci gaba."
+            "description": "Zaɓuɓɓuka don sarrafa zafi yayin naƙuda da haihuwa.",
+            "content": "Sarrafa zafi yayin naƙuda na iya zama ta hanyoyi daban-daban. Hanyoyi na dabi'a sun haɗa da ayyukan numfashi, tunani, da tausa, waɗanda za su iya taimakawa wajen sarrafa zafi ba tare da amfani da magani ba. Yin amfani da ruwa, ko yin naƙuda a cikin ruwa, na iya ba da sauƙi. Zaɓuɓɓukan likita sun haɗa da yin allurar riga-kafi, wanda ke ba da taimako sosai daga zafi yayin da mahaifiya ke zama mai hankali da wayo. Sauran zaɓuɓɓuka sun haɗa da magungunan zafi na ciki da amfani da iskar nitrous oxide. Yana da mahimmanci a tattauna zaɓuɓɓukan sarrafa zafi da likitanku tun da wuri kuma ku kasance a bude yayin da naƙuda ke ci gaba."
           },
           {
             "id": 18,
             "title": "Matsayin Haihuwa",
             "topic_img": "https://img.freepik.com/free-photo/mother-baby-bed_1157-19429.jpg",
-            "description": "Matsayin daban-daban wanda zai iya taimakawa wajen haihuwa.",
-            "content": "Matsayin haihuwa daban-daban na iya taimakawa wajen sauƙaƙe aikin haihuwa da haihuwa, kuma yana da mahimmanci a nemo abin da ke aiki mafi kyau a gare ku. Matsayin tsaye, kamar tsaye, tsugunne, ko amfani da kujera haihuwa, na iya amfani da nauyi don taimakawa jariri sauka. Matsayin hannu-da-gwiwoyi na iya rage ciwon baya kuma yana ƙarfafa jariri ya motsa zuwa mafi kyawun matsayi. Matsayin kwanciya na iya ba da hutu yayin da har yanzu yana ba da damar turawa mai inganci. Amfani da ƙwallon haihuwa na iya kuma haɓaka motsi da ta'aziyya. Gwajin gwaji tare da matsayi daban-daban yayin aikin haihuwa na iya taimaka maka nemo hanya mafi dacewa da inganci don haihuwa."
+            "description": "Matsayin daban-daban da za su iya taimakawa a cikin tsarin haihuwa.",
+            "content": "Matsayin haihuwa daban-daban na iya taimakawa wajen sauƙaƙe naƙuda da haihuwa, kuma yana da mahimmanci a sami wanda ya fi dacewa da ku. Matsayi mai tsaye, kamar tsayuwa, zama, ko amfani da ƙafafun haihuwa, na iya taimakawa wajen sauƙaƙe motsawar jariri. Matsayi na hannu da gwiwa na iya rage ciwon baya da ƙarfafa jariri don motsawa zuwa matsayi mafi kyau. Matsayin kwanciya a gefe na iya ba da hutu yayin da har yanzu yana ba da damar tura mai tasiri. Yin amfani da ƙafafun haihuwa na iya haɓaka motsi da jin daɗi. Gwaji da yanayin daban-daban yayin naƙuda na iya taimaka muku samun hanyar haihuwa da ta fi dacewa da jin daɗi."
           },
           {
             "id": 19,
             "title": "Shirin Haihuwa",
             "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-smiling-holding-her-belly_1157-18396.jpg",
-            "description": "Ƙirƙirar da sadar da shirin haihuwa.",
-            "content": "Shirin haihuwa takaddar da ke bayyana abubuwan da kake so don aikin haihuwa da haihuwa. Ya haɗa da zaɓuɓɓuka game da sarrafa zafi, matsayi na haihuwa, da wanda zai kasance yayin haihuwa. Duk da yake yana da mahimmanci a sami shirin haihuwa, yana da mahimmanci a kasance mai sassauci yayin da yanayi mara zato na iya tasowa. Tattauna shirin haihuwa tare da mai kula da lafiyar ku kuma tabbatar da cewa an sadar da abubuwan da kuke so zuwa ga ƙungiyar haihuwa. Shirin haihuwa da aka shirya sosai na iya taimaka muku jin daɗin iko kuma tabbatar da cewa an girmama bukatun ku da buƙatun ku yayin aikin haihuwa da haihuwa."
+            "description": "Ƙirƙirar da sadar da shirin haihuwar ku.",
+            "content": "Shirin haihuwa shine takarda da ke bayyana zaɓuɓɓukan ku don naƙuda da haihuwa. Ya haɗa da zaɓuɓɓuka game da sarrafa zafi, matsayin haihuwa, da waɗanda za su kasance lokacin haihuwa. Yayin da shirin haihuwa yake da mahimmanci, yana da mahimmanci ku kasance da damar sauya shirin saboda yanayi na iya sauya. Tattaunawa da likitanku game da shirin haihuwarku da tabbatar da cewa an sadar da zaɓuɓɓukan ku ga ƙungiyar haihuwa yana da mahimmanci. Shirin haihuwa mai kyau zai taimaka muku jin cewa kuna da iko kuma an mutunta bukatunku da burinku yayin naƙuda da haihuwa."
           },
           {
             "id": 20,
-            "title": "Tsarin Tallafi",
+            "title": "Tsarin Taimako",
             "topic_img": "https://img.freepik.com/free-photo/pregnant-woman-smiling-holding-her-belly_1157-18395.jpg",
-            "description": "Rawar tsarin tallafi yayin aikin haihuwa da haihuwa.",
-            "content": "Kasancewa da tsarin tallafi mai ƙarfi yayin aikin haihuwa da haihuwa na iya ba da tallafin tunani da na jiki. Wannan na iya haɗawa da abokin tarayya, membobin dangi, abokai, ko doula. Doulas ƙwararrun ƙwararru ne waɗanda ke ba da ci gaba da tallafi a duk lokacin aikin haihuwa da haihuwa. Za su iya ba da matakan ta'aziyya, taimakawa tare da hanyoyin sarrafa zafi, da samar da tabbaci. Sadarwa tare da ƙungiyar tallafin ku game da shirin haihuwa da abubuwan da kuke so yana da mahimmanci. Kasancewarsu na iya taimaka muku jin daɗi kuma ana tallafa muku, suna ba da gudummawa ga kyakkyawan ƙwarewar haihuwa."
+            "description": "Muhimmancin tsarin taimako yayin naƙuda da haihuwa.",
+            "content": "Samun ingantaccen tsarin taimako yayin naƙuda da haihuwa zai iya ba da taimako na zuciya da na jiki. Wannan na iya haɗa da abokin zama, dangin ku, abokai, ko doula. Doulas ƙwararrun masu taimako ne waɗanda ke ba da cikakken taimako yayin naƙuda da haihuwa. Suna iya bayar da hanyoyin ta’aziyya, taimakawa tare da hanyoyin sarrafa zafi, da kuma samar da kwanciyar hankali. Tattaunawa da waɗanda za su kasance tare da ku lokacin haihuwa game da yadda kuke son su taimaka, da kuma raba shirin haihuwarku tare da su, na iya taimakawa wajen tabbatar da cewa kowa yana kan hanya ɗaya kuma yana ba da taimako daidai da bukatunku da burinku."
           }
         ]
       }
     },
     {
       "id": 5,
-      "title": "Zubar Jini Bayan Haihuwa",
+      "title": "Jinin Bayan Haihuwa",
       "topic_img": "https://img.freepik.com/premium-photo/woman-is-shown-with-blood-dripping-her-hands-this-image-can-be-used-depict-crime-horror-mystery-scene-from-thriller_153912-226779.jpg?w=360",
-      "description": "Fahimtar zubar jini bayan haihuwa da yadda za a sarrafa shi.",
+      "description": "Fahimtar jinin bayan haihuwa da yadda za a kula da shi.",
       "content": {
-        "intro": "Zubar jini bayan haihuwa, ko lochia, wani yanki ne na al'ada na tsarin dawowa bayan haihuwa. Ya ƙunshi zubar da layin mahaifa kuma yana iya ɗaukar makonni da yawa.",
+        "intro": "Jinin bayan haihuwa, ko lochia, wani bangare ne na al'ada na tsari bayan haihuwa. Yana dauke da zubar da ruwan ciki kuma zai iya dardar na tsawon makonni da yawa.",
         "details": [
-          "Lochia yawanci yana farawa azaman ƙarfi, jan jini wanda a hankali yana raguwa cikin ƙarfi kuma yana canza launi zuwa ruwan hoda, ruwan kasa, kuma a ƙarshe fari ko rawaya.",
-          "Yana da mahimmanci a sa ido kan adadin da launin zubar jini don tabbatar da yana bin tsarin al'ada. Zubar jini mai yawa ko fitar manyan ƙwayoyi na iya nuna matsala kuma ya kamata a kai rahoto ga mai kula da lafiyar ku.",
-          "Hutu da guje wa ayyukan wahala na iya taimakawa wajen sarrafa jini. Yana da mahimmanci a ba jikinka lokaci don murmurewa kuma ka guji ayyukan da za su iya ƙara zubar jini.",
-          "Amfani da pads na lafiya maimakon tampons ana ba da shawarar don rage haɗarin kamuwa da cuta. Canza pads sau da yawa don kiyaye tsafta.",
-          "Sha ruwa da cin abinci mai kyau na iya tallafawa dawowa da taimakawa sarrafa zubar jini. Cin abinci mai cike da ƙarfe na iya taimakawa dawo da zubar jini.",
-          "Zubar jini bayan haihuwa na iya ɗaukar makonni da yawa, yawanci yana raguwa ta hanyar mako na shida. Idan zubar jini ya ci gaba bayan wannan lokacin ko kuma ya yi tsanani, tuntuɓi mai kula da lafiyar ku.",
-          "Kasancewa a wurin duba bayan haihuwa yana da mahimmanci don lura da dawowa da kuma magance duk wani damuwa da ke da alaƙa da zubar jini bayan haihuwa. Mai kula da lafiyar ku na iya ba da jagora da tallafi don tabbatar da dawowa mai kyau."
+          "Lochia yawanci yana farawa da jini mai yawa, ruwan ja wanda ke raguwa a hankali a cikin adadi da kuma canza launin sa zuwa ruwan hoda, ruwan kasa, kuma a ƙarshe fari ko rawaya.",
+          "Yana da muhimmanci a lura da adadin da launin jinin don tabbatar da cewa yana bin tsari na al'ada. Jin jini ko wucewa da manyan clots na iya nuna matsala kuma ya kamata a sanar da mai kula da lafiya.",
+          "Hutu da guje wa ayyukan ƙarfi na iya taimakawa wajen sarrafa jinin. Yana da muhimmanci a bar jiki lokaci don warkewa da guje wa ayyukan da za su iya ƙara yawan jini.",
+          "Amfani da pads na tsabta maimakon tampons ana ba da shawara don rage haɗarin kamuwa da cuta. Canza pads akai-akai don kiyaye tsafta.",
+          "Sha ruwa da abinci mai kyau na iya tallafawa warkewa da taimakawa wajen sarrafa jinin. Cin abinci mai ƙarfi da ƙarfe na iya taimakawa wajen cike asarar jini.",
+          "Jinin bayan haihuwa na iya ɗaukar makonni da yawa, yawanci yana raguwa zuwa mako na shida. Idan jinin ya ci gaba bayan wannan lokacin ko kuma ya ƙara tsanani, tuntubi mai kula da lafiya.",
+          "Yin zuwa duba bayan haihuwa yana da mahimmanci don lura da warkewa da magance duk wani damuwa da ke da alaƙa da jinin bayan haihuwa. Mai kula da lafiya zai iya ba da shawarwari da goyon baya don tabbatar da cewa warkewar tana da lafiya."
         ],
         "subtopics": [
           {
             "id": 21,
-            "title": "Me Zaku Iya Tsammata",
+            "title": "Abin Da Za Ku Iya Tsammani",
             "topic_img": "https://img.freepik.com/free-photo/newborn-baby-feet_1157-18555.jpg",
-            "description": "Matakan da tsawon lokacin zubar jini bayan haihuwa.",
-            "content": "Zubar jini bayan haihuwa, ko lochia, yana wucewa ta matakai da dama. A cikin kwanaki kaɗan bayan haihuwa, jinin yana yawanci yana da ƙarfi kuma ja, kamar lokacin haila mai ƙarfi. Wannan mataki na farko yawanci yana ɗaukar kimanin kwanaki 3 zuwa 10. Sai jini ya canza launi zuwa ruwan hoda ko ruwan kasa, yana nuna mataki na gaba na murmurewa. Wannan mataki na iya ɗaukar har zuwa mako na biyu bayan haihuwa. A ƙarshe, lochia yana zama fitarwar rawaya ko fari, wanda na iya ci gaba har zuwa makonni da yawa. Yana da mahimmanci a lura da jini kuma a kai rahoto ga mai kula da lafiyar ku game da duk wani damuwa. Zubar jini mai yawa, fitar manyan ƙwayoyi, ko wari mai ƙarfi na iya nuna matsaloli da ke buƙatar kulawar likita."
+            "description": "Matakai da tsawon lokaci na jinin bayan haihuwa.",
+            "content": "Jinin bayan haihuwa, ko lochia, yana wucewa ta matakai da dama. A cikin kwanaki na farko bayan haihuwa, jinin yawanci yana da yawa kuma ja ja, kamar jinin haila. Wannan matakin farko yana ɗaukar kusan kwanaki 3 zuwa 10. Bayan haka, zubewar jinin yana canzawa zuwa ruwan hoda ko ruwan kasa, yana nuna mataki na warkewa na gaba. Wannan matakin na iya ɗaukar har zuwa mako na biyu bayan haihuwa. A ƙarshe, lochia yana zama ruwan rawaya ko fari, wanda zai iya ci gaba na makonni da yawa. Yana da muhimmanci a kula da yawan jinin da kuma sanar da duk wani damuwa ga mai kula da lafiya. Jinin da ya yi yawa, wucewa da manyan clots, ko ƙamshin da ba daɗi ba na iya nuna matsaloli waɗanda ke buƙatar kulawa ta likita."
           },
           {
             "id": 22,
-            "title": "Sarrafa Jini",
+            "title": "Gudanar Da Jini",
             "topic_img": "https://img.freepik.com/free-photo/newborn-baby-feet_1157-18556.jpg",
-            "description": "Nasihu don sarrafa zubar jini bayan haihuwa da inganta murmurewa.",
-            "content": "Sarrafa zubar jini bayan haihuwa yana da matakai da yawa don tabbatar da jin daɗi da tsafta. Hutu da guje wa ayyukan wahala na iya taimakawa wajen sarrafa jini. Amfani da pads na lafiya maimakon tampons yana rage haɗarin kamuwa da cuta kuma yana ba ku damar lura da jini daidai. Canza pads sau da yawa don kiyaye tsafta. Sha ruwa da cin abinci mai cike da ƙarfe na iya taimakawa dawo da zubar jini. Ayyukan motsa jiki na pelvic mai laushi na iya taimakawa wajen dawowa. Idan kun lura da wasu alamu marasa kyau, kamar zubar jini mai yawa, manyan ƙwayoyi, ko wari mai ƙarfi, tuntuɓi mai kula da lafiyar ku nan da nan. Kasancewa a wurin duba bayan haihuwa yana da mahimmanci don lura da dawowar ku da magance duk wani damuwa."
+            "description": "Shawara don sarrafa jinin bayan haihuwa da ƙara lafiya.",
+            "content": "Gudanar da jinin bayan haihuwa yana buƙatar matakai da dama don tabbatar da jin daɗi da tsafta. Hutu da guje wa ayyukan ƙarfi na iya taimakawa wajen sarrafa jinin. Amfani da pads na tsabta maimakon tampons yana rage haɗarin kamuwa da cuta da kuma ba da damar lura da jinin daidai. Canza pads akai-akai don kiyaye tsafta. Sha ruwa da cin abinci mai kyau da ƙarfe na iya taimakawa wajen cike asarar jini. Ayyukan pelvics masu laushi na iya taimakawa wajen warkewa. Idan kuna ganin wani abu na musamman, kamar yawan jini, manyan clots, ko ƙamshi mara kyau, ku tuntuɓi mai kula da lafiya nan da nan. Yin duba lokaci-lokaci bayan haihuwa yana da muhimmanci don lura da warkewa da magance duk wani damuwa."
           },
           {
             "id": 23,
-            "title": "Yaushe Zaku Nemi Taimako",
+            "title": "Lokacin Da Zaku Nemi Taimako",
             "topic_img": "https://img.freepik.com/free-photo/newborn-baby-feet_1157-18557.jpg",
-            "description": "Gane alamun matsaloli da sanin lokacin da za a nemi kulawar likita.",
-            "content": "Duk da cewa zubar jini bayan haihuwa wani yanki ne na al'ada na dawowa, wasu alamu na iya nuna matsaloli da ke buƙatar kulawar likita. Nemi taimako idan kun sami zubar jini mai yawa wanda ke ɗiga cikin pad cikin awa ɗaya ko ƙasa da haka, manyan ƙwayoyi (mafi girma fiye da ƙwallon golf), wari mara daɗi, ko alamu na kamuwa da cuta kamar zazzaɓi da rawar jiki. Ciwo da ke ci gaba ko kuma ya ƙara muni akan lokaci shima yana buƙatar kiran mai kula da lafiyar ku. Idan zubar jini ya ci gaba bayan makonni shida ko kuma ya ƙaru sosai bayan ya ragu, yana da mahimmanci a nemi shawarar likita. Mai kula da lafiyar ku na iya tantance yanayin ku kuma ya ba da kulawar da ta dace don tabbatar da dawowa mai kyau."
+            "description": "Gane alamomin matsaloli da sanin lokacin da za a nemi kulawa ta likita.",
+            "content": "Yayin da jinin bayan haihuwa yake zama al'ada, wasu alamomi na iya nuna matsaloli da ke buƙatar kulawa ta likita. Nemi taimako idan kuna fuskantar jini mai yawa wanda ke shan pad a cikin sa'a daya ko ƙasa, manyan clots (manya fiye da golf ball), ƙamshin da ba daɗi ba, ko alamomin cuta kamar zazzabi da sanyi. Ciwo da ke ci gaba ko yin tsanani akai-akai yana buƙatar kiran mai kula da lafiya. Idan jinin ya ci gaba bayan makonni shida ko ya ƙaru sosai bayan ya ragu, yana da muhimmanci neman shawarwari na likita. Mai kula da lafiya zai iya kimanta yanayin ku da ba da kulawa da ake buƙata don tabbatar da cewa warkewar tana lafiya."
           }
         ]
       }
@@ -268,53 +264,53 @@
       "id": 6,
       "title": "Bacterial Vaginosis",
       "topic_img": "https://img.freepik.com/free-photo/african-american-woman-with-braids-standing-pink-background-disgusted-expression-displeased-fearful-doing-disgust-face-because-aversion-reaction_839833-2208.jpg?t=st=1716894569~exp=1716898169~hmac=d2e999f47519d91d6af488c13f5705194fe8c82e651327189babc21f0a5c934e&w=826",
-      "description": "Fahimtar Bacterial Vaginosis (BV), sanadi, alamominsa, da magungunansa.",
+      "description": "Fahimtar Bacterial Vaginosis (BV), sanadin sa, alamomin sa, da kuma magungunan sa.",
       "content": {
-        "intro": "Bacterial Vaginosis (BV) na nufin kamuwa da cuta a farji wanda ya faru sakamakon rashin daidaiton kwayoyin cuta na al'ada a farji. Ana ganinsa ta hanyar alamomi kamar zubar ruwa mai wari, wari, da rashin jin dadi.",
+        "intro": "Bacterial Vaginosis (BV) cuta ce ta al'aura da ta saba daidaiton sinadaran kwayoyin cuta na al'aura. Ana samun alamu kamar fitar al'aura ta daban, wari, da rashin jin daɗi.",
         "details": [
-          "BV na faruwa ne lokacin da aka sami rashin daidaiton kwayoyin cuta na gari da na cuta a farji, wanda ke haifar da yawaitar kwayoyin cuta marasa kyau.",
-          "Alamomi da suka saba sun hada da fitar ruwa mai siriri, fari-ko-launin toka daga farji mai wari mai kama da kifi, kaikayi, da zafi yayin fitsari.",
-          "BV ba a daukarsa a matsayin cutar da ake samu ta jima'i ba, amma jima'i na iya kara hadarin samun BV.",
-          "Magani yawanci yana kunshe da amfani da magungunan kashe kwayoyin cuta, ko dai ta baki ko kuma ta hanyar shafawa a farji. Yana da muhimmanci a kammala dukkan magani don hana dawowar cutar.",
-          "Tsabtace farji yadda ya kamata da guje wa douching na iya taimakawa wajen hana BV. Amfani da probiotics na iya taimakawa wajen dawo da kwayoyin cuta na gari a farji.",
-          "Idan ba a yi magani ba, BV na iya haifar da matsaloli kamar karin hadarin kamuwa da cututtukan da ake samu ta jima'i, matsalolin daukar ciki, da cututtukan farji.",
-          "Ziyarar duba lafiyar farji na yau da kullum na iya taimakawa wajen gano lafiyar farji da kuma magance duk wani alamar BV da wuri."
+          "BV na faruwa ne lokacin da daidaiton kwayoyin cuta masu kyau da masu cutarwa a cikin al'aura ya sami matsala, wanda ke haifar da yawaitar kwayoyin cuta masu cutarwa.",
+          "Alamomin sun haɗa da ruwan al'aura mai launin zinariya ko fari tare da wari kamar kifi, gishiri, da kuma jin zafi yayin yin fitsari.",
+          "BV ba ta ƙunshi cutar da ake yadawa ta hanyar jima'i ba, amma jima'i na iya ƙara haɗarin samun BV.",
+          "Magani yawanci yana kunshe da magungunan rigakafi, ko dai a cikin baki ko a jiki. Yana da muhimmanci a kammala dukkan maganin don guje wa dawowar cutar.",
+          "Kulawa da tsaftar al'aura da guje wa amfani da ruwan dush ɗin na iya taimakawa wajen hana BV. Probiotics na iya zama masu amfani wajen dawo da daidaito na kwayoyin cuta.",
+          "Idan ba a yi maganin BV ba, zai iya haifar da matsaloli kamar ƙarin haɗarin kamuwa da cututtukan jima'i, matsalolin ciki, da kuma cutar hanta ta pelvis.",
+          "Yin duba na jima'i lokaci-lokaci na iya taimakawa wajen lura da lafiyar al'aura da kuma duba duk wani alama na BV."
         ],
         "subtopics": [
           {
             "id": 24,
-            "title": "Sanadi da Abubuwan Haɗari",
+            "title": "Sanadin Da Hadarin BV",
             "topic_img": "https://img.freepik.com/free-photo/woman-with-stomach-ache-sitting-bed_23-2148590460.jpg",
-            "description": "Fahimtar abin da ke haifar da BV da abubuwan haɗari da ke tare da shi.",
-            "content": "BV yana faruwa ne sakamakon rashin daidaiton flora na farji, inda kwayoyin cuta marasa kyau suka fi yawa akan na gari. Abubuwan da ke iya haifar da wannan rashin daidaito sun hada da yawan abokan jima'i ko sababbi, douching, da rashin lactobacilli (kwayoyin cuta na gari). Sauyin hormone, kamar waɗanda ke faruwa yayin ɗaukar ciki, da amfani da wasu kayayyakin tsafta na iya ƙara haɗarin. Fahimtar waɗannan dalilai da haɗarin yana da mahimmanci don rigakafi da kula. Guje wa douching, cin abinci mai kyau, da yin jima'i cikin tsabta na iya taimakawa wajen rage haɗarin kamuwa da BV."
+            "description": "Fahimtar abin da ke haifar da BV da kuma hadarin da ke tattare da shi.",
+            "content": "BV na faruwa ne lokacin da daidaiton kwayoyin cuta a cikin al'aura ya lalace, inda kwayoyin cuta masu cutarwa suka fi yawa. Abubuwan da ke iya ƙara wannan matsala sun haɗa da samun abokan jima'i da yawa ko sabbi, amfani da ruwan dush ɗin, da kuma rashin lactobacilli (kwayoyin cuta masu kyau). Canje-canjen hormone, kamar yadda ake samu a lokacin ciki, da kuma amfani da wasu kayayyakin tsafta na iya ƙara haɗarin samun BV. Fahimtar wadannan sanadi da hadari yana da muhimmanci don kariya da gudanarwa. Gujewa dush ɗin, kulawa da abinci mai kyau, da kuma gudanar da jima'i cikin tsaro na iya taimakawa wajen rage haɗarin samun BV."
           },
           {
             "id": 25,
-            "title": "Alamomi da Ganewa",
+            "title": "Alamomi Da Ganewa",
             "topic_img": "https://img.freepik.com/free-photo/young-woman-suffering-stomach-pain-sitting-bed-home_231208-13061.jpg",
-            "description": "Gano alamomin BV da fahimtar yadda ake ganinsa.",
-            "content": "Babban alamomin BV sun hada da fitar ruwa mai siriri, fari-ko-launin toka daga farji mai wari mai kama da kifi. Wasu mata na iya jin kaikayi, zafi yayin fitsari, ko rashin jin dadi a farji. Ganewa yawanci yana kunshe da duba farji ta likita, wanda zai iya daukar samfurin ruwa daga farji don gwaji. Haka kuma, za a iya duba matakin pH na farji, saboda BV yawanci yana haifar da pH mai girma. Gano alamomi da wuri da neman shawarar likita na iya haifar da magani da kuma rage haɗarin matsaloli."
+            "description": "Gane alamomin BV da kuma fahimtar yadda ake ganowa.",
+            "content": "Alamomin BV sun haɗa da ruwan al'aura mai launin zinariya ko fari tare da wari mai ƙarfi kamar kifi. Wasu mata na iya kuma fuskantar gishiri, jin zafi yayin yin fitsari, ko rashin jin daɗi a cikin al'aura. Ganewar BV yawanci tana bukatar duba ta jiki daga mai kula da lafiya, wanda zai iya ɗaukar samfurin ruwan al'aura don gwaji. Hakanan ana iya duba matakin pH na al'aura, saboda BV yana haifar da pH mafi girma. Gane alamomin da wuri da neman shawarar likita na iya kai ga magani cikin lokaci da kuma rage haɗarin matsaloli."
           },
           {
             "id": 26,
-            "title": "Zabukan Magani",
+            "title": "Zaɓuɓɓukan Magani",
             "topic_img": "https://img.freepik.com/free-photo/close-up-woman-having-stomach-ache_23-2148637635.jpg",
-            "description": "Bincike kan hanyoyin magani daban-daban don BV.",
-            "content": "Magani ga BV yawanci yana amfani da magungunan kashe kwayoyin cuta, irin su metronidazole ko clindamycin, wanda za a iya sha ko kuma a shafa a farji. Yana da muhimmanci a kammala dukkan magungunan don tabbatar da cewa an warkar da cutar gaba daya. A wasu lokuta, ana ba da shawarar amfani da probiotics don taimakawa wajen dawo da daidaiton kwayoyin cuta na gari a farji. Haka kuma yana da muhimmanci guje wa douching da kuma amfani da kayan tsafta marasa wari da ƙanshi. Ziyarar duba lafiya ta yau da kullum tare da likitanka na iya taimakawa wajen tabbatar da cewa an magance cutar kuma rage haɗarin dawowar cutar."
+            "description": "Bincike zaɓuɓɓukan magani na BV.",
+            "content": "Magani na BV yawanci yana kunshe da magungunan rigakafi, kamar metronidazole ko clindamycin, wanda za'a iya sha ko kuma a shafa a jiki. Yana da muhimmanci a kammala dukkan maganin rigakafi don tabbatar da cewa cutar ta warke gaba ɗaya. A wasu lokuta, ana iya bada shawarar probiotics don taimakawa wajen dawo da daidaito na kwayoyin cuta a cikin al'aura. Hakanan yana da muhimmanci a guje wa dush ɗin da kuma amfani da kayayyakin tsafta masu laushi da ba su da wari. Yin duba na yau da kullum tare da mai kula da lafiya na iya taimakawa wajen tabbatar da cewa cutar ta warke da kuma rage haɗarin dawowa."
           },
           {
             "id": 27,
-            "title": "Dabarun Rigakafi",
+            "title": "Hanyoyin Kariyar BV",
             "topic_img": "https://img.freepik.com/free-photo/woman-with-stomach-ache-sitting-bed_23-2148590461.jpg",
-            "description": "Shawara da dabaru don rigakafin BV.",
-            "content": "Rigakafin BV yana kunshe da kula da lafiyar farji da guje wa abubuwan da ke haifar da rashin daidaito na kwayoyin cuta. Wannan yana nufin guje wa douching, amfani da sabulun tsafta marasa wari da ƙanshi, da yin jima'i cikin tsabta ta amfani da kwaroron roba. Sanya kayan ciki na auduga mai shan iska da kuma guje wa tufafin da suka matse na iya taimakawa wajen tabbatar da lafiyar farji. Amfani da probiotics, ko a cikin abinci ko kuma a matsayin kari, na iya taimakawa wajen tabbatar da daidaiton kwayoyin cuta. Ziyarar duba lafiyar farji ta yau da kullum na da muhimmanci don kula da lafiyar farji da kuma gano duk wani alamar rashin daidaito da wuri."
+            "description": "Shawarar da dabaru don hana BV.",
+            "content": "Hana BV yana buƙatar kula da kyakkyawar yanayin al'aura da guje wa abubuwan da za su iya tayar da daidaito na kwayoyin cuta. Wannan ya haɗa da guje wa dush ɗin, amfani da sabulun tsafta da kayayyakin tsafta marasa wari, da kuma gudanar da jima'i cikin tsaro ta hanyar amfani da kondom. Sanya gashashshen rigar katako da kuma guje wa tufafin da suka matse na iya taimakawa wajen kula da lafiyar al'aura. Probiotics, ko dai a cikin abinci ko a cikin kari, na iya taimakawa wajen kula da daidaito na kwayoyin cuta. Yin duba na jima'i lokaci-lokaci yana da muhimmanci don lura da lafiyar al'aura da kuma duba duk wani alama na rashin daidaito."
           },
           {
             "id": 28,
-            "title": "Matsaloli da Lokacin Neman Taimako",
+            "title": "Matsaloli Da Lokacin Da Za Ku Nemi Taimako",
             "topic_img": "https://img.freepik.com/free-photo/young-woman-with-stomachache-sitting-bed_23-2148637308.jpg",
-            "description": "Fahimtar matsalolin da BV na iya haifarwa da kuma lokacin neman taimakon likita.",
-            "content": "Ko da yake BV ba shi da mahimmanci a mafi yawan lokuta, idan ba a yi magani ba, yana iya haifar da matsaloli. Wadannan sun hada da karin hadarin kamuwa da cututtukan da ake samu ta jima'i, matsalolin daukar ciki kamar haifuwa kafin lokaci, da cututtukan farji wanda zai iya shafar haihuwa. Idan ka ga alamomin BV, yana da muhimmanci ka nemi shawarar likita da wuri. Idan BV ya kasance mai tsawo ko kuma yana dawowa, ya kamata a duba shi da likita don gano sanadin kuma a ba da magani da ya dace. Magani da wuri na iya taimakawa wajen hana matsaloli da kuma tabbatar da lafiyar farji."
+            "description": "Fahimtar yiwuwar matsalolin BV da kuma lokacin da za a nemi kulawa ta likita.",
+            "content": "Duk da cewa BV kanta ba ta da ɗanɗano, za ta iya haifar da matsaloli idan ba a yi maganin ta ba. Wannan ya haɗa da ƙarin haɗarin kamuwa da cututtukan jima'i, matsalolin ciki kamar haihuwar wuri, da kuma cutar hanta ta pelvis, wanda zai iya shafar haihuwa. Idan kun fuskanci alamomin BV, yana da muhimmanci a nemi shawarar likita cikin sauri. BV mai ɗorewa ko dawowa kuma ya kamata a duba ta likita don tantance sanadin da kuma maganin da ya dace. Koyaushe yin farfadowa da wuri zai iya taimakawa wajen hana matsaloli da kuma tabbatar da lafiyar al'aura."
           }
         ]
       }
@@ -323,148 +319,219 @@
   "topics": [
     {
       "id": 1,
-      "title": "Menene BPCR",
+      "title": "Menene BPCR?",
       "topic_img": "https://img.freepik.com/free-photo/unwanted-child-shocked-dark-skinned-young-woman-looks-with-puzzlement_273609-44884.jpg?t=st=1717344285~exp=1717347885~hmac=91a442fda611a67b7ba72370e11b576adda34a03efe65e15645e66fc26be091c&w=826",
-      "description": "Gano mahimmancin Shirye-shiryen Haihuwa da Shirin Tunkarar Matsaloli (BP/CR), wani tsari na ceton rai wanda aka tsara don tabbatar da lafiyayyen haihuwa da rage yawan mace-macen mata da jarirai.",
+      "description": "Koyi menene BP/CR, wani tsari na ceton rai da aka tsara don tabbatar da tsare-tsaren da suka dace da kuma rage mace-macen uwa da jariri.",
       "content": {
-        "intro": "Shirye-shiryen Haihuwa da Shirin Tunkarar Matsaloli (BP/CR) yana nufin tabbatar da cewa kowace mace mai juna biyu tana da damar samun mafi kyawun kulawa a lokacin da ya fi dacewa. Ta hanyar tsara shirye-shirye tun da wuri, za mu iya guje wa jinkiri masu haɗari da ceton rayuka.",
+        "intro": "BP/CR ya shafi tabbatar da cewa kowace uwa da ke ciki tana da damar samun ingantacciyar kulawa a lokacin da ta fi bukatar ta. Ta hanyar tsare-tsare, za mu iya kauce wa matsaloli masu tsanani da kuma ceton rayuka.",
         "details": [
-          "Shirye-shiryen Haihuwa da Shirin Tunkarar Matsaloli (BP/CR) wani tsari ne don tallafa wa amfani da masu kula da haihuwa masu kwarewa a lokacin juna biyu musamman a lokacin haihuwa.",
-          "An tsara shi ne bisa ra'ayin cewa shirye-shirye don haihuwa da kuma tunkarar matsaloli yana rage jinkiri wajen samun kulawar kwararru a lokacin haihuwa mai kyau ko lokacin gaggawa ta yadda za a hana matsaloli da mutuwa.",
-          "Jinkiri a lokacin juna biyu ko haihuwa na iya zuwa daga rashin iya gano mai kula da haihuwa mai kwarewa, rashin gano cibiyar kiwon lafiya, rashin hanyoyin sufuri zuwa cibiyar kiwon lafiya, rashin abubuwan da ake bukata don haihuwa mai tsabta da kuma kula da jariri, rashin yanke shawara akan wanda zai kula da iyalin matar a lokacin da ba ta nan, da abokin haihuwa a lokacin nakuda, rashin kudade don haihuwa mai kyau ko a lokacin gaggawa, rashin yanke shawara akan wanda zai yanke shawara a lokacin gaggawa da shiri don mai bayar da jini.",
-          "BP/CR yana nufin rage jinkiri wajen samun kulawar kwararru a lokacin haihuwa, ko dai haihuwa mai kyau ko na gaggawa.",
-          "Kalubale masu mahimmanci a lokacin juna biyu da haihuwa sun hada da gano mai kula da haihuwa mai kwarewa, gano cibiyar kiwon lafiya da ta dace, shirya sufuri, tara abubuwan haihuwa da kuma tabbatar da kudade masu kyau.",
-          "BP/CR yana taimaka wa iyalai su tsara wadannan kalubalen, yana tabbatar da haihuwa mai lafiya da kwanciyar hankali."
+          "",
+          "BP/CR wani bangare ne na shirin tabbatar da tsaron haihuwa, wanda aka tsara don rage mace-mace da rashin lafiya na uwa da jariri. Ta hanyar tallata tsare-tsaren da ke shirin haihuwa da ke sa wasu zuwa ga waɗanda ke da ciwo a wani lokaci kafin haihuwa ko bayan haihuwa.",
+          "Ana dogara da ra'ayin cewa shirye-shirye don haihuwa da kasancewa cikin shirin tsaro na matsaloli suna da matukar muhimmanci wajen rage tsananin hatsarorin da ke haifar da mace-mace.",
+          "Matsaloli yayin daukar ciki ko bayan haihuwa na iya faruwa sakamakon rashin sanin wani mai kula da haihuwa, rashin samun asibiti, rashin hanya mai sauƙi don zuwa asibiti, rashin kayan da ake bukata don haihuwa mai tsafta da lafiya, rashin yanke shawara kan wanda zai kula da iyali yayin da take kwance, wanda zai kasance a lokacin da take rashin lafiya, rashin isasshen kudade don haihuwa ta yau da kullum ko a lokacin gaggawa, rashin yanke shawara game da wanda zai yanke hukunci a lokacin gaggawa, da kuma shirin wanda zai ba da jini.",
+          "",
+          "SAKAMAKON BPCR: ",
+          "Duk da yake ya haɗa da tsare-tsaren da ke da alaƙa da samun masu kula da haihuwa, shirin BPCR ba zai kai ga tsare-tsaren da suka dace don haihuwa ba ko ma a lokacin gaggawa. Yana da tsare-tsaren da uwargida da iyali suka shirya (da taimakon mai kula da haihuwa). Ba shi ne rubutun takarda ba (ko da yake ana ba da shawarar hakan). Yana da matukar muhimmanci a sake yin nazari ko sake yi a kowane lokaci da suka ziyarci asibiti. An tsara shi ne don rage matsaloli da rashin tsari a lokacin haihuwa ko gaggawa.",
+          ""
         ],
         "subtopics": [
           {
             "id": 15,
             "title": "Manufar BPCR",
             "topic_img": "https://img.freepik.com/free-photo/box_53876-65526.jpg?t=st=1717524141~exp=1717527741~hmac=4c0c67298aae43035b4119ff005d4a32795c71efac49fac865a000eea4638af5&w=740",
-            "description": "Tsarin shirye-shiryen haihuwa da shirin tunkarar matsaloli yana nufin",
-            "content": "• Samar da shirin haihuwa don haihuwa mai kyau da yiwuwar matsaloli:\n – Shi ne shirin da aka yi a gaba ta mace da iyali (tare da taimakon kwararre)\n– Yawanci ba rubutaccen takarda ba ne (kodayake yana da kyau)\n– Ya kamata a duba ko sake duba a kowane ziyarar duba juna biyu\n• Rage rashin tsari a lokacin haihuwa ko a lokacin gaggawa\n• Tabbatar da samun kulawa ta dace da ta dace akan lokaci\n"
+            "description": "Manufar shirin BPCR ita ce shirya tsare-tsaren haihuwa da kasancewa cikin shirin gaggawa.",
+            "content": "• Shirya tsare-tsaren don haihuwa ta yau da kullum ko ma a lokacin gaggawa: \n  – Tsare-tsaren da uwargida da iyali suka shirya (da taimakon mai kula da haihuwa)\n  – Ba rubutun takarda ba ne (ko da yake ana ba da shawarar hakan)\n  – Dole ne a sake yin nazari ko sake yin shi a kowane lokaci da suka ziyarci asibiti\n• Rage matsaloli da rashin tsari a lokacin haihuwa ko gaggawa\n• Bayar da damar samun ingantacciyar kulawa da dacewa."
           },
           {
             "id": 4,
-            "title": "Gano Mai Kula da Haihuwa Mai Kwarewa",
-            "topic_img": "https://img.freepik.com/free-photo/nurse-portrait-hospital_23-2150780276.jpg?t=st=1717523246~exp=1717526846~hmac=ea82f138fbd375bc345529fb8b0d2d8f0f1e494d66e2266cdad57c3b64dfd0dd&w=826",
-            "description": "Masu kula da haihuwa masu kwarewa (SBAs) suna da matukar muhimmanci ga haihuwa mai lafiya. Tabbatar da cewa mai kula da haihuwar ku ya kammala horo mai inganci a fannin kula da mata masu juna biyu da jarirai, zai iya tunkarar matsaloli, kuma yana kula da ku da tausayi da girmamawa.",
-            "content": "A matsayin wani bangare na BPCR, masu kula da haihuwa masu kwarewa (SBAs) suna da muhimmiyar rawa wajen tabbatar da haihuwa mai lafiya da rage yawan mace-macen mata da jarirai. Tabbatar da cewa mutum ya kammala shirye-shiryen horo da aka amince da su na musamman a fannin kula da mata masu juna biyu da jarirai. Tabbatar da cewa mutum yana da ilimin gaggawa na obstetrics da kuma ikon magance matsaloli cikin nasara. Nemi SBAs da ke nuna tausayi, girmamawa, da jin kai ga mata masu juna biyu da iyalansu."
+            "title": "Sanin Mai Kula da Haihuwa",
+            "topic_img": "https://img.freepik.com/free-photo/beautiful-black-nurse-portrait_23-2149666021.jpg?t=st=1719859756~exp=1719863356~hmac=7b86bd7d61503ac7eb1105ad4f24c5dba70ebb4578b79c53c0c84f78a29890b6&w=360",
+            "description": "Masu kula da haihuwa suna da matukar muhimmanci wajen haihuwa. Tabbatar da cewa mai kula da haihuwa ya cancanta.",
+            "content": "A matsayin wani bangare na BPCR, masu kula da haihuwa (SBAs) suna taka muhimmiyar rawa wajen tabbatar da tsaron haihuwa da rage mace-macen uwa da jariri. Ana ba da shawarar yin yanke shawara kafin farawar wata ko farkon wani matsalar. Sanin mai kula da haihuwa, tabbatar da cewa mutumin ya yi aikin da aka amince da shi. Tabbatar da cewa mutumin yana da ilimin matsalolin haihuwa da iyawar su wajen sarrafa matsalolin yadda ya kamata. Nemi SBAs waɗanda ke nuna jin kai, girmamawa, da mutunta uwa mai ciki da iyalinta."
           },
           {
             "id": 5,
-            "title": "Gano Cibiyar Kiwon Lafiya",
+            "title": "Sanin Asibiti",
             "topic_img": "https://img.freepik.com/free-photo/retinal-biometrics-technology-with-man-s-eye-digital-remix_53876-108518.jpg?t=st=1717522970~exp=1717526570~hmac=4ad4ffee0ad0daea82a1a66462cf3d5444fcaa8fa471308d0b1653964953cd71&w=826",
-            "description": "Zabar cibiyar kiwon lafiya mai kyau yana da matukar muhimmanci. Nemi wuraren da aka amince dasu da ke da masu kula da haihuwa masu kwarewa, aikace-aikacen tsafta mai kyau, da kuma kasancewar su a kowane lokaci. Yi la'akari da wuri da saukin shiga, musamman don gaggawa da daddare.",
-            "content": "A matsayin wani bangare na BPCR, zabar cibiyar kiwon lafiya mai kyau don haihuwa yana da matukar muhimmanci wajen tabbatar da lafiyar uwa da jariri. Nemi cibiyoyin da hukumomin lafiya da aka yarda suka amince da su ko hukumomin gwamnati suka amince da su. Tabbatar da cewa wurin yana dauke da masu kula da haihuwa (SBAs) kuma suna samuwa awa 24 a kowace rana. Nemi shaidar tsaftar hannu mai kyau, tsaftace kayan aikin likita, da kuma kiyaye muhalli mai tsabta da tsaftacewa. Yi la'akari da wurin cibiyar da saukin shiga gare ku, musamman idan kuna bukatar kasancewa a can da dare."
+            "description": "Zaɓen asibiti yana da muhimmanci. Nemo asibiti da suka dace da ke kula da haihuwa, tsaftar hannu, da cikakken kulawa.",
+            "content": "A matsayin wani bangare na BPCR, zaɓen asibiti yana da matukar mahimmanci wajen tabbatar da tsaron uwa da jariri. Nemo cibiyoyin da aka yarda da su daga masu kula da lafiya ko kuma wadanda gwamnati ta amince da su. Tabbatar da cewa cibiyar tana kula da masu kula da haihuwa (SBAs) waɗanda ke yin aiki awanni 24 a kowace rana 7. Nemi hujjar tsaftar hannu, tsaftar kayan aikin likita, da tabbatar da tsaftar wajen haihuwa. Yi la'akari da nisan da asibitin yake da kuma hanya zuwa gare shi, musamman idan yana da mahimmanci ku kasance a wurin cikin dare."
           },
           {
             "id": 6,
-            "title": "Sufuri zuwa Cibiyar Kiwon Lafiya",
+            "title": "Hanya zuwa Asibiti",
             "topic_img": "https://img.freepik.com/free-photo/african-american-female-paramedic-face-protective-medical-mask-standing-front-ambulance-car_627829-4899.jpg?t=st=1717523430~exp=1717527030~hmac=2c18d200f9baa56353f06c58176c42d1ba74696ca3bd1c0a93bd28fd8f93508a&w=826",
-            "description": "Shirya don samun ingantaccen sufuri zuwa cibiyar kiwon lafiya, musamman don yanayi marasa tabbas ko lokutan rashin annuri.",
-            "content": "Tabbatar da samun ingantaccen, mai dogaro da kuma saukin sufuri, musamman don lokutan rashin annuri don kai mata masu juna biyu zuwa cibiyar kiwon lafiya a lokacin haihuwa ko a lokacin da akwai matsala."
+            "description": "Nazari kan hanyar zuwa asibiti, musamman a cikin yanayi na gaggawa.",
+            "content": "A matsayin wani bangare na BPCR, samun mai kula da haihuwa yana taimakawa wajen nazarin hanya mafi inganci da tsaro zuwa asibiti, musamman a cikin yanayi na gaggawa. La'akari da yanayin hanyar da rashin lafiya na uwa. Yi la'akari da yiwuwar matsaloli a lokacin da kuke hanya kamar cunkoson ababen hawa, ruwan sama mai yawa, ko tsananin yanayin zafi. Tabbatar da cewa an shirya isassun matakan gaggawa don yin tafiye-tafiye zuwa asibiti. Hanya mai kyau ita ce wacce ke da yanayin da ya dace da kuma aminci."
+          },
+          {
+            "id": 7,
+            "title": "Sanin Abubuwan Bukata",
+            "topic_img": "https://img.freepik.com/free-photo/top-view-woman-holding-shopping-cart_23-2148592442.jpg?t=st=1717527088~exp=1717530688~hmac=2ac55e08690f5c58ef255c540e55c1956f57e329a4817e7bdf552da244cd92d4&w=826",
+            "description": "Tattauna bukatun yau da kullum da kuma waɗanda ke da alaƙa da tsare-tsaren haihuwa ko yanayin gaggawa.",
+            "content": "A matsayin wani bangare na BPCR, samun abubuwan bukata na yau da kullum yana da matukar muhimmanci don tabbatar da cewa uwa mai ciki tana da kyakkyawan yanayin lafiya. Shirya abubuwan da ake bukata kamar kayan tsaftar hannu, kayan gaggawa, abinci mai gina jiki, kayan aikin yau da kullum, da sauran abubuwan da ake bukata don tsaron uwa da jariri. Tabbatar da cewa kuna da isassun kudade don sayen abubuwan bukata kafin a fara tafiya zuwa asibiti. Yi la'akari da bukatun yau da kullum kamar abinci mai gina jiki, tsaftar muhalli, tsaron muhalli, da kula da kyawawan dabi'u. Sanya wannan a cikin shirin BPCR don tabbatar da kyakkyawar kulawa."
+          },
+          {
+            "id": 8,
+            "title": "Sanin Masu Tallafawa",
+            "topic_img": "https://img.freepik.com/free-photo/helping-hand-colleagues-climbing-up-mountain_1150-15361.jpg?t=st=1717527191~exp=1717530791~hmac=6dd716d9ae030ef3372ae537e926bce272e22331b7ef929536d05b9ed58c1c66&w=740",
+            "description": "Sanin waɗanda za su taimaka a lokacin haihuwa ko lokacin da ake bukatar gaggawa.",
+            "content": "A matsayin wani bangare na BPCR, sanin waɗanda za su taimaka yayin haihuwa ko lokacin da ake bukatar gaggawa yana da matukar muhimmanci wajen tabbatar da tsaron uwa da jariri. Tabbatar da cewa an shirya ƙungiyar masu tallafawa waɗanda za su taimaka a lokacin haihuwa ko lokacin gaggawa. Sanin waɗanda za su kasance tare da ku a lokacin haihuwa, waɗanda za su kula da yaro yayin da kuke tafiya asibiti, da waɗanda za su ba da tallafi a cikin dare. Yi nazarin alakar da suke da ita da kuma ikon su na taimaka a lokacin gaggawa. Sanya wannan a cikin shirin BPCR don tabbatar da kyakkyawar kulawa."
+          },
+          {
+            "id": 9,
+            "title": "Sanin Asibiti",
+            "topic_img": "https://img.freepik.com/free-photo/front-view-male-delivering-some-places-getting-ready-travel-backpack_140725-18419.jpg?t=st=1717527276~exp=1717530876~hmac=f69e5d1239dd3aa162abca3bca88cbf9c8b3d24b3a5be153d5976629e050c6b1&w=740",
+            "description": "Sanin asibitin da aka zaɓa da kuma yadda za a shiga don neman kulawa a lokacin gaggawa.",
+            "content": "A matsayin wani bangare na BPCR, sanin asibitin da aka zaɓa da kuma yadda za a shiga don neman kulawa a lokacin gaggawa yana da matukar muhimmanci wajen tabbatar da tsaron uwa da jariri. Tabbatar da cewa kun san hanyar da za ku bi zuwa asibiti, lokacin da ya kamata ku tafi, da kuma yadda za a isa asibiti a cikin gaggawa. Shirya hanyoyin da za a bi don samun taimakon gaggawa da kuma yadda za a yi amfani da motar asibiti a lokacin da ake bukatar gaggawa. Yi la'akari da nisan da asibitin yake da kuma hanya zuwa gare shi, musamman idan yana da mahimmanci ku kasance a wurin cikin dare."
+          },
+          {
+            "id": 10,
+            "title": "Tsare-tsaren Matsaloli",
+            "topic_img": "https://img.freepik.com/free-photo/beautiful-black-nurse-portrait_23-2149666021.jpg?t=st=1717523390~exp=1717526990~hmac=3a5c9cf24594784b151162207f7e6c43710e39397ef254312594f5168c64f270&w=740",
+            "description": "Shirya tsare-tsaren don matsaloli da ke iya faruwa a lokacin haihuwa ko bayan haihuwa.",
+            "content": "A matsayin wani bangare na BPCR, shirya tsare-tsaren don matsaloli da ke iya faruwa a lokacin haihuwa ko bayan haihuwa yana da matukar muhimmanci wajen tabbatar da tsaron uwa da jariri. Shirya tsare-tsaren don yin tafiye-tafiye zuwa asibiti, magance matsaloli da ke iya faruwa, da kuma yadda za a sarrafa yanayi na gaggawa. Shirya hanyoyin da za a bi don neman taimakon gaggawa da kuma yadda za a yi amfani da motar asibiti a lokacin da ake bukatar gaggawa. Yi la'akari da yanayin hanyar da rashin lafiya na uwa. Tabbatar da cewa kuna da isassun matakan tsaro don magance yanayi na gaggawa a lokacin haihuwa ko bayan haihuwa."
           }
         ]
       }
     },
     {
       "id": 2,
-      "title": "Alamomin Hadari a Lokacin Juna Biyu da Lokacin Haihuwa",
+      "title": "Alamomin Hatsari a Cikin Juna Biyu da Lokacin Haihuwa",
       "topic_img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-infertility-illustration_23-2149379493.jpg?t=st=1717344443~exp=1717348043~hmac=e32cdcd73c7cb7cae072e2078775740fff5046cb5b42e7732605d0299a830f3f&w=740",
-      "description": "Koyi game da mahimman alamomin hadari a lokacin juna biyu da lokacin nakuda da kowace uwa mai juna biyu ya kamata ta gane don tabbatar da samun kulawar likita akan lokaci.",
+      "description": "Koyi game da manyan alamomin hatsari da ke faruwa a cikin juna biyu da lokacin haihuwa da kowace uwa mai ciki ya kamata ta san su don samun taimakon likita a lokacin da ya dace.",
       "content": {
-        "intro": "Gano alamomin hadari tun da wuri na iya canza komai. Sanin abin da za a kula da shi yana tabbatar da samun taimakon da kuke bukata ba tare da jinkiri ba.",
+        "intro": "Gane alamomin hatsari da wuri na iya bambanta rayuwa. Sanin abin da za a duba yana tabbatar da samun taimako ba tare da bata lokaci ba.",
         "details": [
-          "Jini daga farji",
-          "Maimaituwar amai",
-          "Ciwon hanta (Jaundice)",
-          "Wahalar numfashi",
-          "Zazzaɓi",
-          "Matsanancin ciwon ciki",
-          "Kumburin hannu da fuska",
-          "Matsanancin ciwon kai ko ganin nesa da kyau",
-          "Rawar jiki ko suma",
-          "Maimaituwar ciwon ƙananan ciki",
-          "Fashewar membran kafin lokaci ko wari mara dadi daga farji",
-          "Raguwar motsin ɗan ciki ko rashin motsi"
+          "Alamomin hatsari yayin ciki:",
+          "1. Ciwon Mara Mai Tsanani Ko Yiwan Kunkuru: Zai iya nuna yanayi kamar ciki na waje, zubar jini, haihuwar gaggawa, ko cirewar gado daga mahaifa.",
+          "2. Zubar Jini Mai Yawa Daga Farji: Zai iya zama alamar zubar jini, cirewar gado daga mahaifa, ko gado na gaban mahaifa.",
+          "3. Ciwon Kai Mai Tsanani: Ciwon kai mai ci gaba da tsanani na iya zama alamar matsalar jini ko wasu matsalolin kwakwalwa.",
+          "4. Ganin Duhu Ko Matsalolin Idanu: Ganin duhu, ganin tabo ko walƙiya na iya zama alamar matsalar jini.",
+          "5. Kumburin Hannaye, Fuska, Ko Idanu: Kumburin da ya fito kwatsam ko mai tsanani na iya nuna matsalar jini musamman idan yana tare da hawan jini.",
+          "6. Raguwar Motsi Na Jariri: Raguwar motsi na jariri na iya nuna wahalar jariri ko wasu matsaloli.",
+          "7. Zazzabi Mai Tsanani (Sama da 100.4°F ko 38°C): Zazzabi mai tsanani na iya zama alamar cuta da zai iya cutar da uwa da jariri.",
+          "8. Ciwon Fitar Fitsari Ko Ƙonawa: Zai iya nuna cutar fitsari ko wasu cututtuka da ke bukatar magani.",
+          "9. Tashin Zuciya Mai Tsanani: Tashin zuciya mai tsanani ko mai ci gaba na iya haifar da rashin ruwa da rashin abinci mai gina jiki wanda zai iya cutar da jariri.",
+          "10. Numfashi Mai Wahala Ko Rashin Numfashi: Rashin numfashi da ba a bayyana ba na iya zama alamar matsaloli masu tsanani kamar cushewar huhu.",
+          "11. Dizzy Ko Zubewar Numfashi: Wannan na iya nuna matsalar jini mai tsanani, rashin sugar a jiki, rashin ruwa, ko wasu matsalolin da ke ciki.",
+          "12. Ciwon Baya Mai Tsanani: Ciwon baya mai tsanani ko mai ci gaba na iya zama alamar haihuwa ta wuri, cutar koda, ko wasu matsalolin.",
+          "13. Karin Nauyi Mai Yawa: Karin nauyi mai yawa, musamman idan yana tare da kumburi, na iya nuna matsalar jini.",
+          "14. Fitar Ruwa Daga Farji: Na iya nuna fashewar gado kafin lokaci (PROM) da haɗarin haihuwa na wuri.",
+          "15. Itching Mai Tsanani: Itching mai tsanani musamman a hannaye da ƙafafu na iya zama alamar matsalar hanta a ciki.",
+
+          "Alamomin hatsari lokacin haihuwa:",
+          "1. Haihuwa Mai Tsawo: Haihuwa da ta wuce sa'o'i 20 ga mace mai haihuwar farko, ko sa'o'i 14 ga wacce ta taba haihuwa a baya. Wannan na iya haifar da gajiya, haɗarin kamuwa da cuta, da kuma wahalar jariri.",
+          "2. Bugun Zuciyar Jariri Na Da Ba Daidai Ba: Bugun zuciya mai yawa (tachycardia) ko mai ƙasa (bradycardia). Wannan yana nuna wahalar jariri wanda zai iya buƙatar taimakon gaggawa.",
+          "3. Zubar Jini Mai Tsanani: Zubar jini mai yawa wanda ke cika fiye da wani pad guda cikin sa'a ko duk wani jini da ke tare da ciwo. Wannan na iya nuna cirewar gado daga mahaifa ko wasu matsaloli masu tsanani.",
+          "4. Fitowar Ƙwai Da Kafin Jariri: Zoben ƙwai ya faɗi cikin farji kafin jariri ya fito. Wannan na iya katsewar iskar jariri wanda zai buƙaci haihuwa ta gaggawa.",
+          "5. Rashin Ci gaba a Ciki: Mahaifa ba ta ci gaba da buɗewa ko haihuwa ta tsaya duk da ƙarfin ƙunturi. Wannan na iya buƙatar taimako kamar haɓakar ciki ko yin tiyata.",
+          "6. Ciwon Baya Mai Tsanani: Ciwon baya mai tsanani wanda ba ya sauka tare da ƙunturi. Wannan na iya nuna jaririn da ke cikin matsala ko wasu matsaloli.",
+          "7. Hawan Jinin Uwa: Lissafin hawan jini mai yawa na sama da 140/90 mm Hg. Wannan na iya nuna matsalar jini da ke buƙatar kulawa da gaggawa.",
+          "8. Ciwon Kai Mai Tsanani Ko Canjin Gani: Ciwon kai mai ci gaba da tsanani, ganin duhu, ko ganin tabo. Alamomin matsalar jini ko wasu matsalolin kwakwalwa.",
+          "9. Alamomin Cuta: Zazzabi (sama da 100.4°F ko 38°C), ƙanƙara, ko wari daga farji. Yana nuna cuta da ke buƙatar kulawa da gaggawa don hana matsaloli ga uwa da jariri.",
+          "10. Raguwar Motsi Na Jariri: Ragewar motsi na jariri na iya nuna wahalar jariri kuma yana buƙatar bincike na gaggawa.",
+          "11. Ruwa Mai Launin Kore Ko Brown: Ruwa daga ciki wanda ke da launin kore ko brown (meconium-stained). Yana nuna cewa jariri ya fitar da kashi kafin haihuwa wanda zai iya haifar da matsalolin numfashi idan an shaƙa.",
+          "12. Ciwon Mara Mai Tsanani: Ciwon mara mai tsanani da ba ya haɗuwa da ƙunturi. Wannan na iya nuna fashewar mahaifa ko wasu matsaloli masu tsanani.",
+          "13. Rashin Farkawa Ko Dizzy Mai Tsanani: Zubewar hankali ko dizzy mai tsanani. Wannan na iya nuna babban zubar jini, rashin ruwa, ko wasu yanayi masu tsanani.",
+          "14. Numfashi Mai Wahala: Wahalar numfashi ko rashin numfashi da ba ya da alaƙa da ƙoƙarin jiki. Wannan na iya zama alamar cushewar jini ko wasu matsalolin da ke buƙatar taimako da gaggawa."
         ],
         "subtopics": []
       }
     },
     {
       "id": 3,
-      "title": "Canje-canje na Rayuwa",
+      "title": "Hanyoyin Canjin Rayuwa",
       "topic_img": "https://img.freepik.com/free-vector/flat-about-me-concept-with-hobbies-interests_23-2148886062.jpg?t=st=1717344540~exp=1717348140~hmac=8c9bf91a1829c56b1f1674beda99f3c315c58dc279b56776d66aa97eefc8ea18&w=740",
-      "description": "Bincika ingantattun hanyoyin canjin rayuwa, ciki har da lura da kai, saita manufofi, da tallafi daga al'umma, domin tabbatar da lafiya cikin ciki da kuma haihuwa cikin nasara.",
+      "description": "Bincika hanyoyin canjin rayuwa masu inganci, ciki har da sa ido na kai, saita burin, da tallafin zamantakewa, don tabbatar da lafiya yayin ciki da kuma tsaron haihuwa.",
       "content": {
-        "intro": "Karɓar canjin rayuwa mai kyau na iya inganta kwarewar cikin ciki sosai kuma ya shirya ka don haihuwa. Bari mu nutsa cikin wasu matakan da za a iya aiwatarwa.",
+        "intro": "Amfani da canje-canje na rayuwa masu kyau zai iya inganta kwarewar jikinka sosai kuma ya shirya ka don haihuwa. Mu bincika wasu hanyoyin da za su iya amfani.",
         "details": [
-          "Lura da kai da bibiyar ci gaba na iya taimaka maka wajen kula da lafiyarka.",
-          "Gudanar da yanayi yana nufin ƙirƙirar yanayin tallafi da ke haifar da zaɓuɓɓukan lafiya.",
-          "Saita manufofi yana taimaka maka mai da hankali kan takamaiman manufofi, masu iya cimmawa don lafiyayyen ciki.",
-          "Tallafi daga iyali, abokai, da masu ba da lafiya na iya ƙara ƙwazo da amincewa da kanka.",
-          "Sanya canje-canje masu kyau da dabarun magance matsaloli don shawo kan ƙalubale suna da mahimmanci ga nasara."
+          "Sa ido na kai da bin ci gaba na iya taimaka maka wajen kula da lafiyarka.",
+          "Kulawa da yanayi yana nufin ƙirƙirar yanayi mai tallafi wanda ke ƙarfafa zaɓuɓɓukan lafiya.",
+          "Saita burin yana taimaka maka wajen mai da hankali kan abubuwan da za a iya cimmawa don samun ciki lafiya.",
+          "Tallafin zamantakewa daga dangi, abokai, da masu kula da lafiya na iya karfafa ƙwazo da amincewa.",
+          "Taimaka wajen ƙarfafa canje-canjen da suka yi kyau da dabarun warware matsaloli don shawo kan ƙalubale yana da muhimmanci ga nasara."
         ],
         "subtopics": [
           {
             "id": 7,
             "title": "Ƙirƙirar Tsarin Haihuwa",
             "topic_img": "https://img.freepik.com/free-photo/top-view-busy-dark-skinned-woman-writes-down-records-notebook-from-book_273609-44310.jpg?t=st=1717523629~exp=1717527229~hmac=a186798a965888061d41dbcbaff609111343c03c9a8eb5a7f32db46d988d9ffa&w=826",
-            "description": "Tsarin haihuwa yana taimaka maka ka shirya don haihuwa ta yau da kullum da kuma matsalolin da ka iya tasowa. Yi aiki tare da mai ba da lafiya don ƙirƙira da kuma sabunta tsarin.",
-            "content": "Tsarin haihuwa yana taimaka maka ka shirya don haihuwa ta yau da kullum da kuma matsalolin da ka iya tasowa. Yi aiki tare da mai ba da lafiya don ƙirƙira da kuma sabunta tsarin. Wannan tsari ne da mace da iyali suka yi tare da taimakon ƙwararrun likitoci. A duba tsarin a duk lokacin ziyarar don tabbatar da cewa yana sabunta da dacewa."
+            "description": "Tsarin haihuwa yana taimaka maka wajen shirya wa haihuwa ta al'ada da yiwuwar matsaloli. Yi aiki tare da mai kula da lafiya don ƙirƙirar da sabunta tsarin ka akai-akai.",
+            "content": "Tsarin haihuwa yana taimaka maka wajen shirya wa haihuwa ta al'ada da yiwuwar matsaloli. Yi aiki tare da mai kula da lafiya don ƙirƙirar da sabunta tsarin ka akai-akai. Wannan tsari ne da mata da dangi ke yi a gaba, tare da taimakon mai kula da lafiya. Tsarin ya kamata a duba ko a gyara a kowane ziyara don tabbatar da cewa yana cikin sabuntawa da dacewa."
           },
           {
             "id": 8,
-            "title": "Gano Alamu Masu haɗari Cikin ciki da Haihuwa",
+            "title": "Gane Alamomin Hatsari a Ciki da Lokacin Haihuwa",
             "topic_img": "https://img.freepik.com/free-photo/black-pregnant-women-posing_23-2151446148.jpg?t=st=1717523768~exp=1717527368~hmac=4962ef018e835fd114595285a8a98164a56a1abe648c451d7bcc1624548e8fbc&w=996",
-            "description": "Sanin alamu masu haɗari cikin ciki da haihuwa, kamar ciwon mara mai tsanani ko zubar jini daga farji, yana da matuƙar muhimmanci. Neman taimakon likita cikin gaggawa na iya ceton rayuwa.",
-            "content": "Mata masu ciki ya kamata su san yadda za su gane alamu masu haɗari cikin ciki da haihuwa. Waɗannan sun haɗa da: zubar jini daga farji, amai mai tsanani, ciwon hanta, wahalar numfashi, zazzabi, ciwon mara mai tsanani, kumburin hannuwa da fuska, ciwon kai mai tsanani/kifewar gani, ƙanƙancewa ko rashin sani, ciwon mara na ƙasa mai tsanani, fashewar kwararo kafin lokaci ko wari mara kyau daga farji, da rashin motsin jariri."
+            "description": "Sanin alamomin hatsari a ciki da lokacin haihuwa, kamar ciwon ciki mai tsanani ko zubar da jini, yana da muhimmanci. Neman taimakon likita da wuri na iya ceton rayuka.",
+            "content": "Matan da ke dauke da ciki ya kamata su san yadda za su gane alamomin hatsari a ciki da lokacin haihuwa. Wadannan sun haɗa da zubar da jini daga cikin farji, amai mai tsanani, jaundice, wahalar numfashi, zazzabi, ciwon ciki mai tsanani, kumburi a hannaye da fuska, ciwon kai/duhu na gani, kwanciyar hankali/ɓacin rai, ciwon ciki na kasa da kasa, yanke ruwa ko warin farji, da kuma raguwar ko rasa motsin jariri."
           },
           {
             "id": 9,
             "title": "Sufuri",
             "topic_img": "https://img.freepik.com/free-vector/delivery-point-abstract-concept-illustration_335657-3937.jpg?t=st=1717523856~exp=1717527456~hmac=5796d300d8e495d2c2efed4c36510033aba79ad3378916aec814f19ca026fe64&w=740",
-            "description": "Tabbatar da cewa kana da kwararan tsare-tsare na sufuri don lokacin da haihuwa ta taso ko kuma idan akwai gaggawa, musamman a lokutan da ba na aiki ba.",
-            "content": "Tabbatar da tsare-tsare na sufuri masu kyau, masu inganci, kuma masu sauƙin samu, musamman don lokutan da ba na aiki ba, don kai mata masu ciki zuwa asibiti lokacin da haihuwa ta taso ko idan akwai matsala."
+            "description": "Tabbatar da cewa kuna da tsare-tsaren sufuri masu dogaro don lokacin da haihuwa ta fara ko a cikin yanayin gaggawa, musamman a lokacin da ba a saba.",
+            "content": "Tabbatar da hanyoyin sufuri masu inganci, na dogaro, da samun dama, musamman a lokacin da ba a saba, don kai mata masu juna biyu zuwa wurin kiwon lafiya lokacin haihuwa ko a lokacin samun matsaloli."
           },
           {
             "id": 10,
             "title": "Kudi",
             "topic_img": "https://img.freepik.com/free-photo/hand-putting-mix-coins-seed-clear-bottle-copyspace-business-investment-growth-concept_1423-104.jpg?t=st=1717523896~exp=1717527496~hmac=780acbba6327a17b9b1545ee2ed17faeb2e6c376777ae1073862440a5c1d3058&w=826",
-            "description": "Tabbatar da samun kudi a shirye don biyan kuɗaɗen haihuwa na yau da kullum da na gaggawa. Yi la'akari da ajiyar kuɗi, kuɗin gaggawa, da tsarin rance na al'umma.",
-            "content": "Tabbatar da samun kuɗi daga: ajiyar kuɗi, kuɗin gaggawa, da tsarin rance na al'umma don biyan kuɗaɗen haihuwa na yau da kullum da na gaggawa."
+            "description": "Samun kudi a hannu don kudaden haihuwa na yau da kullum da kuma gaggawa. Yi la'akari da ajiyar kudi na kashin kai, kudaden gaggawa, da tsare-tsaren aro na al'umma.",
+            "content": "Tabbatar da samun kudi daga: ajiyar kudi na kashin kai, kudaden gaggawa, tsare-tsaren aro na al'umma, da sauran hanyoyin samun kudi a lokacin bukatar kulawa na gaggawa ko wasu bukatu."
           },
           {
             "id": 11,
-            "title": "Mai Yanke Shawara",
+            "title": "Yanke Shawara",
             "topic_img": "https://img.freepik.com/premium-photo/composite-image-business-people-playing-chess-against-white-background-with-vignette_1134-81973.jpg?w=826",
-            "description": "Zaɓi mutumin da zai yanke mahimman shawarwari yayin haihuwa da lokacin gaggawa. Mai yanke shawara yana da muhimmanci don tabbatar da cewa za a yi yanke shawara cikin sauri da lafiya.",
-            "content": "Zaɓi mutumin da zai yanke mahimman shawarwari yayin haihuwa da lokacin gaggawa. Mai yanke shawara yana da muhimmanci don tabbatar da cewa za a yi yanke shawara cikin sauri da lafiya."
+            "description": "Yanke shawarar wanda zai yi muhimman shawara yayin haihuwa da kuma a cikin yanayin gaggawa. Shawara mai kyau zai iya hana jinkiri da tabbatar da kulawa a kan lokaci.",
+            "content": "Yanke shawara wanda zai yi yanke shawara, musamman a lokacin gaggawa. Samun yanke shawarar da ke da kyau zai iya hana jinkiri da tabbatar da cewa an dauki matakai daidai a kan lokaci."
           },
           {
             "id": 12,
-            "title": "Tallafin Iyali da Al'umma",
+            "title": "Tallafi daga Iyali da Al'umma",
             "topic_img": "https://img.freepik.com/premium-vector/family-reunion-isolated-cartoon-vector-illustration_107173-19436.jpg?w=740",
-            "description": "Zaɓi wanda zai kula da iyalanka yayin haihuwa da wanda zai zama abokin haihuwa. Wannan tallafi yana da mahimmanci don lafiyar hankali.",
-            "content": "Zaɓi wanda zai kula da iyalanka yayin haihuwa da wanda zai zama abokin haihuwa. Wannan tallafi yana da mahimmanci don lafiyar hankali da taimako."
+            "description": "Tsara wanda zai tallafa wa iyalinka yayin da kake cikin aiki da wanda zai zama abokin haihuwarka. Wannan tsarin tallafi yana da muhimmanci ga kwanciyar hankali naka.",
+            "content": "Yanke shawara da tsara wanda zai kula da sauran yara yayin da kake cikin aiki. Hakanan, yanke shawara kan wanda zai kasance abokin haihuwa naka. Waɗannan shawarar za su taimaka maka wajen samun kulawa ta ƙwararru a kan lokaci."
           },
           {
             "id": 13,
-            "title": "Mai Bayar da Jini",
+            "title": "Mai Ba da Jini",
             "topic_img": "https://img.freepik.com/free-vector/human-blood-donate-white-background_1308-111266.jpg?t=st=1717524097~exp=1717527697~hmac=831c4ed2235af231eee9c5956769e375c53867d6b9831d739aa33a032f4c2d86&w=740",
-            "description": "Zaɓi mai bayar da jini a gaba. Idan matsala ta taso, samun mai bayar da jini cikin gaggawa zai ceci rai.",
-            "content": "Zaɓi mai bayar da jini a gaba. Idan matsala ta taso, samun mai bayar da jini cikin gaggawa zai ceci rai."
+            "description": "Gano wanda zai iya bayar da jini a gaba. A cikin yanayin gaggawa, samun mai bayar da jini a shirye zai iya ceton rai.",
+            "content": "Tsara wanda zai bayar da jini a gare ku a lokacin gaggawa. Gano mai bayar da jini da ke da jini mai dacewa da na ku a gaba yana da mahimmanci. Wannan zai iya ceton lokaci mai daraja wajen nemo jini idan ana bukatar canji a cikin yanayin gaggawa."
           },
           {
             "id": 14,
-            "title": "Kayayyakin Bukatu",
+            "title": "Kayan Bukata",
             "topic_img": "https://img.freepik.com/free-photo/box_53876-65526.jpg?t=st=1717524141~exp=1717527741~hmac=4c0c67298aae43035b4119ff005d4a32795c71efac49fac865a000eea4638af5&w=740",
-            "description": "Shirya 'ƙit na uwa' da abubuwan da ake bukata don haihuwa mai lafiya da jin daɗi. Wannan ya haɗa da abubuwan da kake bukata kai da jaririnka.",
-            "content": "Shirya 'ƙit na uwa' da abubuwan da ake bukata don haihuwa mai lafiya da jin daɗi. Wannan ya haɗa da abubuwan da kake bukata kai da jaririnka."
+            "description": "Shirya 'mama kit' da abubuwan da ake bukata don haihuwa mai tsafta da lafiya. Wannan ya haɗa da abubuwan da za su iya amfani da su duka ku da sabon jaririnku.",
+            "content": "Ƙirƙirar abubuwa don haihuwa mai tsafta da kula da sabon jariri. Wadannan sun haɗa da fakitin haihuwa kamar yadda aka bayyana ta wurin wurin kiwon lafiya naka. Hakanan, abubuwan suna buƙatar don haihuwa da tsafta da kula da jaririn ku."
           }
         ]
       }
     }
-  ]
+  ],
+
+  "pregnancyTitle": "Kalkuleta na Ciki",
+  "pregnancyCalculatorDescription": "Kalkuleta na ƙarshe",
+  "pregnancyCalculatorText": "Don samun lafiya yayin ciki da haihuwa, yana da amfani sanin yadda tsawon lokacin ciki yake.",
+  "pregnancyCalculatorSide": "Kalkuleta na ciki kayan aiki ne mai amfani ga mata masu ciki wanda ke bayar da muhimman bayani da kuma taimaka wajen bibiyar muhimman matakai a cikin ciki. Shigar da ranar da jinin watan ku na ƙarshe ya fara. Idan ba za ku iya tuna ranar ba, tunani kan duk wani abin da ya faru a lokacin don yin mafi kyawun hasashen ranar. Idan ba za ku iya hasashen daidai ba, kalkuleta na ciki na iya rashin bayar da cikakken bayani akan tsawon lokacin ciki. Hakanan, idan lokacin tsakanin jinin watan ku yana canzawa, kalkuleta na ciki na iya rashin bayar da cikakken bayani akan tsawon lokacin ciki. Saboda haka, za ku buƙaci ziyartar masu kula da haihuwa da ƙwarewa don taimaka muku.",
+  "pregnancyInfo": "Idan kun san ranar da jinin watan ku na ƙarshe ya fara: danna ranar.",
+  "pregnancyAD": "Saita Ranar Ganawa da Ciki",
+  "pregnancyADInfo": "Saita ranar ganawa don samun tunatarwa akan ranar da za a yi",
+  "title": "Suna",
+  "titleInput": "Shigar da suna na ganawa",
+  "details": "Cikakkun Bayani",
+  "detailsInput": "Shigar da cikakkun bayanai na ganawa",
+  "saveDate": "Ajiye Ranar",
+  "weeks": "makonni",
+  "and": "da",
+  "days": "kwanaki",
+  "pregnancyEarly": "Kana cikin matakin farko na ciki: {{durationString}}.",
+  "pregnancyFirstTrimester": "Kana cikin lokacin farkon trimista na ciki: {{durationString}}.",
+  "pregnancySecondTrimester": "Kana cikin lokacin na biyu na trimista na ciki: {{durationString}}.",
+  "pregnancyThirdTrimester": "Kana cikin lokacin na uku na trimista na ciki: {{durationString}}.",
+  "pregnancyOverdue": "Kana da jinkiri: {{durationString}}."
 }

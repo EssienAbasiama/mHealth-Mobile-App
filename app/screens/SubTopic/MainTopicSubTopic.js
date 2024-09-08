@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useRoute } from "@react-navigation/native";
+import { useNavigation } from "@react-navigation/native";
 import { ITEM_WIDTH } from "../Onboarding/OnboardingCardItem";
 import { LinearGradient } from "expo-linear-gradient";
 import {
@@ -14,11 +15,13 @@ import {
   Button,
 } from "react-native";
 import { useTranslation } from "react-i18next";
+import Ionicons from "react-native-vector-icons/Ionicons";
 // import topics from "../../storage/topic";
 // import mainTopics from "../../storage/MainTopic";
 
 function MainTopicSubTopic() {
   const [topic, setTopic] = useState(null);
+  const navigation = useNavigation();
   const route = useRoute();
   const { id } = route.params;
   const { t } = useTranslation();
@@ -46,6 +49,12 @@ function MainTopicSubTopic() {
     <ScrollView contentContainerStyle={styles.scrollContainer}>
       <View style={styles.container}>
         <View style={styles.imageContainer}>
+          <TouchableOpacity
+            onPress={() => navigation.goBack()}
+            style={styles.backIcon}
+          >
+            <Ionicons name="arrow-back" size={24} color="#fff" />
+          </TouchableOpacity>
           <Image
             source={{ uri: topic.topic_img }}
             style={styles.image}
@@ -159,6 +168,12 @@ const styles = StyleSheet.create({
     paddingRight: 21,
     // textAlign: "center",
     lineHeight: 20,
+  },
+  backIcon: {
+    position: "absolute",
+    top: 30,
+    left: 20,
+    zIndex: 1,
   },
 });
 

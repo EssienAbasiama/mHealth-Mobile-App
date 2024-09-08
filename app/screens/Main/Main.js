@@ -52,7 +52,7 @@ const Main = ({
   const [searchText, setSearchText] = useState("");
 
   const navigation = useNavigation();
-  const snapPoints = useMemo(() => ["25%", "50%"], []);
+  const snapPoints = useMemo(() => ["25%", "50%", "60%"], []);
   const languageSnapPoints = useMemo(() => ["25%", "50%"], []);
   const bottomSheetRef = useRef(null);
   const bottomSheetSettingRef = useRef(null);
@@ -177,8 +177,10 @@ const Main = ({
   const handlePregNav = (id) => {
     navigation.navigate("pregnancyCalculator");
   };
+  const handlePregAppNav = (id) => {
+    navigation.navigate("pregnancyAppointment");
+  };
   const handleMainSubTopicPress = (id) => {
-    // navigation.navigate("SubTopicScreen", { id });
     navigation.navigate("SubMainTopicScreen", { id });
   };
   const handleTopicPress = (id) => {
@@ -399,8 +401,18 @@ const Main = ({
                   <TouchableOpacity onPress={handlePregNav}>
                     <View style={styles.topicContainer}>
                       <Text style={styles.topicTitle}>
-                        Pregnancy Calculator
+                        {t("pregnancyTitle")}
                       </Text>
+                      <Image
+                        source={require("../../assets/next.png")}
+                        style={{ height: 17, width: 17 }}
+                        resizeMode="cover"
+                      />
+                    </View>
+                  </TouchableOpacity>
+                  <TouchableOpacity onPress={handlePregAppNav}>
+                    <View style={styles.topicContainer}>
+                      <Text style={styles.topicTitle}>{t("pregnancyAD")}</Text>
                       <Image
                         source={require("../../assets/next.png")}
                         style={{ height: 17, width: 17 }}

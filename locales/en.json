@@ -500,5 +500,22 @@
   "pregnancyTitle": "Pregnancy Calculator",
   "pregnancyCalculatorDescription": "The ultimate calculator",
   "pregnancyCalculatorText": "For a healthy pregnancy and birth, it is helpful to know how far along the pregnancy is.",
-  "pregnancyCalculatorSide": "A pregnancy calculator is a valuable tool for pregnant women that provides essential information and helps track important milestones throughout the pregnancy. Enter the date when your last monthly bleeding started.  If you cannot remember the date, think of any events that happened around the time to make the best guess of the date. If you cannot guess right, the pregnancy calculator may not accurately tell how far your pregnancy is. Also, if the time between your monthly bleeding varies the pregnancy calculator might not tell you accurately how long the pregnancy is. Therefore, you will need to visit your skilled birth attendants to help you. If you know the date your last monthly bleeding started: click on the date."
+  "pregnancyCalculatorSide": "A pregnancy calculator is a valuable tool for pregnant women that provides essential information and helps track important milestones throughout the pregnancy. Enter the date when your last monthly bleeding started.  If you cannot remember the date, think of any events that happened around the time to make the best guess of the date. If you cannot guess right, the pregnancy calculator may not accurately tell how far your pregnancy is. Also, if the time between your monthly bleeding varies the pregnancy calculator might not tell you accurately how long the pregnancy is. Therefore, you will need to visit your skilled birth attendants to help you. ",
+  "pregnancyInfo": "If you know the date your last monthly bleeding started: click on the date.",
+  "pregnancyAD": "Set Pregnancy Appointment Date",
+  "pregnancyADInfo": "Set an appointment date to receive a reminder on the due date",
+  "title": "Title",
+  "titleInput": "Enter appointment title",
+  "details": "Details",
+  "detailsInput": "Enter appointment details",
+  "saveDate": "Save Date",
+
+  "weeks": "weeks",
+  "and": "and",
+  "days": "days",
+  "pregnancyEarly": "You are in the early stages of pregnancy: {{durationString}}.",
+  "pregnancyFirstTrimester": "You are in the first trimester of pregnancy: {{durationString}}.",
+  "pregnancySecondTrimester": "You are in the second trimester of pregnancy: {{durationString}}.",
+  "pregnancyThirdTrimester": "You are in the third trimester of pregnancy: {{durationString}}.",
+  "pregnancyOverdue": "You are overdue: {{durationString}}."
 }

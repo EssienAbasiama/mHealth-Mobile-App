@@ -10,8 +10,8 @@ import {
 import { Calendar } from "react-native-calendars";
 import moment from "moment";
 import { useTranslation } from "react-i18next";
-import { SafeAreaView } from "react-native-safe-area-context";
 import { useNavigation } from "@react-navigation/native";
+import Ionicons from "react-native-vector-icons/Ionicons";
 import { LinearGradient } from "expo-linear-gradient";
 
 const PregHome = () => {
@@ -39,19 +39,21 @@ const PregHome = () => {
     const duration = moment.duration(today.diff(lastPeriodDate));
     const weeks = Math.floor(duration.asWeeks());
     const days = Math.floor(duration.asDays() % 7);
-    const durationString = `${weeks} weeks and ${days} days`;
+    const durationString = `${weeks} ${t("weeks")} ${t("and")} ${days} ${t(
+      "days"
+    )}`;
 
     let info = "";
     if (weeks < 5) {
-      info = `It is too soon to know for sure if you are pregnant. It has been ${durationString} since the last period.`;
+      info = t("pregnancyEarly", { durationString });
     } else if (weeks < 14) {
-      info = `This is the first trimester of pregnancy. You are ${durationString} pregnant.`;
+      info = t("pregnancyFirstTrimester", { durationString });
     } else if (weeks < 27) {
-      info = `This is the second trimester of pregnancy. You are ${durationString} pregnant.`;
+      info = t("pregnancySecondTrimester", { durationString });
     } else if (weeks <= 40) {
-      info = `This is the third trimester of pregnancy. You are ${durationString} pregnant.`;
+      info = t("pregnancyThirdTrimester", { durationString });
     } else {
-      info = `Are you sure you entered the right date? 40 weeks is a full-term pregnancy and this says you're ${durationString} pregnant.`;
+      info = t("pregnancyOverdue", { durationString });
     }
 
     setPregnancyInfo(info);
@@ -62,6 +64,12 @@ const PregHome = () => {
     <ScrollView contentContainerStyle={styles.scrollContainer}>
       <View style={styles.container}>
         <View style={styles.imageContainer}>
+          <TouchableOpacity
+            onPress={() => navigation.goBack()}
+            style={styles.backIcon}
+          >
+            <Ionicons name="arrow-back" size={24} color="#fff" />
+          </TouchableOpacity>
           <Image
             source={{
               uri: "https://img.freepik.com/free-photo/black-pregnant-women-posing_23-2151446148.jpg?t=st=1716894103~exp=1716897703~hmac=8e7ee396bb40d9e89d0f0523e4eb3d4933eb4b552f0bfc1ce9ca8bee6cbe2c98&w=996",
@@ -80,7 +88,7 @@ const PregHome = () => {
         <View style={styles.containerDetails}>
           <Text style={styles.body}>{t("pregnancyCalculatorSide")}</Text>
         </View>
-
+        <Text style={styles.info}>{t("pregnancyInfo")}</Text>
         <Calendar
           onDayPress={handleDatePress}
           markedDates={{
@@ -235,6 +243,13 @@ const styles = StyleSheet.create({
     paddingRight: 21,
     lineHeight: 20,
   },
+  info: {
+    fontSize: 14,
+    paddingLeft: 21,
+    paddingRight: 21,
+    lineHeight: 20,
+    fontWeight: "700",
+  },
   disabledDay: {
     opacity: 0.5,
   },
@@ -243,5 +258,11 @@ const styles = StyleSheet.create({
   },
   enabledDayText: {
     color: "#000",
+  },
+  backIcon: {
+    position: "absolute",
+    top: 30,
+    left: 20,
+    zIndex: 1,
   },
 });

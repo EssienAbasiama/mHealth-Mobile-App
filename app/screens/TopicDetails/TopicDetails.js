@@ -16,6 +16,7 @@ import {
 } from "react-native";
 import PropTypes from "prop-types";
 import { useTranslation } from "react-i18next";
+import Ionicons from "react-native-vector-icons/Ionicons";
 // import topics from "../../storage/topic";
 
 function TopicDetails() {
@@ -47,6 +48,12 @@ function TopicDetails() {
     <ScrollView contentContainerStyle={styles.scrollContainer}>
       <View style={styles.container}>
         <View style={styles.imageContainer}>
+          <TouchableOpacity
+            onPress={() => navigation.goBack()}
+            style={styles.backIcon}
+          >
+            <Ionicons name="arrow-back" size={24} color="#fff" />
+          </TouchableOpacity>
           <Image
             source={{ uri: topic.topic_img }}
             style={styles.image}
@@ -132,6 +139,12 @@ const styles = StyleSheet.create({
     color: "white",
     fontSize: 14,
     textAlign: "center",
+  },
+  backIcon: {
+    position: "absolute",
+    top: 30,
+    left: 20,
+    zIndex: 1,
   },
   topicTitle: {
     fontWeight: "400",
